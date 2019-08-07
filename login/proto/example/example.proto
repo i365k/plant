@@ -1,0 +1,331 @@
+syntax = "proto3";
+
+package go.micro.srv.login;
+
+service Example {
+    rpc Login (LoginRequest) returns (LoginResponse) {
+    }
+    rpc Config (ConfigRequest) returns (ConfigResponse) {
+    }
+}
+
+//login的参数
+message LoginRequest {
+    bytes data = 1;
+}
+
+message LoginResponse {
+    string skey = 1;
+    string Errno = 2;
+    string Errmsg = 3;
+}
+
+//Config方法的参数
+message ConfigRequest {
+    string skey = 1;
+}
+
+message ConfigResponse {
+    bytes datalist = 1;
+    config configlist = 2;
+    string Errno = 3;
+    string Errmsg = 4;
+}
+
+
+
+//##################################################################
+
+//config数据格式
+message config {
+    //场景属性表
+    repeated SceneData SceneDatalist = 1;
+    //各场景地块的开启金币数
+    repeated MassifData MassifDatalist = 2;
+    //农作物属性表
+    repeated crops cropslist = 3;
+    //全部收益数据
+    repeated AllProceeds AllProceedslist = 4;
+    //金币强化表
+    repeated GoldEnhancementData GoldEnhancementDatalist = 5;
+    //现金强化表
+    repeated MoneyEnhancementData MoneyEnhancementDatalist = 6;
+    //钻石强化表
+    repeated DiamondEnhancementData DiamondEnhancementDatalist = 7;
+    //植物碎片表
+    repeated PlantDebris PlantDebrislist = 8;
+    //邀请新人数值表
+    repeated NewPeople NewPeoplelist = 9;
+    //每日签到数值表
+    repeated SignIn SignInlist = 10;
+    //好友助理数值表
+    repeated FriendHelp FriendHelplist = 11;
+    //罐子可抽取数值表
+    repeated PotFragments PotFragmentslist = 12;
+    //道具表
+    repeated Prop Proplist = 13;
+    //随机道具表
+    repeated RandomProp RandomProplist = 14;
+    //抽奖数值表
+    repeated LuckDraw LuckDrawlist = 15;
+    //抽罐子价格表
+    repeated PotPrice PotPricelist = 16;
+    //成就数值表
+    repeated Achievement Achievementlist = 17;
+    //收割后产出倍数区间表
+    repeated Section Sectionlist = 18;
+    //金币自动生存
+    repeated AutoGold AutoGoldlist = 19;
+    //收割皮肤表
+    repeated HarvestSkin Harvestlist = 20;
+    //灯皮肤表
+    repeated Lamp Lamplist = 21;
+}
+
+//数据库数据格式
+//场景属性表
+message SceneData {
+    string ID = 1;
+    string SceneCode = 2;
+    string Name = 3;
+    string OutputAddition = 4;
+    string Permanent = 5;
+    string TimeLimit = 6;
+    string PriceDiamonds = 7;
+    string SmallUrl = 8;
+    string MaxUrl = 9;
+}
+
+//各场景地块的开启金币数
+message MassifData {
+    string Id = 1;
+    string SceneCode = 2;
+    string OnePrice = 3;
+    string TwoPrice = 4;
+    string ThreePrice = 5;
+    string FourPrice = 6;
+    string FivePrice = 7;
+    string SixPrice = 8;
+    string SevenPrice = 9;
+    string EightPrice = 10;
+    string NinePrice = 11;
+}
+
+//农作物属性表
+message crops {
+    string Id = 1;
+    string Name = 2;
+    string CropCode = 3;
+    string DefaultUnlock = 4;
+    string Subordinate = 5;
+    string CommonlyYield = 6;
+    string GreenYield = 7;
+    string BlueYield = 8;
+    string VioletYield = 9;
+    string OrangeYield = 10;
+    string BasicProductionTime = 11;
+    string LimitProductionTime = 12;
+    string RegistrationRequiredPromotion = 13;
+    string StageLiftingSpeed = 14;
+    string UpgradeBaseGold = 15;
+    string ExhibitionUrl = 16;
+    string DynamicUrl = 17;
+}
+
+//全部收益数据
+message AllProceeds {
+    string Id = 1;
+    string Code = 2;
+    string ProceedsMultiple = 3;
+    string Consume = 4;
+    string ArtsUrl = 5;
+}
+
+//金币强化表
+message GoldEnhancementData {
+    string Id = 1;
+    string MassifCode = 2;
+    string Level = 3;
+    string EarningsMultiplier = 4;
+    string IntensiveConsumption = 5;
+    string AutomatedProductionConsumption = 6;
+    string ArtsUrl = 7;
+}
+
+//现金强化表
+message MoneyEnhancementData {
+    string Id = 1;
+    string Level = 2; //等级
+    string EarningsMultiplier = 3; //收益倍数
+    string IntensiveConsumption = 4; //强化消耗
+    string ArtsUrl = 5; //美术资源
+}
+
+//钻石强化表
+message DiamondEnhancementData {
+    string Id = 1;
+    string EarningsMultiplier = 2; //增加全部产出倍数
+    string ImmediateRevenue = 3; //立即收益
+    string IntensiveConsumption = 4; //强化消耗
+    string ArtsUrl = 5; //美术资源
+    string AttributeClass = 6;
+}
+
+//植物碎片表
+message PlantDebris {
+    string Id = 1;
+    string PlantName = 2; //植物名称
+    string PlantCode = 3; //植物id
+    string PlantLevel = 4; //植物品阶
+    string FragmentCode = 5; //碎片id
+}
+
+//邀请新人数值表
+message NewPeople {
+    string Id = 1;
+    string Number = 2; //邀请新人数
+    string RewardCode = 3; //奖励id
+    string RewardNumber = 4; //奖励数量
+}
+
+//每日签到数值表
+message SignIn {
+    string Id = 1;
+    string Days = 2; //天数
+    string RewardCode = 3; //奖励id
+    string RewardNumber = 4; //奖励数量
+}
+
+//好友助理数值表
+message FriendHelp {
+    string Id = 1;
+    string PeopleNumber = 2; //需要邀请人数
+    string Reward1Code = 3; //奖励1id
+    string Reward1Number = 4; //奖励1数量
+    string Reward2Code = 5; //奖励2id
+    string Reward2Number = 6; //奖励2数量
+    string Reward3Code = 7; //奖励3id
+    string Reward3Number = 8; //奖励3数量
+}
+
+//罐子可抽取数值表
+message PotFragments {
+    string Id = 1;
+    string PlantName = 2;
+    string PlantCode = 3; //植物id
+    string PlantLevel = 4; //植物品阶
+    string FragmentCode = 5; //碎片id
+}
+
+//道具表
+message Prop {
+    string Id = 1;
+    string PropCode = 2; //道具id
+    string PropName = 3; //道具名字
+    string Introduce = 4; //介绍
+}
+
+//随机道具表
+message RandomProp {
+    string Id = 1;
+    string PropCode = 2; //道具id
+    string PropName = 3; //道具名字
+    string Reward1 = 4; //奖励1
+    string Reward1Max = 5; //奖励1最大值
+    string Reward1Small = 6; //奖励1最小值
+    string Reward2 = 7; //奖励2
+    string Reward2Max = 8; //奖励2最大值
+    string Reward2Small = 9; //奖励2最小值
+    string Reward3 = 10; //奖励2
+    string OutputTime = 11; //当前金币产出量时间
+}
+
+//抽奖数值表
+message LuckDraw {
+    string Id = 1;
+    string PlantCode = 2; //植物id
+    string PlantNumber = 3; //奖励数量
+    string Probability = 4; //几率
+    string PropName = 5; //道具名字
+}
+
+//抽罐子价格表
+message PotPrice {
+    string Id = 1;
+    string PotCode = 2; //罐子id
+    string PotName = 3; //罐子名字
+    string CurrencyCode = 4; //货币id
+    string CurrencyNumbe = 5; //花费数量
+    string FreeTime = 6; //免费机会时间（h）
+    string LuckDrawCode = 7; //抽奖类型
+}
+
+//成就数值表
+message Achievement {
+    string Id = 1;
+    string UserLevel = 2; //用户等级
+    string TitleCode = 3; //称号奖励id
+    string TitlName = 4; //称号名字
+    string CumulativeDiam = 5; //累计拥有钻石数
+    string CumulativeGold = 6; //累计拥有金币数
+    string CumulativeMone = 7; //累计拥有现金数
+    string HarvestTimes = 8; //累计首歌次数
+    string Reward1Code = 9; //奖励1id
+    string Reward1Number = 10; //奖励1数量
+    string Reward2Code = 11; //奖励2id
+    string Reward2Number = 12; //奖励2数量
+    string Reward3Code = 13; //奖励3id
+    string Reward3Number = 14; //奖励4数量
+    string Url = 15; //美术资源
+    string Promote = 16; //产出倍数永久提升
+    string D1 = 17; //地块1
+    string D2 = 18; //地块2
+    string D3 = 19; //地块3
+    string D4 = 20; //地块4
+    string D5 = 21; //地块5
+    string D6 = 22; //地块6
+    string D7 = 23; //地块7
+    string D8 = 24; //地块8
+    string D9 = 25; //地块9
+}
+
+//收割后产出倍数区间表
+message Section {
+    string Id = 1;
+    string SmallGold = 2; //最小现金
+    string MaxGold = 3; //最大现金
+    string Multiple = 4; //产出倍数
+}
+
+//金币自动生存
+message AutoGold {
+    string Id = 1;
+    string SceneCode = 2; //地块id
+    string Auto = 3; //自动生存初始状态
+    string AutoConsume = 4; //自动生存金币消耗
+    string Url = 5; //美术资源
+}
+
+//收割皮肤表
+message HarvestSkin {
+    string Id = 1;
+    string CarSkin = 2; //汽车皮肤
+    string CarName = 3; //汽车名词
+    string CarProduce = 4; //汽车产出
+    string Permanent = 5; //是否永久
+    string CarTime = 6; //汽车时限
+    string Price = 7; //出售价格
+    string Url = 8; //美术资源
+}
+
+//灯皮肤表
+message Lamp {
+    string Id = 1;
+    string LampSkin = 2; //灯皮肤
+    string LampName = 3; //灯名字
+    string LampAddition = 4; //灯产出加成
+    string Permanent = 5; //是否永久
+    string LampTime = 6; //灯限时
+    string Price = 7; //出售价格
+    string Url = 8; //美术资源
+}

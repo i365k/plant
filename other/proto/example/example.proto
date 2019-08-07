@@ -1,0 +1,175 @@
+syntax = "proto3";
+
+package go.micro.srv.other;
+
+service Example {
+    //拉取邀请新人列表服务
+    rpc PullNew (PullNewRequest) returns (PullNewResponse) {
+    }
+    //灯助力服务
+    rpc Lamp (LampRequest) returns (LampResponse) {
+    }
+    //获取灯助力列表服务
+    rpc Lamplest (LamplestRequest) returns (LamplestResponse) {
+    }
+    //体力卡包助力服务
+    rpc Strength (StrengthRequest) returns (StrengthResponse) {
+    }
+    //获取体力助力列表服务
+    rpc Strelest (StrelestRequest) returns (StrelestResponse) {
+    }
+    //钻石卡包助力服务
+    rpc Diamond (DiamondRequest) returns (DiamondResponse) {
+    }
+    //获取钻石助力列表服务
+    rpc Diamlest (DiamlestRequest) returns (DiamlestResponse) {
+    }
+    //获取钻石助力列表服务
+    rpc TreasureMap (TreasureMapRequest) returns (TreasureMapResponse) {
+    }
+    //获取钻石助力列表服务
+    rpc Achievement (AchievementRequest) returns (AchievementResponse) {
+    }
+}
+message Reward {
+    string code = 1;
+    string number = 2;
+
+}
+
+message AchievementRequest {
+    string skey = 1;
+    string code = 2;
+}
+
+message AchievementResponse {
+    repeated Reward reward = 1;
+    string nextNumber = 2;
+    string name = 3;
+    string conditionA = 4;
+    string conditionB = 5;
+    string Errno = 6;
+    string Errmsg = 7;
+}
+
+message Box {
+    string type = 1;
+    string number = 2;
+    string name = 3;
+}
+
+message TreasureMap {
+
+    string state = 1;
+    string type = 2;
+    string url = 3;
+    repeated Box reward = 4;
+}
+
+message TreasureMapRequest {
+    string skey = 1;
+    string iv = 2;
+    string data = 3;
+    string code = 4;
+    string shareskey = 5;
+    string url = 6;
+}
+
+message TreasureMapResponse {
+    repeated TreasureMap maplist = 1;
+    string goldtime = 2;
+    string name = 3;
+    string Errno = 4;
+    string Errmsg = 5;
+}
+
+
+message new {
+    string name = 1;
+    string url = 2;
+    string GetStatus = 3;
+}
+
+//拉取邀请新人列表服务参数
+message PullNewRequest {
+    string skey = 1;
+}
+
+message PullNewResponse {
+    repeated new newlist = 1;
+    string Errno = 2;
+    string Errmsg = 3;
+}
+
+//灯助力服务参数
+message LampRequest {
+    string skey = 1;
+    string shareskey = 2;
+    string sharetime = 3;
+}
+
+message LampResponse {
+    string Errno = 1;
+    string Errmsg = 2;
+}
+
+//获取灯助力列表服务参数
+message LamplestRequest {
+    string skey = 1;
+    string type = 2;
+}
+
+message LamplestResponse {
+    repeated new newlist = 1;
+    string Errno = 2;
+    string Errmsg = 3;
+}
+
+//体力卡包助力服务参数
+message StrengthRequest {
+    string skey = 1;
+    string shareskey = 2;
+    string sharetime = 3;
+}
+
+message StrengthResponse {
+    string Errno = 1;
+    string Errmsg = 2;
+}
+
+//获取体力助力列表服务参数
+message StrelestRequest {
+    string skey = 1;
+    string url = 2;
+}
+
+message StrelestResponse {
+    repeated new newlist = 1;
+    string Errno = 2;
+    string Errmsg = 3;
+}
+
+//钻石卡包助力服务参数
+message DiamondRequest {
+    string skey = 1;
+    string shareskey = 2;
+    string sharetime = 3;
+}
+
+message DiamondResponse {
+    string Errno = 1;
+    string Errmsg = 2;
+}
+
+//获取钻石助力列表服务参数
+message DiamlestRequest {
+    string skey = 1;
+    string url = 2;
+}
+
+message DiamlestResponse {
+    repeated new newlist = 1;
+    string Errno = 2;
+    string Errmsg = 3;
+}
+

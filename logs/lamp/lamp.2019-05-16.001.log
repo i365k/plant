@@ -1,0 +1,2491 @@
+2019/05/15 10:36:48.843 [I]  初始化服务 url：/api/plant/config
+2019/05/15 10:36:48.883 [I]  ConfigLamp  初始化服务 url：/api/lamp/config
+2019/05/15 10:36:48.883 [I]  map[conn:127.0.0.1:6379 dbNum:2 password: key:lamp]
+2019/05/15 10:36:48.888 [I]  [116 101 115 116]
+2019/05/15 10:36:48.888 [I]  test
+2019/05/15 10:36:48.913 [I]  [{1 1001 1 nullstr false} {2 1002 2 nullstr false} {3 1003 3 nullstr false} {4 1004 4 nullstr false} {5 1005 5 nullstr false} {6 1006 6 nullstr false} {7 1007 7 nullstr false} {8 1008 8 nullstr false} {9 1009 9 nullstr false} {10 1010 10 nullstr false} {11 1011 11 nullstr false} {12 1012 12 nullstr false} {13 1013 13 nullstr false} {14 1014 14 nullstr false} {15 1015 15 nullstr false} {16 1016 16 nullstr false} {17 1017 17 nullstr false} {18 1018 18 nullstr false} {19 1019 19 nullstr false}]
+2019/05/15 10:36:48.942 [I]  插入灯初始数据成功
+2019/05/15 10:36:48.977 [I]  插入灯初始数据成功
+2019/05/15 10:36:49.009 [I]  插入灯初始数据成功
+2019/05/15 10:36:49.030 [I]  插入灯初始数据成功
+2019/05/15 10:36:49.045 [I]  插入灯初始数据成功
+2019/05/15 10:36:49.058 [I]  插入灯初始数据成功
+2019/05/15 10:36:49.097 [I]  插入灯初始数据成功
+2019/05/15 10:36:49.114 [I]  插入灯初始数据成功
+2019/05/15 10:36:49.136 [I]  插入灯初始数据成功
+2019/05/15 10:36:49.163 [I]  插入灯初始数据成功
+2019/05/15 10:36:49.189 [I]  插入灯初始数据成功
+2019/05/15 10:36:49.210 [I]  插入灯初始数据成功
+2019/05/15 10:36:49.227 [I]  插入灯初始数据成功
+2019/05/15 10:36:49.265 [I]  插入灯初始数据成功
+2019/05/15 10:36:49.297 [I]  插入灯初始数据成功
+2019/05/15 10:36:49.334 [I]  插入灯初始数据成功
+2019/05/15 10:36:49.349 [I]  插入灯初始数据成功
+2019/05/15 10:36:49.392 [I]  插入灯初始数据成功
+2019/05/15 10:36:49.408 [I]  插入灯初始数据成功
+2019/05/15 10:36:49.408 [I]  使用中的灯 aaabedb9bc77ce4365a5f3cc4450bac4 
+2019/05/15 10:36:49.408 [I]  金币数 aaabedb9bc77ce4365a5f3cc4450bac4 
+2019/05/15 10:36:49.408 [I]  最高关卡数 aaabedb9bc77ce4365a5f3cc4450bac4 
+2019/05/15 10:36:49.408 [I]  当前关卡数 aaabedb9bc77ce4365a5f3cc4450bac4 
+2019/05/15 10:36:52.525 [I]  初始化服务 url：/api/plant/config
+2019/05/15 10:36:52.532 [I]  ConfigLamp  初始化服务 url：/api/lamp/config
+2019/05/15 10:36:52.532 [I]  map[key:lamp conn:127.0.0.1:6379 dbNum:2 password:]
+2019/05/15 10:36:52.533 [I]  [116 101 115 116]
+2019/05/15 10:36:52.533 [I]  test
+2019/05/15 10:36:52.557 [I]  [{1 1001 1 nullstr false} {2 1002 2 nullstr false} {3 1003 3 nullstr false} {4 1004 4 nullstr false} {5 1005 5 nullstr false} {6 1006 6 nullstr false} {7 1007 7 nullstr false} {8 1008 8 nullstr false} {9 1009 9 nullstr false} {10 1010 10 nullstr false} {11 1011 11 nullstr false} {12 1012 12 nullstr false} {13 1013 13 nullstr false} {14 1014 14 nullstr false} {15 1015 15 nullstr false} {16 1016 16 nullstr false} {17 1017 17 nullstr false} {18 1018 18 nullstr false} {19 1019 19 nullstr false}]
+2019/05/15 10:36:52.568 [I]  插入灯初始数据成功
+2019/05/15 10:36:52.580 [I]  插入灯初始数据成功
+2019/05/15 10:36:52.605 [I]  插入灯初始数据成功
+2019/05/15 10:36:52.618 [I]  插入灯初始数据成功
+2019/05/15 10:36:52.631 [I]  插入灯初始数据成功
+2019/05/15 10:36:52.647 [I]  插入灯初始数据成功
+2019/05/15 10:36:52.659 [I]  插入灯初始数据成功
+2019/05/15 10:36:52.670 [I]  插入灯初始数据成功
+2019/05/15 10:36:52.707 [I]  插入灯初始数据成功
+2019/05/15 10:36:52.732 [I]  插入灯初始数据成功
+2019/05/15 10:36:52.743 [I]  插入灯初始数据成功
+2019/05/15 10:36:52.761 [I]  插入灯初始数据成功
+2019/05/15 10:36:52.782 [I]  插入灯初始数据成功
+2019/05/15 10:36:52.800 [I]  插入灯初始数据成功
+2019/05/15 10:36:52.815 [I]  插入灯初始数据成功
+2019/05/15 10:36:52.829 [I]  插入灯初始数据成功
+2019/05/15 10:36:52.840 [I]  插入灯初始数据成功
+2019/05/15 10:36:52.855 [I]  插入灯初始数据成功
+2019/05/15 10:36:52.871 [I]  插入灯初始数据成功
+2019/05/15 10:36:52.871 [I]  使用中的灯 aaabedb9bc77ce4365a5f3cc4450bac4 
+2019/05/15 10:36:52.871 [I]  金币数 aaabedb9bc77ce4365a5f3cc4450bac4 
+2019/05/15 10:36:52.871 [I]  最高关卡数 aaabedb9bc77ce4365a5f3cc4450bac4 
+2019/05/15 10:36:52.871 [I]  当前关卡数 aaabedb9bc77ce4365a5f3cc4450bac4 
+2019/05/15 10:36:59.193 [I]  初始化服务 url：/api/plant/config
+2019/05/15 10:36:59.197 [I]  ConfigLamp  初始化服务 url：/api/lamp/config
+2019/05/15 10:36:59.197 [I]  map[key:lamp conn:127.0.0.1:6379 dbNum:2 password:]
+2019/05/15 10:36:59.197 [I]  [116 101 115 116]
+2019/05/15 10:36:59.197 [I]  test
+2019/05/15 10:36:59.225 [I]  [{1 1001 1 nullstr false} {2 1002 2 nullstr false} {3 1003 3 nullstr false} {4 1004 4 nullstr false} {5 1005 5 nullstr false} {6 1006 6 nullstr false} {7 1007 7 nullstr false} {8 1008 8 nullstr false} {9 1009 9 nullstr false} {10 1010 10 nullstr false} {11 1011 11 nullstr false} {12 1012 12 nullstr false} {13 1013 13 nullstr false} {14 1014 14 nullstr false} {15 1015 15 nullstr false} {16 1016 16 nullstr false} {17 1017 17 nullstr false} {18 1018 18 nullstr false} {19 1019 19 nullstr false}]
+2019/05/15 10:36:59.242 [I]  插入灯初始数据成功
+2019/05/15 10:36:59.259 [I]  插入灯初始数据成功
+2019/05/15 10:36:59.315 [I]  插入灯初始数据成功
+2019/05/15 10:36:59.332 [I]  插入灯初始数据成功
+2019/05/15 10:36:59.344 [I]  插入灯初始数据成功
+2019/05/15 10:36:59.362 [I]  插入灯初始数据成功
+2019/05/15 10:36:59.376 [I]  插入灯初始数据成功
+2019/05/15 10:36:59.391 [I]  插入灯初始数据成功
+2019/05/15 10:36:59.416 [I]  插入灯初始数据成功
+2019/05/15 10:36:59.436 [I]  插入灯初始数据成功
+2019/05/15 10:36:59.449 [I]  插入灯初始数据成功
+2019/05/15 10:36:59.465 [I]  插入灯初始数据成功
+2019/05/15 10:36:59.478 [I]  插入灯初始数据成功
+2019/05/15 10:36:59.495 [I]  插入灯初始数据成功
+2019/05/15 10:36:59.517 [I]  插入灯初始数据成功
+2019/05/15 10:36:59.536 [I]  插入灯初始数据成功
+2019/05/15 10:36:59.548 [I]  插入灯初始数据成功
+2019/05/15 10:36:59.562 [I]  插入灯初始数据成功
+2019/05/15 10:36:59.610 [I]  插入灯初始数据成功
+2019/05/15 10:36:59.610 [I]  使用中的灯 aaabedb9bc77ce4365a5f3cc4450bac4 
+2019/05/15 10:36:59.610 [I]  金币数 aaabedb9bc77ce4365a5f3cc4450bac4 
+2019/05/15 10:36:59.610 [I]  最高关卡数 aaabedb9bc77ce4365a5f3cc4450bac4 
+2019/05/15 10:36:59.610 [I]  当前关卡数 aaabedb9bc77ce4365a5f3cc4450bac4 
+2019/05/15 10:37:39.355 [I]  初始化服务 url：/api/plant/config
+2019/05/15 10:37:39.360 [I]  ConfigLamp  初始化服务 url：/api/lamp/config
+2019/05/15 10:37:39.360 [I]  map[conn:127.0.0.1:6379 dbNum:2 password: key:lamp]
+2019/05/15 10:37:39.361 [I]  [116 101 115 116]
+2019/05/15 10:37:39.361 [I]  test
+2019/05/15 10:37:39.389 [I]  [{1 1001 1 nullstr false} {2 1002 2 nullstr false} {3 1003 3 nullstr false} {4 1004 4 nullstr false} {5 1005 5 nullstr false} {6 1006 6 nullstr false} {7 1007 7 nullstr false} {8 1008 8 nullstr false} {9 1009 9 nullstr false} {10 1010 10 nullstr false} {11 1011 11 nullstr false} {12 1012 12 nullstr false} {13 1013 13 nullstr false} {14 1014 14 nullstr false} {15 1015 15 nullstr false} {16 1016 16 nullstr false} {17 1017 17 nullstr false} {18 1018 18 nullstr false} {19 1019 19 nullstr false}]
+2019/05/15 10:37:39.410 [I]  插入灯初始数据成功
+2019/05/15 10:37:39.430 [I]  插入灯初始数据成功
+2019/05/15 10:37:39.448 [I]  插入灯初始数据成功
+2019/05/15 10:37:39.470 [I]  插入灯初始数据成功
+2019/05/15 10:37:39.493 [I]  插入灯初始数据成功
+2019/05/15 10:37:39.513 [I]  插入灯初始数据成功
+2019/05/15 10:37:39.533 [I]  插入灯初始数据成功
+2019/05/15 10:37:39.548 [I]  插入灯初始数据成功
+2019/05/15 10:37:39.565 [I]  插入灯初始数据成功
+2019/05/15 10:37:39.614 [I]  插入灯初始数据成功
+2019/05/15 10:37:39.632 [I]  插入灯初始数据成功
+2019/05/15 10:37:39.656 [I]  插入灯初始数据成功
+2019/05/15 10:37:39.677 [I]  插入灯初始数据成功
+2019/05/15 10:37:39.707 [I]  插入灯初始数据成功
+2019/05/15 10:37:39.740 [I]  插入灯初始数据成功
+2019/05/15 10:37:39.776 [I]  插入灯初始数据成功
+2019/05/15 10:37:39.802 [I]  插入灯初始数据成功
+2019/05/15 10:37:39.817 [I]  插入灯初始数据成功
+2019/05/15 10:37:39.836 [I]  插入灯初始数据成功
+2019/05/15 10:37:39.836 [I]  使用中的灯 aaabedb9bc77ce4365a5f3cc4450bac4 
+2019/05/15 10:37:39.836 [I]  金币数 aaabedb9bc77ce4365a5f3cc4450bac4 
+2019/05/15 10:37:39.836 [I]  最高关卡数 aaabedb9bc77ce4365a5f3cc4450bac4 
+2019/05/15 10:37:39.836 [I]  当前关卡数 aaabedb9bc77ce4365a5f3cc4450bac4 
+2019/05/15 10:45:14.476 [I]  初始化服务 url：/api/plant/config
+2019/05/15 10:45:14.523 [I]  ConfigLamp  初始化服务 url：/api/lamp/config
+2019/05/15 10:45:14.523 [I]  map[key:lamp conn:127.0.0.1:6379 dbNum:2 password:]
+2019/05/15 10:45:14.534 [I]  [116 101 115 116]
+2019/05/15 10:45:14.534 [I]  test
+2019/05/15 10:45:14.576 [I]  [{1 1001 1 nullstr false} {2 1002 2 nullstr false} {3 1003 3 nullstr false} {4 1004 4 nullstr false} {5 1005 5 nullstr false} {6 1006 6 nullstr false} {7 1007 7 nullstr false} {8 1008 8 nullstr false} {9 1009 9 nullstr false} {10 1010 10 nullstr false} {11 1011 11 nullstr false} {12 1012 12 nullstr false} {13 1013 13 nullstr false} {14 1014 14 nullstr false} {15 1015 15 nullstr false} {16 1016 16 nullstr false} {17 1017 17 nullstr false} {18 1018 18 nullstr false} {19 1019 19 nullstr false}]
+2019/05/15 11:08:37.844 [I]  初始化服务 url：/api/plant/config
+2019/05/15 11:08:37.910 [I]  ConfigLamp  初始化服务 url：/api/lamp/config
+2019/05/15 11:08:37.910 [I]  map[conn:127.0.0.1:6379 dbNum:2 password: key:lamp]
+2019/05/15 11:08:37.929 [I]  [116 101 115 116]
+2019/05/15 11:08:37.929 [I]  test
+2019/05/15 11:08:37.994 [I]  [{1 1001 1 nullstr false} {2 1002 2 nullstr false} {3 1003 3 nullstr false} {4 1004 4 nullstr false} {5 1005 5 nullstr false} {6 1006 6 nullstr false} {7 1007 7 nullstr false} {8 1008 8 nullstr false} {9 1009 9 nullstr false} {10 1010 10 nullstr false} {11 1011 11 nullstr false} {12 1012 12 nullstr false} {13 1013 13 nullstr false} {14 1014 14 nullstr false} {15 1015 15 nullstr false} {16 1016 16 nullstr false} {17 1017 17 nullstr false} {18 1018 18 nullstr false} {19 1019 19 nullstr false}]
+2019/05/15 11:08:38.018 [I]  插入灯初始数据成功
+2019/05/15 11:08:38.034 [I]  插入灯初始数据成功
+2019/05/15 11:08:38.049 [I]  插入灯初始数据成功
+2019/05/15 11:08:38.060 [I]  插入灯初始数据成功
+2019/05/15 11:08:38.073 [I]  插入灯初始数据成功
+2019/05/15 11:08:38.113 [I]  插入灯初始数据成功
+2019/05/15 11:08:38.125 [I]  插入灯初始数据成功
+2019/05/15 11:08:38.137 [I]  插入灯初始数据成功
+2019/05/15 11:08:38.148 [I]  插入灯初始数据成功
+2019/05/15 11:08:38.160 [I]  插入灯初始数据成功
+2019/05/15 11:08:38.172 [I]  插入灯初始数据成功
+2019/05/15 11:08:38.184 [I]  插入灯初始数据成功
+2019/05/15 11:08:38.198 [I]  插入灯初始数据成功
+2019/05/15 11:08:38.209 [I]  插入灯初始数据成功
+2019/05/15 11:08:38.222 [I]  插入灯初始数据成功
+2019/05/15 11:08:38.233 [I]  插入灯初始数据成功
+2019/05/15 11:08:38.244 [I]  插入灯初始数据成功
+2019/05/15 11:08:38.258 [I]  插入灯初始数据成功
+2019/05/15 11:08:38.268 [I]  插入灯初始数据成功
+2019/05/15 11:08:38.268 [I]  使用中的灯 aaabedb9bc77ce4365a5f3cc4450bac4 
+2019/05/15 11:08:38.268 [I]  金币数 aaabedb9bc77ce4365a5f3cc4450bac4 
+2019/05/15 11:08:38.268 [I]  最高关卡数 aaabedb9bc77ce4365a5f3cc4450bac4 
+2019/05/15 11:08:38.268 [I]  当前关卡数 aaabedb9bc77ce4365a5f3cc4450bac4 
+2019/05/15 11:10:34.753 [I]  初始化服务 url：/api/plant/config
+2019/05/15 11:10:34.807 [I]  ConfigLamp  初始化服务 url：/api/lamp/config
+2019/05/15 11:10:34.807 [I]  map[key:lamp conn:127.0.0.1:6379 dbNum:2 password:]
+2019/05/15 11:10:34.819 [I]  [116 101 115 116]
+2019/05/15 11:10:34.819 [I]  test
+2019/05/15 11:10:34.860 [I]  [{1 1001 1 nullstr false} {2 1002 2 nullstr false} {3 1003 3 nullstr false} {4 1004 4 nullstr false} {5 1005 5 nullstr false} {6 1006 6 nullstr false} {7 1007 7 nullstr false} {8 1008 8 nullstr false} {9 1009 9 nullstr false} {10 1010 10 nullstr false} {11 1011 11 nullstr false} {12 1012 12 nullstr false} {13 1013 13 nullstr false} {14 1014 14 nullstr false} {15 1015 15 nullstr false} {16 1016 16 nullstr false} {17 1017 17 nullstr false} {18 1018 18 nullstr false} {19 1019 19 nullstr false}]
+2019/05/15 11:10:34.873 [I]  {1 0xc4201cd1e0 1001 1 nullstr false}
+2019/05/15 11:10:34.897 [I]  插入灯初始数据成功
+2019/05/15 11:10:34.898 [I]  {2 0xc4201cd1e0 1002 2 nullstr false}
+2019/05/15 11:10:34.942 [I]  插入灯初始数据成功
+2019/05/15 11:10:34.942 [I]  {3 0xc4201cd1e0 1003 3 nullstr false}
+2019/05/15 11:10:34.965 [I]  插入灯初始数据成功
+2019/05/15 11:10:34.965 [I]  {4 0xc4201cd1e0 1004 4 nullstr false}
+2019/05/15 11:10:35.020 [I]  插入灯初始数据成功
+2019/05/15 11:10:35.020 [I]  {5 0xc4201cd1e0 1005 5 nullstr false}
+2019/05/15 11:10:35.053 [I]  插入灯初始数据成功
+2019/05/15 11:10:35.053 [I]  {6 0xc4201cd1e0 1006 6 nullstr false}
+2019/05/15 11:10:35.083 [I]  插入灯初始数据成功
+2019/05/15 11:10:35.083 [I]  {7 0xc4201cd1e0 1007 7 nullstr false}
+2019/05/15 11:10:35.099 [I]  插入灯初始数据成功
+2019/05/15 11:10:35.099 [I]  {8 0xc4201cd1e0 1008 8 nullstr false}
+2019/05/15 11:10:35.137 [I]  插入灯初始数据成功
+2019/05/15 11:10:35.137 [I]  {9 0xc4201cd1e0 1009 9 nullstr false}
+2019/05/15 11:10:35.157 [I]  插入灯初始数据成功
+2019/05/15 11:10:35.157 [I]  {10 0xc4201cd1e0 1010 10 nullstr false}
+2019/05/15 11:10:35.181 [I]  插入灯初始数据成功
+2019/05/15 11:10:35.181 [I]  {11 0xc4201cd1e0 1011 11 nullstr false}
+2019/05/15 11:10:35.207 [I]  插入灯初始数据成功
+2019/05/15 11:10:35.207 [I]  {12 0xc4201cd1e0 1012 12 nullstr false}
+2019/05/15 11:10:35.223 [I]  插入灯初始数据成功
+2019/05/15 11:10:35.223 [I]  {13 0xc4201cd1e0 1013 13 nullstr false}
+2019/05/15 11:10:35.249 [I]  插入灯初始数据成功
+2019/05/15 11:10:35.249 [I]  {14 0xc4201cd1e0 1014 14 nullstr false}
+2019/05/15 11:10:35.264 [I]  插入灯初始数据成功
+2019/05/15 11:10:35.264 [I]  {15 0xc4201cd1e0 1015 15 nullstr false}
+2019/05/15 11:10:35.314 [I]  插入灯初始数据成功
+2019/05/15 11:10:35.314 [I]  {16 0xc4201cd1e0 1016 16 nullstr false}
+2019/05/15 11:10:35.337 [I]  插入灯初始数据成功
+2019/05/15 11:10:35.337 [I]  {17 0xc4201cd1e0 1017 17 nullstr false}
+2019/05/15 11:10:35.360 [I]  插入灯初始数据成功
+2019/05/15 11:10:35.360 [I]  {18 0xc4201cd1e0 1018 18 nullstr false}
+2019/05/15 11:10:35.377 [I]  插入灯初始数据成功
+2019/05/15 11:10:35.377 [I]  {19 0xc4201cd1e0 1019 19 nullstr false}
+2019/05/15 11:10:35.395 [I]  插入灯初始数据成功
+2019/05/15 11:10:35.396 [I]  使用中的灯 aaabedb9bc77ce4365a5f3cc4450bac4 
+2019/05/15 11:10:35.396 [I]  金币数 aaabedb9bc77ce4365a5f3cc4450bac4 
+2019/05/15 11:10:35.396 [I]  最高关卡数 aaabedb9bc77ce4365a5f3cc4450bac4 
+2019/05/15 11:10:35.396 [I]  当前关卡数 aaabedb9bc77ce4365a5f3cc4450bac4 
+2019/05/15 11:12:27.444 [I]  初始化服务 url：/api/plant/config
+2019/05/15 11:12:27.496 [I]  ConfigLamp  初始化服务 url：/api/lamp/config
+2019/05/15 11:12:27.496 [I]  map[password: key:lamp conn:127.0.0.1:6379 dbNum:2]
+2019/05/15 11:12:27.508 [I]  [116 101 115 116]
+2019/05/15 11:12:27.508 [I]  test
+2019/05/15 11:12:27.543 [I]  [{1 1001 1 nullstr false} {2 1002 2 nullstr false} {3 1003 3 nullstr false} {4 1004 4 nullstr false} {5 1005 5 nullstr false} {6 1006 6 nullstr false} {7 1007 7 nullstr false} {8 1008 8 nullstr false} {9 1009 9 nullstr false} {10 1010 10 nullstr false} {11 1011 11 nullstr false} {12 1012 12 nullstr false} {13 1013 13 nullstr false} {14 1014 14 nullstr false} {15 1015 15 nullstr false} {16 1016 16 nullstr false} {17 1017 17 nullstr false} {18 1018 18 nullstr false} {19 1019 19 nullstr false}]
+2019/05/15 11:12:27.550 [I]  {1 0xc4200cdd40 1001 1 nullstr false}
+2019/05/15 11:12:27.562 [I]  插入数据失败 Error 1062: Duplicate entry '1' for key 'PRIMARY'
+2019/05/15 11:12:27.562 [I]  插入灯初始数据成功 0
+2019/05/15 11:12:27.562 [I]  {2 0xc4200cdd40 1002 2 nullstr false}
+2019/05/15 11:12:27.575 [I]  插入数据失败 Error 1062: Duplicate entry '2' for key 'PRIMARY'
+2019/05/15 11:12:27.575 [I]  插入灯初始数据成功 0
+2019/05/15 11:12:27.575 [I]  {3 0xc4200cdd40 1003 3 nullstr false}
+2019/05/15 11:12:27.592 [I]  插入数据失败 Error 1062: Duplicate entry '3' for key 'PRIMARY'
+2019/05/15 11:12:27.592 [I]  插入灯初始数据成功 0
+2019/05/15 11:12:27.592 [I]  {4 0xc4200cdd40 1004 4 nullstr false}
+2019/05/15 11:12:27.616 [I]  插入数据失败 Error 1062: Duplicate entry '4' for key 'PRIMARY'
+2019/05/15 11:12:27.616 [I]  插入灯初始数据成功 0
+2019/05/15 11:12:27.616 [I]  {5 0xc4200cdd40 1005 5 nullstr false}
+2019/05/15 11:12:27.642 [I]  插入数据失败 Error 1062: Duplicate entry '5' for key 'PRIMARY'
+2019/05/15 11:12:27.642 [I]  插入灯初始数据成功 0
+2019/05/15 11:12:27.642 [I]  {6 0xc4200cdd40 1006 6 nullstr false}
+2019/05/15 11:12:27.670 [I]  插入数据失败 Error 1062: Duplicate entry '6' for key 'PRIMARY'
+2019/05/15 11:12:27.670 [I]  插入灯初始数据成功 0
+2019/05/15 11:12:27.670 [I]  {7 0xc4200cdd40 1007 7 nullstr false}
+2019/05/15 11:12:27.700 [I]  插入数据失败 Error 1062: Duplicate entry '7' for key 'PRIMARY'
+2019/05/15 11:12:27.700 [I]  插入灯初始数据成功 0
+2019/05/15 11:12:27.700 [I]  {8 0xc4200cdd40 1008 8 nullstr false}
+2019/05/15 11:12:27.730 [I]  插入数据失败 Error 1062: Duplicate entry '8' for key 'PRIMARY'
+2019/05/15 11:12:27.730 [I]  插入灯初始数据成功 0
+2019/05/15 11:12:27.730 [I]  {9 0xc4200cdd40 1009 9 nullstr false}
+2019/05/15 11:12:27.757 [I]  插入数据失败 Error 1062: Duplicate entry '9' for key 'PRIMARY'
+2019/05/15 11:12:27.757 [I]  插入灯初始数据成功 0
+2019/05/15 11:12:27.757 [I]  {10 0xc4200cdd40 1010 10 nullstr false}
+2019/05/15 11:12:27.768 [I]  插入数据失败 Error 1062: Duplicate entry '10' for key 'PRIMARY'
+2019/05/15 11:12:27.768 [I]  插入灯初始数据成功 0
+2019/05/15 11:12:27.768 [I]  {11 0xc4200cdd40 1011 11 nullstr false}
+2019/05/15 11:12:27.803 [I]  插入数据失败 Error 1062: Duplicate entry '11' for key 'PRIMARY'
+2019/05/15 11:12:27.803 [I]  插入灯初始数据成功 0
+2019/05/15 11:12:27.803 [I]  {12 0xc4200cdd40 1012 12 nullstr false}
+2019/05/15 11:12:27.837 [I]  插入数据失败 Error 1062: Duplicate entry '12' for key 'PRIMARY'
+2019/05/15 11:12:27.837 [I]  插入灯初始数据成功 0
+2019/05/15 11:12:27.837 [I]  {13 0xc4200cdd40 1013 13 nullstr false}
+2019/05/15 11:12:27.862 [I]  插入数据失败 Error 1062: Duplicate entry '13' for key 'PRIMARY'
+2019/05/15 11:12:27.862 [I]  插入灯初始数据成功 0
+2019/05/15 11:12:27.862 [I]  {14 0xc4200cdd40 1014 14 nullstr false}
+2019/05/15 11:12:27.876 [I]  插入数据失败 Error 1062: Duplicate entry '14' for key 'PRIMARY'
+2019/05/15 11:12:27.876 [I]  插入灯初始数据成功 0
+2019/05/15 11:12:27.876 [I]  {15 0xc4200cdd40 1015 15 nullstr false}
+2019/05/15 11:12:27.893 [I]  插入数据失败 Error 1062: Duplicate entry '15' for key 'PRIMARY'
+2019/05/15 11:12:27.893 [I]  插入灯初始数据成功 0
+2019/05/15 11:12:27.893 [I]  {16 0xc4200cdd40 1016 16 nullstr false}
+2019/05/15 11:12:27.907 [I]  插入数据失败 Error 1062: Duplicate entry '16' for key 'PRIMARY'
+2019/05/15 11:12:27.907 [I]  插入灯初始数据成功 0
+2019/05/15 11:12:27.907 [I]  {17 0xc4200cdd40 1017 17 nullstr false}
+2019/05/15 11:12:27.925 [I]  插入数据失败 Error 1062: Duplicate entry '17' for key 'PRIMARY'
+2019/05/15 11:12:27.925 [I]  插入灯初始数据成功 0
+2019/05/15 11:12:27.926 [I]  {18 0xc4200cdd40 1018 18 nullstr false}
+2019/05/15 11:12:27.946 [I]  插入数据失败 Error 1062: Duplicate entry '18' for key 'PRIMARY'
+2019/05/15 11:12:27.946 [I]  插入灯初始数据成功 0
+2019/05/15 11:12:27.946 [I]  {19 0xc4200cdd40 1019 19 nullstr false}
+2019/05/15 11:12:27.995 [I]  插入数据失败 Error 1062: Duplicate entry '19' for key 'PRIMARY'
+2019/05/15 11:12:27.995 [I]  插入灯初始数据成功 0
+2019/05/15 11:12:27.995 [I]  使用中的灯 aaabedb9bc77ce4365a5f3cc4450bac4 
+2019/05/15 11:12:27.995 [I]  金币数 aaabedb9bc77ce4365a5f3cc4450bac4 
+2019/05/15 11:12:27.995 [I]  最高关卡数 aaabedb9bc77ce4365a5f3cc4450bac4 
+2019/05/15 11:12:27.996 [I]  当前关卡数 aaabedb9bc77ce4365a5f3cc4450bac4 
+2019/05/15 11:15:49.679 [I]  初始化服务 url：/api/plant/config
+2019/05/15 11:15:49.750 [I]  ConfigLamp  初始化服务 url：/api/lamp/config
+2019/05/15 11:15:49.750 [I]  map[key:lamp conn:127.0.0.1:6379 dbNum:2 password:]
+2019/05/15 11:15:49.760 [I]  [116 101 115 116]
+2019/05/15 11:15:49.760 [I]  test
+2019/05/15 11:15:49.816 [I]  [{1 1001 1 nullstr false} {2 1002 2 nullstr false} {3 1003 3 nullstr false} {4 1004 4 nullstr false} {5 1005 5 nullstr false} {6 1006 6 nullstr false} {7 1007 7 nullstr false} {8 1008 8 nullstr false} {9 1009 9 nullstr false} {10 1010 10 nullstr false} {11 1011 11 nullstr false} {12 1012 12 nullstr false} {13 1013 13 nullstr false} {14 1014 14 nullstr false} {15 1015 15 nullstr false} {16 1016 16 nullstr false} {17 1017 17 nullstr false} {18 1018 18 nullstr false} {19 1019 19 nullstr false}]
+2019/05/15 11:15:49.821 [I]  {1 0xc4201af520 1001 1 nullstr false}
+2019/05/15 11:15:49.832 [I]  插入数据失败 Error 1062: Duplicate entry '1' for key 'PRIMARY'
+2019/05/15 11:15:49.832 [I]  插入灯初始数据成功 0
+2019/05/15 11:15:49.832 [I]  {2 0xc4201af520 1002 2 nullstr false}
+2019/05/15 11:15:49.845 [I]  插入数据失败 Error 1062: Duplicate entry '2' for key 'PRIMARY'
+2019/05/15 11:15:49.845 [I]  插入灯初始数据成功 0
+2019/05/15 11:15:49.845 [I]  {3 0xc4201af520 1003 3 nullstr false}
+2019/05/15 11:15:49.862 [I]  插入数据失败 Error 1062: Duplicate entry '3' for key 'PRIMARY'
+2019/05/15 11:15:49.862 [I]  插入灯初始数据成功 0
+2019/05/15 11:15:49.862 [I]  {4 0xc4201af520 1004 4 nullstr false}
+2019/05/15 11:15:49.876 [I]  插入数据失败 Error 1062: Duplicate entry '4' for key 'PRIMARY'
+2019/05/15 11:15:49.876 [I]  插入灯初始数据成功 0
+2019/05/15 11:15:49.876 [I]  {5 0xc4201af520 1005 5 nullstr false}
+2019/05/15 11:15:49.888 [I]  插入数据失败 Error 1062: Duplicate entry '5' for key 'PRIMARY'
+2019/05/15 11:15:49.888 [I]  插入灯初始数据成功 0
+2019/05/15 11:15:49.888 [I]  {6 0xc4201af520 1006 6 nullstr false}
+2019/05/15 11:15:49.902 [I]  插入数据失败 Error 1062: Duplicate entry '6' for key 'PRIMARY'
+2019/05/15 11:15:49.902 [I]  插入灯初始数据成功 0
+2019/05/15 11:15:49.903 [I]  {7 0xc4201af520 1007 7 nullstr false}
+2019/05/15 11:15:49.921 [I]  插入数据失败 Error 1062: Duplicate entry '7' for key 'PRIMARY'
+2019/05/15 11:15:49.921 [I]  插入灯初始数据成功 0
+2019/05/15 11:15:49.921 [I]  {8 0xc4201af520 1008 8 nullstr false}
+2019/05/15 11:15:49.937 [I]  插入数据失败 Error 1062: Duplicate entry '8' for key 'PRIMARY'
+2019/05/15 11:15:49.937 [I]  插入灯初始数据成功 0
+2019/05/15 11:15:49.937 [I]  {9 0xc4201af520 1009 9 nullstr false}
+2019/05/15 11:15:49.958 [I]  插入数据失败 Error 1062: Duplicate entry '9' for key 'PRIMARY'
+2019/05/15 11:15:49.958 [I]  插入灯初始数据成功 0
+2019/05/15 11:15:49.958 [I]  {10 0xc4201af520 1010 10 nullstr false}
+2019/05/15 11:15:49.980 [I]  插入数据失败 Error 1062: Duplicate entry '10' for key 'PRIMARY'
+2019/05/15 11:15:49.980 [I]  插入灯初始数据成功 0
+2019/05/15 11:15:49.980 [I]  {11 0xc4201af520 1011 11 nullstr false}
+2019/05/15 11:15:49.993 [I]  插入数据失败 Error 1062: Duplicate entry '11' for key 'PRIMARY'
+2019/05/15 11:15:49.993 [I]  插入灯初始数据成功 0
+2019/05/15 11:15:49.993 [I]  {12 0xc4201af520 1012 12 nullstr false}
+2019/05/15 11:15:50.006 [I]  插入数据失败 Error 1062: Duplicate entry '12' for key 'PRIMARY'
+2019/05/15 11:15:50.006 [I]  插入灯初始数据成功 0
+2019/05/15 11:15:50.006 [I]  {13 0xc4201af520 1013 13 nullstr false}
+2019/05/15 11:15:50.019 [I]  插入数据失败 Error 1062: Duplicate entry '13' for key 'PRIMARY'
+2019/05/15 11:15:50.019 [I]  插入灯初始数据成功 0
+2019/05/15 11:15:50.019 [I]  {14 0xc4201af520 1014 14 nullstr false}
+2019/05/15 11:15:50.031 [I]  插入数据失败 Error 1062: Duplicate entry '14' for key 'PRIMARY'
+2019/05/15 11:15:50.031 [I]  插入灯初始数据成功 0
+2019/05/15 11:15:50.031 [I]  {15 0xc4201af520 1015 15 nullstr false}
+2019/05/15 11:15:50.050 [I]  插入数据失败 Error 1062: Duplicate entry '15' for key 'PRIMARY'
+2019/05/15 11:15:50.050 [I]  插入灯初始数据成功 0
+2019/05/15 11:15:50.050 [I]  {16 0xc4201af520 1016 16 nullstr false}
+2019/05/15 11:15:50.070 [I]  插入数据失败 Error 1062: Duplicate entry '16' for key 'PRIMARY'
+2019/05/15 11:15:50.071 [I]  插入灯初始数据成功 0
+2019/05/15 11:15:50.071 [I]  {17 0xc4201af520 1017 17 nullstr false}
+2019/05/15 11:15:50.107 [I]  插入数据失败 Error 1062: Duplicate entry '17' for key 'PRIMARY'
+2019/05/15 11:15:50.108 [I]  插入灯初始数据成功 0
+2019/05/15 11:15:50.108 [I]  {18 0xc4201af520 1018 18 nullstr false}
+2019/05/15 11:15:50.135 [I]  插入数据失败 Error 1062: Duplicate entry '18' for key 'PRIMARY'
+2019/05/15 11:15:50.135 [I]  插入灯初始数据成功 0
+2019/05/15 11:15:50.135 [I]  {19 0xc4201af520 1019 19 nullstr false}
+2019/05/15 11:15:50.149 [I]  插入数据失败 Error 1062: Duplicate entry '19' for key 'PRIMARY'
+2019/05/15 11:15:50.149 [I]  插入灯初始数据成功 0
+2019/05/15 11:15:50.149 [I]  使用中的灯 aaabedb9bc77ce4365a5f3cc4450bac4 
+2019/05/15 11:15:50.149 [I]  金币数 aaabedb9bc77ce4365a5f3cc4450bac4 
+2019/05/15 11:15:50.149 [I]  最高关卡数 aaabedb9bc77ce4365a5f3cc4450bac4 
+2019/05/15 11:15:50.149 [I]  当前关卡数 aaabedb9bc77ce4365a5f3cc4450bac4 
+2019/05/15 11:26:13.570 [I]  初始化服务 url：/api/plant/config
+2019/05/15 11:26:13.595 [I]  ConfigLamp  初始化服务 url：/api/lamp/config
+2019/05/15 11:26:13.595 [I]  map[key:lamp conn:127.0.0.1:6379 dbNum:2 password:]
+2019/05/15 11:26:13.596 [I]  [116 101 115 116]
+2019/05/15 11:26:13.596 [I]  test
+2019/05/15 11:26:13.706 [I]  [{1 1001 1 nullstr false} {2 1002 2 nullstr false} {3 1003 3 nullstr false} {4 1004 4 nullstr false} {5 1005 5 nullstr false} {6 1006 6 nullstr false} {7 1007 7 nullstr false} {8 1008 8 nullstr false} {9 1009 9 nullstr false} {10 1010 10 nullstr false} {11 1011 11 nullstr false} {12 1012 12 nullstr false} {13 1013 13 nullstr false} {14 1014 14 nullstr false} {15 1015 15 nullstr false} {16 1016 16 nullstr false} {17 1017 17 nullstr false} {18 1018 18 nullstr false} {19 1019 19 nullstr false}]
+2019/05/15 11:26:13.731 [I]  {1 0xc4200cd380 1001 1 nullstr false}
+2019/05/15 11:26:13.762 [I]  插入数据失败 Error 1062: Duplicate entry '1' for key 'PRIMARY'
+2019/05/15 11:26:13.762 [I]  插入灯初始数据成功 0
+2019/05/15 11:26:13.762 [I]  {2 0xc4200cd380 1002 2 nullstr false}
+2019/05/15 11:26:13.799 [I]  插入数据失败 Error 1062: Duplicate entry '2' for key 'PRIMARY'
+2019/05/15 11:26:13.799 [I]  插入灯初始数据成功 0
+2019/05/15 11:26:13.799 [I]  {3 0xc4200cd380 1003 3 nullstr false}
+2019/05/15 11:26:13.903 [I]  插入数据失败 Error 1062: Duplicate entry '3' for key 'PRIMARY'
+2019/05/15 11:26:13.903 [I]  插入灯初始数据成功 0
+2019/05/15 11:26:13.903 [I]  {4 0xc4200cd380 1004 4 nullstr false}
+2019/05/15 11:26:13.961 [I]  插入数据失败 Error 1062: Duplicate entry '4' for key 'PRIMARY'
+2019/05/15 11:26:13.961 [I]  插入灯初始数据成功 0
+2019/05/15 11:26:13.961 [I]  {5 0xc4200cd380 1005 5 nullstr false}
+2019/05/15 11:26:14.065 [I]  插入数据失败 Error 1062: Duplicate entry '5' for key 'PRIMARY'
+2019/05/15 11:26:14.065 [I]  插入灯初始数据成功 0
+2019/05/15 11:26:14.065 [I]  {6 0xc4200cd380 1006 6 nullstr false}
+2019/05/15 11:26:14.117 [I]  插入数据失败 Error 1062: Duplicate entry '6' for key 'PRIMARY'
+2019/05/15 11:26:14.117 [I]  插入灯初始数据成功 0
+2019/05/15 11:26:14.117 [I]  {7 0xc4200cd380 1007 7 nullstr false}
+2019/05/15 11:26:14.165 [I]  插入数据失败 Error 1062: Duplicate entry '7' for key 'PRIMARY'
+2019/05/15 11:26:14.165 [I]  插入灯初始数据成功 0
+2019/05/15 11:26:14.165 [I]  {8 0xc4200cd380 1008 8 nullstr false}
+2019/05/15 11:26:14.190 [I]  插入数据失败 Error 1062: Duplicate entry '8' for key 'PRIMARY'
+2019/05/15 11:26:14.190 [I]  插入灯初始数据成功 0
+2019/05/15 11:26:14.190 [I]  {9 0xc4200cd380 1009 9 nullstr false}
+2019/05/15 11:26:14.254 [I]  插入数据失败 Error 1062: Duplicate entry '9' for key 'PRIMARY'
+2019/05/15 11:26:14.254 [I]  插入灯初始数据成功 0
+2019/05/15 11:26:14.254 [I]  {10 0xc4200cd380 1010 10 nullstr false}
+2019/05/15 11:26:14.371 [I]  插入数据失败 Error 1062: Duplicate entry '10' for key 'PRIMARY'
+2019/05/15 11:26:14.371 [I]  插入灯初始数据成功 0
+2019/05/15 11:26:14.371 [I]  {11 0xc4200cd380 1011 11 nullstr false}
+2019/05/15 11:26:14.403 [I]  插入数据失败 Error 1062: Duplicate entry '11' for key 'PRIMARY'
+2019/05/15 11:26:14.403 [I]  插入灯初始数据成功 0
+2019/05/15 11:26:14.403 [I]  {12 0xc4200cd380 1012 12 nullstr false}
+2019/05/15 11:26:14.430 [I]  插入数据失败 Error 1062: Duplicate entry '12' for key 'PRIMARY'
+2019/05/15 11:26:14.430 [I]  插入灯初始数据成功 0
+2019/05/15 11:26:14.430 [I]  {13 0xc4200cd380 1013 13 nullstr false}
+2019/05/15 11:26:14.475 [I]  插入数据失败 Error 1062: Duplicate entry '13' for key 'PRIMARY'
+2019/05/15 11:26:14.475 [I]  插入灯初始数据成功 0
+2019/05/15 11:26:14.475 [I]  {14 0xc4200cd380 1014 14 nullstr false}
+2019/05/15 11:26:14.501 [I]  插入数据失败 Error 1062: Duplicate entry '14' for key 'PRIMARY'
+2019/05/15 11:26:14.501 [I]  插入灯初始数据成功 0
+2019/05/15 11:26:14.502 [I]  {15 0xc4200cd380 1015 15 nullstr false}
+2019/05/15 11:26:14.554 [I]  插入数据失败 Error 1062: Duplicate entry '15' for key 'PRIMARY'
+2019/05/15 11:26:14.554 [I]  插入灯初始数据成功 0
+2019/05/15 11:26:14.554 [I]  {16 0xc4200cd380 1016 16 nullstr false}
+2019/05/15 11:26:14.626 [I]  插入数据失败 Error 1062: Duplicate entry '16' for key 'PRIMARY'
+2019/05/15 11:26:14.626 [I]  插入灯初始数据成功 0
+2019/05/15 11:26:14.626 [I]  {17 0xc4200cd380 1017 17 nullstr false}
+2019/05/15 11:26:14.694 [I]  插入数据失败 Error 1062: Duplicate entry '17' for key 'PRIMARY'
+2019/05/15 11:26:14.694 [I]  插入灯初始数据成功 0
+2019/05/15 11:26:14.694 [I]  {18 0xc4200cd380 1018 18 nullstr false}
+2019/05/15 11:26:14.709 [I]  插入数据失败 Error 1062: Duplicate entry '18' for key 'PRIMARY'
+2019/05/15 11:26:14.709 [I]  插入灯初始数据成功 0
+2019/05/15 11:26:14.710 [I]  {19 0xc4200cd380 1019 19 nullstr false}
+2019/05/15 11:26:14.743 [I]  插入数据失败 Error 1062: Duplicate entry '19' for key 'PRIMARY'
+2019/05/15 11:26:14.743 [I]  插入灯初始数据成功 0
+2019/05/15 11:26:14.743 [I]  使用中的灯 aaabedb9bc77ce4365a5f3cc4450bac4 
+2019/05/15 11:26:14.743 [I]  金币数 aaabedb9bc77ce4365a5f3cc4450bac4 
+2019/05/15 11:26:14.743 [I]  最高关卡数 aaabedb9bc77ce4365a5f3cc4450bac4 
+2019/05/15 11:26:14.743 [I]  当前关卡数 aaabedb9bc77ce4365a5f3cc4450bac4 
+2019/05/15 11:26:49.541 [I]  初始化服务 url：/api/plant/config
+2019/05/15 11:26:49.546 [I]  ConfigLamp  初始化服务 url：/api/lamp/config
+2019/05/15 11:26:49.546 [I]  map[key:lamp conn:127.0.0.1:6379 dbNum:2 password:]
+2019/05/15 11:26:49.547 [I]  [116 101 115 116]
+2019/05/15 11:26:49.547 [I]  test
+2019/05/15 11:26:49.630 [I]  [{1 1001 1 nullstr false} {2 1002 2 nullstr false} {3 1003 3 nullstr false} {4 1004 4 nullstr false} {5 1005 5 nullstr false} {6 1006 6 nullstr false} {7 1007 7 nullstr false} {8 1008 8 nullstr false} {9 1009 9 nullstr false} {10 1010 10 nullstr false} {11 1011 11 nullstr false} {12 1012 12 nullstr false} {13 1013 13 nullstr false} {14 1014 14 nullstr false} {15 1015 15 nullstr false} {16 1016 16 nullstr false} {17 1017 17 nullstr false} {18 1018 18 nullstr false} {19 1019 19 nullstr false}]
+2019/05/15 11:26:49.664 [I]  {1 0xc4200cda00 1001 1 nullstr false}
+2019/05/15 11:26:49.729 [I]  插入数据失败 Error 1062: Duplicate entry '1' for key 'PRIMARY'
+2019/05/15 11:26:49.729 [I]  插入灯初始数据成功 0
+2019/05/15 11:26:49.729 [I]  {2 0xc4200cda00 1002 2 nullstr false}
+2019/05/15 11:26:50.044 [I]  插入数据失败 Error 1062: Duplicate entry '2' for key 'PRIMARY'
+2019/05/15 11:26:50.044 [I]  插入灯初始数据成功 0
+2019/05/15 11:26:50.044 [I]  {3 0xc4200cda00 1003 3 nullstr false}
+2019/05/15 11:26:50.143 [I]  插入数据失败 Error 1062: Duplicate entry '3' for key 'PRIMARY'
+2019/05/15 11:26:50.143 [I]  插入灯初始数据成功 0
+2019/05/15 11:26:50.143 [I]  {4 0xc4200cda00 1004 4 nullstr false}
+2019/05/15 11:26:50.289 [I]  插入数据失败 Error 1062: Duplicate entry '4' for key 'PRIMARY'
+2019/05/15 11:26:50.289 [I]  插入灯初始数据成功 0
+2019/05/15 11:26:50.289 [I]  {5 0xc4200cda00 1005 5 nullstr false}
+2019/05/15 11:26:50.375 [I]  插入数据失败 Error 1062: Duplicate entry '5' for key 'PRIMARY'
+2019/05/15 11:26:50.375 [I]  插入灯初始数据成功 0
+2019/05/15 11:26:50.375 [I]  {6 0xc4200cda00 1006 6 nullstr false}
+2019/05/15 11:26:50.407 [I]  插入数据失败 Error 1062: Duplicate entry '6' for key 'PRIMARY'
+2019/05/15 11:26:50.407 [I]  插入灯初始数据成功 0
+2019/05/15 11:26:50.407 [I]  {7 0xc4200cda00 1007 7 nullstr false}
+2019/05/15 11:26:50.461 [I]  插入数据失败 Error 1062: Duplicate entry '7' for key 'PRIMARY'
+2019/05/15 11:26:50.461 [I]  插入灯初始数据成功 0
+2019/05/15 11:26:50.461 [I]  {8 0xc4200cda00 1008 8 nullstr false}
+2019/05/15 11:26:50.502 [I]  插入数据失败 Error 1062: Duplicate entry '8' for key 'PRIMARY'
+2019/05/15 11:26:50.502 [I]  插入灯初始数据成功 0
+2019/05/15 11:26:50.502 [I]  {9 0xc4200cda00 1009 9 nullstr false}
+2019/05/15 11:26:50.548 [I]  插入数据失败 Error 1062: Duplicate entry '9' for key 'PRIMARY'
+2019/05/15 11:26:50.548 [I]  插入灯初始数据成功 0
+2019/05/15 11:26:50.548 [I]  {10 0xc4200cda00 1010 10 nullstr false}
+2019/05/15 11:26:50.614 [I]  插入数据失败 Error 1062: Duplicate entry '10' for key 'PRIMARY'
+2019/05/15 11:26:50.614 [I]  插入灯初始数据成功 0
+2019/05/15 11:26:50.614 [I]  {11 0xc4200cda00 1011 11 nullstr false}
+2019/05/15 11:26:50.647 [I]  插入数据失败 Error 1062: Duplicate entry '11' for key 'PRIMARY'
+2019/05/15 11:26:50.647 [I]  插入灯初始数据成功 0
+2019/05/15 11:26:50.647 [I]  {12 0xc4200cda00 1012 12 nullstr false}
+2019/05/15 11:26:50.682 [I]  插入数据失败 Error 1062: Duplicate entry '12' for key 'PRIMARY'
+2019/05/15 11:26:50.682 [I]  插入灯初始数据成功 0
+2019/05/15 11:26:50.682 [I]  {13 0xc4200cda00 1013 13 nullstr false}
+2019/05/15 11:26:50.718 [I]  插入数据失败 Error 1062: Duplicate entry '13' for key 'PRIMARY'
+2019/05/15 11:26:50.718 [I]  插入灯初始数据成功 0
+2019/05/15 11:26:50.718 [I]  {14 0xc4200cda00 1014 14 nullstr false}
+2019/05/15 11:26:50.774 [I]  插入数据失败 Error 1062: Duplicate entry '14' for key 'PRIMARY'
+2019/05/15 11:26:50.774 [I]  插入灯初始数据成功 0
+2019/05/15 11:26:50.774 [I]  {15 0xc4200cda00 1015 15 nullstr false}
+2019/05/15 11:26:50.833 [I]  插入数据失败 Error 1062: Duplicate entry '15' for key 'PRIMARY'
+2019/05/15 11:26:50.834 [I]  插入灯初始数据成功 0
+2019/05/15 11:26:50.834 [I]  {16 0xc4200cda00 1016 16 nullstr false}
+2019/05/15 11:26:50.978 [I]  插入数据失败 Error 1062: Duplicate entry '16' for key 'PRIMARY'
+2019/05/15 11:26:50.978 [I]  插入灯初始数据成功 0
+2019/05/15 11:26:50.978 [I]  {17 0xc4200cda00 1017 17 nullstr false}
+2019/05/15 11:26:51.059 [I]  插入数据失败 Error 1062: Duplicate entry '17' for key 'PRIMARY'
+2019/05/15 11:26:51.059 [I]  插入灯初始数据成功 0
+2019/05/15 11:26:51.059 [I]  {18 0xc4200cda00 1018 18 nullstr false}
+2019/05/15 11:26:51.155 [I]  插入数据失败 Error 1062: Duplicate entry '18' for key 'PRIMARY'
+2019/05/15 11:26:51.155 [I]  插入灯初始数据成功 0
+2019/05/15 11:26:51.155 [I]  {19 0xc4200cda00 1019 19 nullstr false}
+2019/05/15 11:26:51.259 [I]  插入数据失败 Error 1062: Duplicate entry '19' for key 'PRIMARY'
+2019/05/15 11:26:51.259 [I]  插入灯初始数据成功 0
+2019/05/15 11:26:51.259 [I]  使用中的灯 aaabedb9bc77ce4365a5f3cc4450bac4 
+2019/05/15 11:26:51.259 [I]  金币数 aaabedb9bc77ce4365a5f3cc4450bac4 
+2019/05/15 11:26:51.259 [I]  最高关卡数 aaabedb9bc77ce4365a5f3cc4450bac4 
+2019/05/15 11:26:51.259 [I]  当前关卡数 aaabedb9bc77ce4365a5f3cc4450bac4 
+2019/05/15 11:29:11.334 [I]  初始化服务 url：/api/plant/config
+2019/05/15 11:29:11.480 [I]  ConfigLamp  初始化服务 url：/api/lamp/config
+2019/05/15 11:29:11.480 [I]  map[dbNum:2 password: key:lamp conn:127.0.0.1:6379]
+2019/05/15 11:29:11.541 [I]  [116 101 115 116]
+2019/05/15 11:29:11.541 [I]  test
+2019/05/15 11:29:11.784 [I]  [{1 1001 1 nullstr false} {2 1002 2 nullstr false} {3 1003 3 nullstr false} {4 1004 4 nullstr false} {5 1005 5 nullstr false} {6 1006 6 nullstr false} {7 1007 7 nullstr false} {8 1008 8 nullstr false} {9 1009 9 nullstr false} {10 1010 10 nullstr false} {11 1011 11 nullstr false} {12 1012 12 nullstr false} {13 1013 13 nullstr false} {14 1014 14 nullstr false} {15 1015 15 nullstr false} {16 1016 16 nullstr false} {17 1017 17 nullstr false} {18 1018 18 nullstr false} {19 1019 19 nullstr false}]
+2019/05/15 11:29:11.895 [I]  {1 0xc4202256c0 1001 1 nullstr false}
+2019/05/15 11:29:12.216 [I]  插入数据失败 Error 1062: Duplicate entry '1' for key 'PRIMARY'
+2019/05/15 11:29:12.216 [I]  插入灯初始数据成功 0
+2019/05/15 11:29:12.216 [I]  {1 0xc4202256c0 1002 2 nullstr false}
+2019/05/15 11:29:12.331 [I]  插入数据失败 Error 1062: Duplicate entry '1' for key 'PRIMARY'
+2019/05/15 11:29:12.331 [I]  插入灯初始数据成功 0
+2019/05/15 11:29:12.331 [I]  {1 0xc4202256c0 1003 3 nullstr false}
+2019/05/15 11:29:12.575 [I]  插入数据失败 Error 1062: Duplicate entry '1' for key 'PRIMARY'
+2019/05/15 11:29:12.575 [I]  插入灯初始数据成功 0
+2019/05/15 11:29:12.575 [I]  {1 0xc4202256c0 1004 4 nullstr false}
+2019/05/15 11:29:12.722 [I]  插入数据失败 Error 1062: Duplicate entry '1' for key 'PRIMARY'
+2019/05/15 11:29:12.722 [I]  插入灯初始数据成功 0
+2019/05/15 11:29:12.723 [I]  {1 0xc4202256c0 1005 5 nullstr false}
+2019/05/15 11:29:12.796 [I]  插入数据失败 Error 1062: Duplicate entry '1' for key 'PRIMARY'
+2019/05/15 11:29:12.796 [I]  插入灯初始数据成功 0
+2019/05/15 11:29:12.796 [I]  {1 0xc4202256c0 1006 6 nullstr false}
+2019/05/15 11:29:13.044 [I]  插入数据失败 Error 1062: Duplicate entry '1' for key 'PRIMARY'
+2019/05/15 11:29:13.044 [I]  插入灯初始数据成功 0
+2019/05/15 11:29:13.044 [I]  {1 0xc4202256c0 1007 7 nullstr false}
+2019/05/15 11:29:13.169 [I]  插入数据失败 Error 1062: Duplicate entry '1' for key 'PRIMARY'
+2019/05/15 11:29:13.169 [I]  插入灯初始数据成功 0
+2019/05/15 11:29:13.169 [I]  {1 0xc4202256c0 1008 8 nullstr false}
+2019/05/15 11:29:13.287 [I]  插入数据失败 Error 1062: Duplicate entry '1' for key 'PRIMARY'
+2019/05/15 11:29:13.287 [I]  插入灯初始数据成功 0
+2019/05/15 11:29:13.287 [I]  {1 0xc4202256c0 1009 9 nullstr false}
+2019/05/15 11:29:13.599 [I]  插入数据失败 Error 1062: Duplicate entry '1' for key 'PRIMARY'
+2019/05/15 11:29:13.599 [I]  插入灯初始数据成功 0
+2019/05/15 11:29:13.599 [I]  {1 0xc4202256c0 1010 10 nullstr false}
+2019/05/15 11:29:13.810 [I]  插入数据失败 Error 1062: Duplicate entry '1' for key 'PRIMARY'
+2019/05/15 11:29:13.810 [I]  插入灯初始数据成功 0
+2019/05/15 11:29:13.810 [I]  {1 0xc4202256c0 1011 11 nullstr false}
+2019/05/15 11:29:14.104 [I]  插入数据失败 Error 1062: Duplicate entry '1' for key 'PRIMARY'
+2019/05/15 11:29:14.104 [I]  插入灯初始数据成功 0
+2019/05/15 11:29:14.104 [I]  {1 0xc4202256c0 1012 12 nullstr false}
+2019/05/15 11:29:14.193 [I]  插入数据失败 Error 1062: Duplicate entry '1' for key 'PRIMARY'
+2019/05/15 11:29:14.194 [I]  插入灯初始数据成功 0
+2019/05/15 11:29:14.194 [I]  {1 0xc4202256c0 1013 13 nullstr false}
+2019/05/15 11:29:14.284 [I]  插入数据失败 Error 1062: Duplicate entry '1' for key 'PRIMARY'
+2019/05/15 11:29:14.284 [I]  插入灯初始数据成功 0
+2019/05/15 11:29:14.284 [I]  {1 0xc4202256c0 1014 14 nullstr false}
+2019/05/15 11:29:14.387 [I]  插入数据失败 Error 1062: Duplicate entry '1' for key 'PRIMARY'
+2019/05/15 11:29:14.387 [I]  插入灯初始数据成功 0
+2019/05/15 11:29:14.388 [I]  {1 0xc4202256c0 1015 15 nullstr false}
+2019/05/15 11:29:14.607 [I]  插入数据失败 Error 1062: Duplicate entry '1' for key 'PRIMARY'
+2019/05/15 11:29:14.607 [I]  插入灯初始数据成功 0
+2019/05/15 11:29:14.607 [I]  {1 0xc4202256c0 1016 16 nullstr false}
+2019/05/15 11:29:14.832 [I]  插入数据失败 Error 1062: Duplicate entry '1' for key 'PRIMARY'
+2019/05/15 11:29:14.832 [I]  插入灯初始数据成功 0
+2019/05/15 11:29:14.832 [I]  {1 0xc4202256c0 1017 17 nullstr false}
+2019/05/15 11:29:14.995 [I]  插入数据失败 Error 1062: Duplicate entry '1' for key 'PRIMARY'
+2019/05/15 11:29:14.995 [I]  插入灯初始数据成功 0
+2019/05/15 11:29:14.995 [I]  {1 0xc4202256c0 1018 18 nullstr false}
+2019/05/15 11:29:15.191 [I]  插入数据失败 Error 1062: Duplicate entry '1' for key 'PRIMARY'
+2019/05/15 11:29:15.191 [I]  插入灯初始数据成功 0
+2019/05/15 11:29:15.191 [I]  {1 0xc4202256c0 1019 19 nullstr false}
+2019/05/15 11:29:15.365 [I]  插入数据失败 Error 1062: Duplicate entry '1' for key 'PRIMARY'
+2019/05/15 11:29:15.365 [I]  插入灯初始数据成功 0
+2019/05/15 11:29:15.365 [I]  使用中的灯 aaabedb9bc77ce4365a5f3cc4450bac4 
+2019/05/15 11:29:15.365 [I]  金币数 aaabedb9bc77ce4365a5f3cc4450bac4 
+2019/05/15 11:29:15.365 [I]  最高关卡数 aaabedb9bc77ce4365a5f3cc4450bac4 
+2019/05/15 11:29:15.365 [I]  当前关卡数 aaabedb9bc77ce4365a5f3cc4450bac4 
+2019/05/15 11:32:12.551 [I]  初始化服务 url：/api/plant/config
+2019/05/15 11:32:12.583 [I]  ConfigLamp  初始化服务 url：/api/lamp/config
+2019/05/15 11:32:12.583 [I]  map[key:lamp conn:127.0.0.1:6379 dbNum:2 password:]
+2019/05/15 11:32:12.584 [I]  [116 101 115 116]
+2019/05/15 11:32:12.584 [I]  test
+2019/05/15 11:32:12.842 [I]  [{1 1001 1 nullstr false} {2 1002 2 nullstr false} {3 1003 3 nullstr false} {4 1004 4 nullstr false} {5 1005 5 nullstr false} {6 1006 6 nullstr false} {7 1007 7 nullstr false} {8 1008 8 nullstr false} {9 1009 9 nullstr false} {10 1010 10 nullstr false} {11 1011 11 nullstr false} {12 1012 12 nullstr false} {13 1013 13 nullstr false} {14 1014 14 nullstr false} {15 1015 15 nullstr false} {16 1016 16 nullstr false} {17 1017 17 nullstr false} {18 1018 18 nullstr false} {19 1019 19 nullstr false}]
+2019/05/15 11:32:12.851 [I]  {1 0xc4202071e0 1001 1 nullstr false}
+2019/05/15 11:32:12.967 [I]  插入数据失败 Error 1062: Duplicate entry '1' for key 'PRIMARY'
+2019/05/15 11:32:12.967 [I]  插入灯初始数据成功 0
+2019/05/15 11:32:12.967 [I]  {1 0xc4202071e0 1002 2 nullstr false}
+2019/05/15 11:32:13.091 [I]  插入数据失败 Error 1062: Duplicate entry '1' for key 'PRIMARY'
+2019/05/15 11:32:13.091 [I]  插入灯初始数据成功 0
+2019/05/15 11:32:13.091 [I]  {1 0xc4202071e0 1003 3 nullstr false}
+2019/05/15 11:32:13.183 [I]  插入数据失败 Error 1062: Duplicate entry '1' for key 'PRIMARY'
+2019/05/15 11:32:13.183 [I]  插入灯初始数据成功 0
+2019/05/15 11:32:13.183 [I]  {1 0xc4202071e0 1004 4 nullstr false}
+2019/05/15 11:32:13.275 [I]  插入数据失败 Error 1062: Duplicate entry '1' for key 'PRIMARY'
+2019/05/15 11:32:13.275 [I]  插入灯初始数据成功 0
+2019/05/15 11:32:13.275 [I]  {1 0xc4202071e0 1005 5 nullstr false}
+2019/05/15 11:32:13.371 [I]  插入数据失败 Error 1062: Duplicate entry '1' for key 'PRIMARY'
+2019/05/15 11:32:13.371 [I]  插入灯初始数据成功 0
+2019/05/15 11:32:13.371 [I]  {1 0xc4202071e0 1006 6 nullstr false}
+2019/05/15 11:32:13.488 [I]  插入数据失败 Error 1062: Duplicate entry '1' for key 'PRIMARY'
+2019/05/15 11:32:13.488 [I]  插入灯初始数据成功 0
+2019/05/15 11:32:13.488 [I]  {1 0xc4202071e0 1007 7 nullstr false}
+2019/05/15 11:32:13.556 [I]  插入数据失败 Error 1062: Duplicate entry '1' for key 'PRIMARY'
+2019/05/15 11:32:13.556 [I]  插入灯初始数据成功 0
+2019/05/15 11:32:13.556 [I]  {1 0xc4202071e0 1008 8 nullstr false}
+2019/05/15 11:32:13.628 [I]  插入数据失败 Error 1062: Duplicate entry '1' for key 'PRIMARY'
+2019/05/15 11:32:13.628 [I]  插入灯初始数据成功 0
+2019/05/15 11:32:13.628 [I]  {1 0xc4202071e0 1009 9 nullstr false}
+2019/05/15 11:32:13.718 [I]  插入数据失败 Error 1062: Duplicate entry '1' for key 'PRIMARY'
+2019/05/15 11:32:13.718 [I]  插入灯初始数据成功 0
+2019/05/15 11:32:13.718 [I]  {1 0xc4202071e0 1010 10 nullstr false}
+2019/05/15 11:32:13.782 [I]  插入数据失败 Error 1062: Duplicate entry '1' for key 'PRIMARY'
+2019/05/15 11:32:13.782 [I]  插入灯初始数据成功 0
+2019/05/15 11:32:13.782 [I]  {1 0xc4202071e0 1011 11 nullstr false}
+2019/05/15 11:32:13.827 [I]  插入数据失败 Error 1062: Duplicate entry '1' for key 'PRIMARY'
+2019/05/15 11:32:13.827 [I]  插入灯初始数据成功 0
+2019/05/15 11:32:13.827 [I]  {1 0xc4202071e0 1012 12 nullstr false}
+2019/05/15 11:32:13.898 [I]  插入数据失败 Error 1062: Duplicate entry '1' for key 'PRIMARY'
+2019/05/15 11:32:13.898 [I]  插入灯初始数据成功 0
+2019/05/15 11:32:13.898 [I]  {1 0xc4202071e0 1013 13 nullstr false}
+2019/05/15 11:32:13.954 [I]  插入数据失败 Error 1062: Duplicate entry '1' for key 'PRIMARY'
+2019/05/15 11:32:13.954 [I]  插入灯初始数据成功 0
+2019/05/15 11:32:13.954 [I]  {1 0xc4202071e0 1014 14 nullstr false}
+2019/05/15 11:32:14.090 [I]  插入数据失败 Error 1062: Duplicate entry '1' for key 'PRIMARY'
+2019/05/15 11:32:14.090 [I]  插入灯初始数据成功 0
+2019/05/15 11:32:14.090 [I]  {1 0xc4202071e0 1015 15 nullstr false}
+2019/05/15 11:32:14.185 [I]  插入数据失败 Error 1062: Duplicate entry '1' for key 'PRIMARY'
+2019/05/15 11:32:14.185 [I]  插入灯初始数据成功 0
+2019/05/15 11:32:14.186 [I]  {1 0xc4202071e0 1016 16 nullstr false}
+2019/05/15 11:32:14.283 [I]  插入数据失败 Error 1062: Duplicate entry '1' for key 'PRIMARY'
+2019/05/15 11:32:14.283 [I]  插入灯初始数据成功 0
+2019/05/15 11:32:14.283 [I]  {1 0xc4202071e0 1017 17 nullstr false}
+2019/05/15 11:32:14.350 [I]  插入数据失败 Error 1062: Duplicate entry '1' for key 'PRIMARY'
+2019/05/15 11:32:14.350 [I]  插入灯初始数据成功 0
+2019/05/15 11:32:14.351 [I]  {1 0xc4202071e0 1018 18 nullstr false}
+2019/05/15 11:32:14.441 [I]  插入数据失败 Error 1062: Duplicate entry '1' for key 'PRIMARY'
+2019/05/15 11:32:14.442 [I]  插入灯初始数据成功 0
+2019/05/15 11:32:14.442 [I]  {1 0xc4202071e0 1019 19 nullstr false}
+2019/05/15 11:32:14.833 [I]  插入数据失败 Error 1062: Duplicate entry '1' for key 'PRIMARY'
+2019/05/15 11:32:14.834 [I]  插入灯初始数据成功 0
+2019/05/15 11:32:14.834 [I]  使用中的灯 aaabedb9bc77ce4365a5f3cc4450bac4 
+2019/05/15 11:32:14.834 [I]  金币数 aaabedb9bc77ce4365a5f3cc4450bac4 
+2019/05/15 11:32:14.834 [I]  最高关卡数 aaabedb9bc77ce4365a5f3cc4450bac4 
+2019/05/15 11:32:14.834 [I]  当前关卡数 aaabedb9bc77ce4365a5f3cc4450bac4 
+2019/05/15 11:34:37.848 [I]  初始化服务 url：/api/plant/config
+2019/05/15 11:34:37.862 [I]  ConfigLamp  初始化服务 url：/api/lamp/config
+2019/05/15 11:34:37.862 [I]  map[conn:127.0.0.1:6379 dbNum:2 password: key:lamp]
+2019/05/15 11:34:37.863 [I]  [116 101 115 116]
+2019/05/15 11:34:37.863 [I]  test
+2019/05/15 11:34:37.961 [I]  [{1 1001 1 nullstr false} {2 1002 2 nullstr false} {3 1003 3 nullstr false} {4 1004 4 nullstr false} {5 1005 5 nullstr false} {6 1006 6 nullstr false} {7 1007 7 nullstr false} {8 1008 8 nullstr false} {9 1009 9 nullstr false} {10 1010 10 nullstr false} {11 1011 11 nullstr false} {12 1012 12 nullstr false} {13 1013 13 nullstr false} {14 1014 14 nullstr false} {15 1015 15 nullstr false} {16 1016 16 nullstr false} {17 1017 17 nullstr false} {18 1018 18 nullstr false} {19 1019 19 nullstr false}]
+2019/05/15 11:34:38.040 [I]  {0 0xc4201af380 1001 1 nullstr false}
+2019/05/15 11:34:38.129 [I]  插入灯初始数据成功 21
+2019/05/15 11:34:38.129 [I]  {21 0xc4201af380 1002 2 nullstr false}
+2019/05/15 11:34:38.200 [I]  插入数据失败 Error 1062: Duplicate entry '21' for key 'PRIMARY'
+2019/05/15 11:34:38.200 [I]  插入灯初始数据成功 0
+2019/05/15 11:34:38.200 [I]  {21 0xc4201af380 1003 3 nullstr false}
+2019/05/15 11:34:38.286 [I]  插入数据失败 Error 1062: Duplicate entry '21' for key 'PRIMARY'
+2019/05/15 11:34:38.286 [I]  插入灯初始数据成功 0
+2019/05/15 11:34:38.286 [I]  {21 0xc4201af380 1004 4 nullstr false}
+2019/05/15 11:34:38.389 [I]  插入数据失败 Error 1062: Duplicate entry '21' for key 'PRIMARY'
+2019/05/15 11:34:38.389 [I]  插入灯初始数据成功 0
+2019/05/15 11:34:38.389 [I]  {21 0xc4201af380 1005 5 nullstr false}
+2019/05/15 11:34:38.428 [I]  插入数据失败 Error 1062: Duplicate entry '21' for key 'PRIMARY'
+2019/05/15 11:34:38.428 [I]  插入灯初始数据成功 0
+2019/05/15 11:34:38.428 [I]  {21 0xc4201af380 1006 6 nullstr false}
+2019/05/15 11:34:38.479 [I]  插入数据失败 Error 1062: Duplicate entry '21' for key 'PRIMARY'
+2019/05/15 11:34:38.479 [I]  插入灯初始数据成功 0
+2019/05/15 11:34:38.479 [I]  {21 0xc4201af380 1007 7 nullstr false}
+2019/05/15 11:34:38.542 [I]  插入数据失败 Error 1062: Duplicate entry '21' for key 'PRIMARY'
+2019/05/15 11:34:38.542 [I]  插入灯初始数据成功 0
+2019/05/15 11:34:38.542 [I]  {21 0xc4201af380 1008 8 nullstr false}
+2019/05/15 11:34:38.633 [I]  插入数据失败 Error 1062: Duplicate entry '21' for key 'PRIMARY'
+2019/05/15 11:34:38.633 [I]  插入灯初始数据成功 0
+2019/05/15 11:34:38.634 [I]  {21 0xc4201af380 1009 9 nullstr false}
+2019/05/15 11:34:38.775 [I]  插入数据失败 Error 1062: Duplicate entry '21' for key 'PRIMARY'
+2019/05/15 11:34:38.775 [I]  插入灯初始数据成功 0
+2019/05/15 11:34:38.775 [I]  {21 0xc4201af380 1010 10 nullstr false}
+2019/05/15 11:34:38.844 [I]  插入数据失败 Error 1062: Duplicate entry '21' for key 'PRIMARY'
+2019/05/15 11:34:38.844 [I]  插入灯初始数据成功 0
+2019/05/15 11:34:38.844 [I]  {21 0xc4201af380 1011 11 nullstr false}
+2019/05/15 11:34:38.874 [I]  插入数据失败 Error 1062: Duplicate entry '21' for key 'PRIMARY'
+2019/05/15 11:34:38.874 [I]  插入灯初始数据成功 0
+2019/05/15 11:34:38.874 [I]  {21 0xc4201af380 1012 12 nullstr false}
+2019/05/15 11:34:38.931 [I]  插入数据失败 Error 1062: Duplicate entry '21' for key 'PRIMARY'
+2019/05/15 11:34:38.931 [I]  插入灯初始数据成功 0
+2019/05/15 11:34:38.931 [I]  {21 0xc4201af380 1013 13 nullstr false}
+2019/05/15 11:34:38.997 [I]  插入数据失败 Error 1062: Duplicate entry '21' for key 'PRIMARY'
+2019/05/15 11:34:38.997 [I]  插入灯初始数据成功 0
+2019/05/15 11:34:38.997 [I]  {21 0xc4201af380 1014 14 nullstr false}
+2019/05/15 11:34:39.021 [I]  插入数据失败 Error 1062: Duplicate entry '21' for key 'PRIMARY'
+2019/05/15 11:34:39.021 [I]  插入灯初始数据成功 0
+2019/05/15 11:34:39.021 [I]  {21 0xc4201af380 1015 15 nullstr false}
+2019/05/15 11:34:39.093 [I]  插入数据失败 Error 1062: Duplicate entry '21' for key 'PRIMARY'
+2019/05/15 11:34:39.093 [I]  插入灯初始数据成功 0
+2019/05/15 11:34:39.093 [I]  {21 0xc4201af380 1016 16 nullstr false}
+2019/05/15 11:34:39.182 [I]  插入数据失败 Error 1062: Duplicate entry '21' for key 'PRIMARY'
+2019/05/15 11:34:39.182 [I]  插入灯初始数据成功 0
+2019/05/15 11:34:39.182 [I]  {21 0xc4201af380 1017 17 nullstr false}
+2019/05/15 11:34:39.286 [I]  插入数据失败 Error 1062: Duplicate entry '21' for key 'PRIMARY'
+2019/05/15 11:34:39.287 [I]  插入灯初始数据成功 0
+2019/05/15 11:34:39.287 [I]  {21 0xc4201af380 1018 18 nullstr false}
+2019/05/15 11:34:39.340 [I]  插入数据失败 Error 1062: Duplicate entry '21' for key 'PRIMARY'
+2019/05/15 11:34:39.340 [I]  插入灯初始数据成功 0
+2019/05/15 11:34:39.340 [I]  {21 0xc4201af380 1019 19 nullstr false}
+2019/05/15 11:34:39.642 [I]  插入数据失败 Error 1062: Duplicate entry '21' for key 'PRIMARY'
+2019/05/15 11:34:39.642 [I]  插入灯初始数据成功 0
+2019/05/15 11:34:39.644 [I]  使用中的灯 aaabedb9bc77ce4365a5f3cc4450bac4 
+2019/05/15 11:34:39.644 [I]  金币数 aaabedb9bc77ce4365a5f3cc4450bac4 
+2019/05/15 11:34:39.644 [I]  最高关卡数 aaabedb9bc77ce4365a5f3cc4450bac4 
+2019/05/15 11:34:39.644 [I]  当前关卡数 aaabedb9bc77ce4365a5f3cc4450bac4 
+2019/05/15 11:38:26.500 [I]  初始化服务 url：/api/plant/config
+2019/05/15 11:38:26.518 [I]  ConfigLamp  初始化服务 url：/api/lamp/config
+2019/05/15 11:38:26.518 [I]  map[key:lamp conn:127.0.0.1:6379 dbNum:2 password:]
+2019/05/15 11:38:26.519 [I]  [116 101 115 116]
+2019/05/15 11:38:26.519 [I]  test
+2019/05/15 11:38:26.657 [I]  [{1 1001 1 nullstr false} {2 1002 2 nullstr false} {3 1003 3 nullstr false} {4 1004 4 nullstr false} {5 1005 5 nullstr false} {6 1006 6 nullstr false} {7 1007 7 nullstr false} {8 1008 8 nullstr false} {9 1009 9 nullstr false} {10 1010 10 nullstr false} {11 1011 11 nullstr false} {12 1012 12 nullstr false} {13 1013 13 nullstr false} {14 1014 14 nullstr false} {15 1015 15 nullstr false} {16 1016 16 nullstr false} {17 1017 17 nullstr false} {18 1018 18 nullstr false} {19 1019 19 nullstr false}]
+2019/05/15 11:38:26.657 [I]  {0 0xc4200cc340 1001 1 nullstr false}
+2019/05/15 11:38:26.720 [I]  插入灯初始数据成功 22
+2019/05/15 11:38:26.720 [I]  {22 0xc4200cc340 1002 2 nullstr false}
+2019/05/15 11:38:26.786 [I]  插入数据失败 Error 1062: Duplicate entry '22' for key 'PRIMARY'
+2019/05/15 11:38:26.786 [I]  插入灯初始数据成功 0
+2019/05/15 11:38:26.786 [I]  {22 0xc4200cc340 1003 3 nullstr false}
+2019/05/15 11:38:26.847 [I]  插入数据失败 Error 1062: Duplicate entry '22' for key 'PRIMARY'
+2019/05/15 11:38:26.847 [I]  插入灯初始数据成功 0
+2019/05/15 11:38:26.847 [I]  {22 0xc4200cc340 1004 4 nullstr false}
+2019/05/15 11:38:26.895 [I]  插入数据失败 Error 1062: Duplicate entry '22' for key 'PRIMARY'
+2019/05/15 11:38:26.895 [I]  插入灯初始数据成功 0
+2019/05/15 11:38:26.895 [I]  {22 0xc4200cc340 1005 5 nullstr false}
+2019/05/15 11:38:26.933 [I]  插入数据失败 Error 1062: Duplicate entry '22' for key 'PRIMARY'
+2019/05/15 11:38:26.933 [I]  插入灯初始数据成功 0
+2019/05/15 11:38:26.933 [I]  {22 0xc4200cc340 1006 6 nullstr false}
+2019/05/15 11:38:26.982 [I]  插入数据失败 Error 1062: Duplicate entry '22' for key 'PRIMARY'
+2019/05/15 11:38:26.982 [I]  插入灯初始数据成功 0
+2019/05/15 11:38:26.982 [I]  {22 0xc4200cc340 1007 7 nullstr false}
+2019/05/15 11:38:27.036 [I]  插入数据失败 Error 1062: Duplicate entry '22' for key 'PRIMARY'
+2019/05/15 11:38:27.036 [I]  插入灯初始数据成功 0
+2019/05/15 11:38:27.036 [I]  {22 0xc4200cc340 1008 8 nullstr false}
+2019/05/15 11:38:27.093 [I]  插入数据失败 Error 1062: Duplicate entry '22' for key 'PRIMARY'
+2019/05/15 11:38:27.093 [I]  插入灯初始数据成功 0
+2019/05/15 11:38:27.093 [I]  {22 0xc4200cc340 1009 9 nullstr false}
+2019/05/15 11:38:27.175 [I]  插入数据失败 Error 1062: Duplicate entry '22' for key 'PRIMARY'
+2019/05/15 11:38:27.175 [I]  插入灯初始数据成功 0
+2019/05/15 11:38:27.175 [I]  {22 0xc4200cc340 1010 10 nullstr false}
+2019/05/15 11:38:27.278 [I]  插入数据失败 Error 1062: Duplicate entry '22' for key 'PRIMARY'
+2019/05/15 11:38:27.278 [I]  插入灯初始数据成功 0
+2019/05/15 11:38:27.278 [I]  {22 0xc4200cc340 1011 11 nullstr false}
+2019/05/15 11:38:27.358 [I]  插入数据失败 Error 1062: Duplicate entry '22' for key 'PRIMARY'
+2019/05/15 11:38:27.358 [I]  插入灯初始数据成功 0
+2019/05/15 11:38:27.358 [I]  {22 0xc4200cc340 1012 12 nullstr false}
+2019/05/15 11:38:27.439 [I]  插入数据失败 Error 1062: Duplicate entry '22' for key 'PRIMARY'
+2019/05/15 11:38:27.439 [I]  插入灯初始数据成功 0
+2019/05/15 11:38:27.439 [I]  {22 0xc4200cc340 1013 13 nullstr false}
+2019/05/15 11:38:27.527 [I]  插入数据失败 Error 1062: Duplicate entry '22' for key 'PRIMARY'
+2019/05/15 11:38:27.527 [I]  插入灯初始数据成功 0
+2019/05/15 11:38:27.527 [I]  {22 0xc4200cc340 1014 14 nullstr false}
+2019/05/15 11:38:27.607 [I]  插入数据失败 Error 1062: Duplicate entry '22' for key 'PRIMARY'
+2019/05/15 11:38:27.607 [I]  插入灯初始数据成功 0
+2019/05/15 11:38:27.607 [I]  {22 0xc4200cc340 1015 15 nullstr false}
+2019/05/15 11:38:27.666 [I]  插入数据失败 Error 1062: Duplicate entry '22' for key 'PRIMARY'
+2019/05/15 11:38:27.666 [I]  插入灯初始数据成功 0
+2019/05/15 11:38:27.666 [I]  {22 0xc4200cc340 1016 16 nullstr false}
+2019/05/15 11:38:27.731 [I]  插入数据失败 Error 1062: Duplicate entry '22' for key 'PRIMARY'
+2019/05/15 11:38:27.731 [I]  插入灯初始数据成功 0
+2019/05/15 11:38:27.731 [I]  {22 0xc4200cc340 1017 17 nullstr false}
+2019/05/15 11:38:27.846 [I]  插入数据失败 Error 1062: Duplicate entry '22' for key 'PRIMARY'
+2019/05/15 11:38:27.846 [I]  插入灯初始数据成功 0
+2019/05/15 11:38:27.846 [I]  {22 0xc4200cc340 1018 18 nullstr false}
+2019/05/15 11:38:27.897 [I]  插入数据失败 Error 1062: Duplicate entry '22' for key 'PRIMARY'
+2019/05/15 11:38:27.897 [I]  插入灯初始数据成功 0
+2019/05/15 11:38:27.897 [I]  {22 0xc4200cc340 1019 19 nullstr false}
+2019/05/15 11:38:27.971 [I]  插入数据失败 Error 1062: Duplicate entry '22' for key 'PRIMARY'
+2019/05/15 11:38:27.971 [I]  插入灯初始数据成功 0
+2019/05/15 11:38:27.971 [I]  使用中的灯 aaabedb9bc77ce4365a5f3cc4450bac4 
+2019/05/15 11:38:27.971 [I]  金币数 aaabedb9bc77ce4365a5f3cc4450bac4 
+2019/05/15 11:38:27.971 [I]  最高关卡数 aaabedb9bc77ce4365a5f3cc4450bac4 
+2019/05/15 11:38:27.971 [I]  当前关卡数 aaabedb9bc77ce4365a5f3cc4450bac4 
+2019/05/15 11:40:06.538 [I]  初始化服务 url：/api/plant/config
+2019/05/15 11:40:06.547 [I]  ConfigLamp  初始化服务 url：/api/lamp/config
+2019/05/15 11:40:06.547 [I]  map[key:lamp conn:127.0.0.1:6379 dbNum:2 password:]
+2019/05/15 11:40:06.551 [I]  [116 101 115 116]
+2019/05/15 11:40:06.551 [I]  test
+2019/05/15 11:40:06.669 [I]  [{1 1001 1 nullstr false} {2 1002 2 nullstr false} {3 1003 3 nullstr false} {4 1004 4 nullstr false} {5 1005 5 nullstr false} {6 1006 6 nullstr false} {7 1007 7 nullstr false} {8 1008 8 nullstr false} {9 1009 9 nullstr false} {10 1010 10 nullstr false} {11 1011 11 nullstr false} {12 1012 12 nullstr false} {13 1013 13 nullstr false} {14 1014 14 nullstr false} {15 1015 15 nullstr false} {16 1016 16 nullstr false} {17 1017 17 nullstr false} {18 1018 18 nullstr false} {19 1019 19 nullstr false}]
+2019/05/15 11:40:06.669 [I]  +++++++++++++++++ {0 0xc4201cb1e0 1001 1 nullstr false}
+2019/05/15 11:40:06.735 [I]  插入灯初始数据成功 23
+2019/05/15 11:40:06.735 [I]  +++++++++++++++++ {23 0xc4201cb1e0 1002 2 nullstr false}
+2019/05/15 11:40:06.812 [I]  插入数据失败 Error 1062: Duplicate entry '23' for key 'PRIMARY'
+2019/05/15 11:40:06.812 [I]  插入灯初始数据成功 0
+2019/05/15 11:40:06.812 [I]  +++++++++++++++++ {23 0xc4201cb1e0 1003 3 nullstr false}
+2019/05/15 11:40:06.903 [I]  插入数据失败 Error 1062: Duplicate entry '23' for key 'PRIMARY'
+2019/05/15 11:40:06.903 [I]  插入灯初始数据成功 0
+2019/05/15 11:40:06.903 [I]  +++++++++++++++++ {23 0xc4201cb1e0 1004 4 nullstr false}
+2019/05/15 11:40:06.965 [I]  插入数据失败 Error 1062: Duplicate entry '23' for key 'PRIMARY'
+2019/05/15 11:40:06.966 [I]  插入灯初始数据成功 0
+2019/05/15 11:40:06.966 [I]  +++++++++++++++++ {23 0xc4201cb1e0 1005 5 nullstr false}
+2019/05/15 11:40:07.026 [I]  插入数据失败 Error 1062: Duplicate entry '23' for key 'PRIMARY'
+2019/05/15 11:40:07.026 [I]  插入灯初始数据成功 0
+2019/05/15 11:40:07.026 [I]  +++++++++++++++++ {23 0xc4201cb1e0 1006 6 nullstr false}
+2019/05/15 11:40:07.078 [I]  插入数据失败 Error 1062: Duplicate entry '23' for key 'PRIMARY'
+2019/05/15 11:40:07.078 [I]  插入灯初始数据成功 0
+2019/05/15 11:40:07.078 [I]  +++++++++++++++++ {23 0xc4201cb1e0 1007 7 nullstr false}
+2019/05/15 11:40:07.169 [I]  插入数据失败 Error 1062: Duplicate entry '23' for key 'PRIMARY'
+2019/05/15 11:40:07.169 [I]  插入灯初始数据成功 0
+2019/05/15 11:40:07.169 [I]  +++++++++++++++++ {23 0xc4201cb1e0 1008 8 nullstr false}
+2019/05/15 11:40:07.246 [I]  插入数据失败 Error 1062: Duplicate entry '23' for key 'PRIMARY'
+2019/05/15 11:40:07.246 [I]  插入灯初始数据成功 0
+2019/05/15 11:40:07.246 [I]  +++++++++++++++++ {23 0xc4201cb1e0 1009 9 nullstr false}
+2019/05/15 11:40:07.337 [I]  插入数据失败 Error 1062: Duplicate entry '23' for key 'PRIMARY'
+2019/05/15 11:40:07.337 [I]  插入灯初始数据成功 0
+2019/05/15 11:40:07.337 [I]  +++++++++++++++++ {23 0xc4201cb1e0 1010 10 nullstr false}
+2019/05/15 11:40:07.431 [I]  插入数据失败 Error 1062: Duplicate entry '23' for key 'PRIMARY'
+2019/05/15 11:40:07.431 [I]  插入灯初始数据成功 0
+2019/05/15 11:40:07.431 [I]  +++++++++++++++++ {23 0xc4201cb1e0 1011 11 nullstr false}
+2019/05/15 11:40:07.546 [I]  插入数据失败 Error 1062: Duplicate entry '23' for key 'PRIMARY'
+2019/05/15 11:40:07.547 [I]  插入灯初始数据成功 0
+2019/05/15 11:40:07.547 [I]  +++++++++++++++++ {23 0xc4201cb1e0 1012 12 nullstr false}
+2019/05/15 11:40:07.652 [I]  插入数据失败 Error 1062: Duplicate entry '23' for key 'PRIMARY'
+2019/05/15 11:40:07.652 [I]  插入灯初始数据成功 0
+2019/05/15 11:40:07.652 [I]  +++++++++++++++++ {23 0xc4201cb1e0 1013 13 nullstr false}
+2019/05/15 11:40:07.786 [I]  插入数据失败 Error 1062: Duplicate entry '23' for key 'PRIMARY'
+2019/05/15 11:40:07.786 [I]  插入灯初始数据成功 0
+2019/05/15 11:40:07.786 [I]  +++++++++++++++++ {23 0xc4201cb1e0 1014 14 nullstr false}
+2019/05/15 11:40:07.913 [I]  插入数据失败 Error 1062: Duplicate entry '23' for key 'PRIMARY'
+2019/05/15 11:40:07.913 [I]  插入灯初始数据成功 0
+2019/05/15 11:40:07.913 [I]  +++++++++++++++++ {23 0xc4201cb1e0 1015 15 nullstr false}
+2019/05/15 11:40:07.968 [I]  插入数据失败 Error 1062: Duplicate entry '23' for key 'PRIMARY'
+2019/05/15 11:40:07.968 [I]  插入灯初始数据成功 0
+2019/05/15 11:40:07.968 [I]  +++++++++++++++++ {23 0xc4201cb1e0 1016 16 nullstr false}
+2019/05/15 11:40:08.052 [I]  插入数据失败 Error 1062: Duplicate entry '23' for key 'PRIMARY'
+2019/05/15 11:40:08.052 [I]  插入灯初始数据成功 0
+2019/05/15 11:40:08.052 [I]  +++++++++++++++++ {23 0xc4201cb1e0 1017 17 nullstr false}
+2019/05/15 11:40:08.159 [I]  插入数据失败 Error 1062: Duplicate entry '23' for key 'PRIMARY'
+2019/05/15 11:40:08.159 [I]  插入灯初始数据成功 0
+2019/05/15 11:40:08.159 [I]  +++++++++++++++++ {23 0xc4201cb1e0 1018 18 nullstr false}
+2019/05/15 11:40:08.219 [I]  插入数据失败 Error 1062: Duplicate entry '23' for key 'PRIMARY'
+2019/05/15 11:40:08.220 [I]  插入灯初始数据成功 0
+2019/05/15 11:40:08.220 [I]  +++++++++++++++++ {23 0xc4201cb1e0 1019 19 nullstr false}
+2019/05/15 11:40:08.276 [I]  插入数据失败 Error 1062: Duplicate entry '23' for key 'PRIMARY'
+2019/05/15 11:40:08.276 [I]  插入灯初始数据成功 0
+2019/05/15 11:40:08.276 [I]  使用中的灯 aaabedb9bc77ce4365a5f3cc4450bac4 
+2019/05/15 11:40:08.276 [I]  金币数 aaabedb9bc77ce4365a5f3cc4450bac4 
+2019/05/15 11:40:08.276 [I]  最高关卡数 aaabedb9bc77ce4365a5f3cc4450bac4 
+2019/05/15 11:40:08.276 [I]  当前关卡数 aaabedb9bc77ce4365a5f3cc4450bac4 
+2019/05/15 11:41:09.807 [I]  初始化服务 url：/api/plant/config
+2019/05/15 11:41:09.815 [I]  ConfigLamp  初始化服务 url：/api/lamp/config
+2019/05/15 11:41:09.815 [I]  map[key:lamp conn:127.0.0.1:6379 dbNum:2 password:]
+2019/05/15 11:41:09.815 [I]  [116 101 115 116]
+2019/05/15 11:41:09.815 [I]  test
+2019/05/15 11:41:09.936 [I]  [{1 1001 1 nullstr false} {2 1002 2 nullstr false} {3 1003 3 nullstr false} {4 1004 4 nullstr false} {5 1005 5 nullstr false} {6 1006 6 nullstr false} {7 1007 7 nullstr false} {8 1008 8 nullstr false} {9 1009 9 nullstr false} {10 1010 10 nullstr false} {11 1011 11 nullstr false} {12 1012 12 nullstr false} {13 1013 13 nullstr false} {14 1014 14 nullstr false} {15 1015 15 nullstr false} {16 1016 16 nullstr false} {17 1017 17 nullstr false} {18 1018 18 nullstr false} {19 1019 19 nullstr false}]
+2019/05/15 11:41:09.936 [I]  +++++++++++++++++ {0 <nil> 1001 1  }
+2019/05/15 11:41:09.937 [I]  插入数据失败 field `plant/gateway/models_lamp.Lamp.User` cannot be NULL
+2019/05/15 11:41:09.937 [I]  插入灯初始数据成功 0
+2019/05/15 11:41:09.937 [I]  +++++++++++++++++ {0 <nil> 1002 2  }
+2019/05/15 11:41:09.937 [I]  插入数据失败 field `plant/gateway/models_lamp.Lamp.User` cannot be NULL
+2019/05/15 11:41:09.937 [I]  插入灯初始数据成功 0
+2019/05/15 11:41:09.937 [I]  +++++++++++++++++ {0 <nil> 1003 3  }
+2019/05/15 11:41:09.937 [I]  插入数据失败 field `plant/gateway/models_lamp.Lamp.User` cannot be NULL
+2019/05/15 11:41:09.937 [I]  插入灯初始数据成功 0
+2019/05/15 11:41:09.937 [I]  +++++++++++++++++ {0 <nil> 1004 4  }
+2019/05/15 11:41:09.937 [I]  插入数据失败 field `plant/gateway/models_lamp.Lamp.User` cannot be NULL
+2019/05/15 11:41:09.937 [I]  插入灯初始数据成功 0
+2019/05/15 11:41:09.937 [I]  +++++++++++++++++ {0 <nil> 1005 5  }
+2019/05/15 11:41:09.937 [I]  插入数据失败 field `plant/gateway/models_lamp.Lamp.User` cannot be NULL
+2019/05/15 11:41:09.937 [I]  插入灯初始数据成功 0
+2019/05/15 11:41:09.937 [I]  +++++++++++++++++ {0 <nil> 1006 6  }
+2019/05/15 11:41:09.937 [I]  插入数据失败 field `plant/gateway/models_lamp.Lamp.User` cannot be NULL
+2019/05/15 11:41:09.937 [I]  插入灯初始数据成功 0
+2019/05/15 11:41:09.937 [I]  +++++++++++++++++ {0 <nil> 1007 7  }
+2019/05/15 11:41:09.937 [I]  插入数据失败 field `plant/gateway/models_lamp.Lamp.User` cannot be NULL
+2019/05/15 11:41:09.937 [I]  插入灯初始数据成功 0
+2019/05/15 11:41:09.937 [I]  +++++++++++++++++ {0 <nil> 1008 8  }
+2019/05/15 11:41:09.937 [I]  插入数据失败 field `plant/gateway/models_lamp.Lamp.User` cannot be NULL
+2019/05/15 11:41:09.937 [I]  插入灯初始数据成功 0
+2019/05/15 11:41:09.937 [I]  +++++++++++++++++ {0 <nil> 1009 9  }
+2019/05/15 11:41:09.937 [I]  插入数据失败 field `plant/gateway/models_lamp.Lamp.User` cannot be NULL
+2019/05/15 11:41:09.937 [I]  插入灯初始数据成功 0
+2019/05/15 11:41:09.937 [I]  +++++++++++++++++ {0 <nil> 1010 10  }
+2019/05/15 11:41:09.937 [I]  插入数据失败 field `plant/gateway/models_lamp.Lamp.User` cannot be NULL
+2019/05/15 11:41:09.937 [I]  插入灯初始数据成功 0
+2019/05/15 11:41:09.937 [I]  +++++++++++++++++ {0 <nil> 1011 11  }
+2019/05/15 11:41:09.937 [I]  插入数据失败 field `plant/gateway/models_lamp.Lamp.User` cannot be NULL
+2019/05/15 11:41:09.937 [I]  插入灯初始数据成功 0
+2019/05/15 11:41:09.937 [I]  +++++++++++++++++ {0 <nil> 1012 12  }
+2019/05/15 11:41:09.937 [I]  插入数据失败 field `plant/gateway/models_lamp.Lamp.User` cannot be NULL
+2019/05/15 11:41:09.937 [I]  插入灯初始数据成功 0
+2019/05/15 11:41:09.937 [I]  +++++++++++++++++ {0 <nil> 1013 13  }
+2019/05/15 11:41:09.938 [I]  插入数据失败 field `plant/gateway/models_lamp.Lamp.User` cannot be NULL
+2019/05/15 11:41:09.938 [I]  插入灯初始数据成功 0
+2019/05/15 11:41:09.938 [I]  +++++++++++++++++ {0 <nil> 1014 14  }
+2019/05/15 11:41:09.938 [I]  插入数据失败 field `plant/gateway/models_lamp.Lamp.User` cannot be NULL
+2019/05/15 11:41:09.938 [I]  插入灯初始数据成功 0
+2019/05/15 11:41:09.938 [I]  +++++++++++++++++ {0 <nil> 1015 15  }
+2019/05/15 11:41:09.938 [I]  插入数据失败 field `plant/gateway/models_lamp.Lamp.User` cannot be NULL
+2019/05/15 11:41:09.938 [I]  插入灯初始数据成功 0
+2019/05/15 11:41:09.938 [I]  +++++++++++++++++ {0 <nil> 1016 16  }
+2019/05/15 11:41:09.938 [I]  插入数据失败 field `plant/gateway/models_lamp.Lamp.User` cannot be NULL
+2019/05/15 11:41:09.938 [I]  插入灯初始数据成功 0
+2019/05/15 11:41:09.938 [I]  +++++++++++++++++ {0 <nil> 1017 17  }
+2019/05/15 11:41:09.938 [I]  插入数据失败 field `plant/gateway/models_lamp.Lamp.User` cannot be NULL
+2019/05/15 11:41:09.938 [I]  插入灯初始数据成功 0
+2019/05/15 11:41:09.938 [I]  +++++++++++++++++ {0 <nil> 1018 18  }
+2019/05/15 11:41:09.938 [I]  插入数据失败 field `plant/gateway/models_lamp.Lamp.User` cannot be NULL
+2019/05/15 11:41:09.938 [I]  插入灯初始数据成功 0
+2019/05/15 11:41:09.938 [I]  +++++++++++++++++ {0 <nil> 1019 19  }
+2019/05/15 11:41:09.938 [I]  插入数据失败 field `plant/gateway/models_lamp.Lamp.User` cannot be NULL
+2019/05/15 11:41:09.938 [I]  插入灯初始数据成功 0
+2019/05/15 11:41:09.938 [I]  使用中的灯 aaabedb9bc77ce4365a5f3cc4450bac4 
+2019/05/15 11:41:09.938 [I]  金币数 aaabedb9bc77ce4365a5f3cc4450bac4 
+2019/05/15 11:41:09.938 [I]  最高关卡数 aaabedb9bc77ce4365a5f3cc4450bac4 
+2019/05/15 11:41:09.938 [I]  当前关卡数 aaabedb9bc77ce4365a5f3cc4450bac4 
+2019/05/15 11:41:12.191 [I]  初始化服务 url：/api/plant/config
+2019/05/15 11:41:12.196 [I]  ConfigLamp  初始化服务 url：/api/lamp/config
+2019/05/15 11:41:12.196 [I]  map[password: key:lamp conn:127.0.0.1:6379 dbNum:2]
+2019/05/15 11:41:12.196 [I]  [116 101 115 116]
+2019/05/15 11:41:12.196 [I]  test
+2019/05/15 11:41:12.306 [I]  [{1 1001 1 nullstr false} {2 1002 2 nullstr false} {3 1003 3 nullstr false} {4 1004 4 nullstr false} {5 1005 5 nullstr false} {6 1006 6 nullstr false} {7 1007 7 nullstr false} {8 1008 8 nullstr false} {9 1009 9 nullstr false} {10 1010 10 nullstr false} {11 1011 11 nullstr false} {12 1012 12 nullstr false} {13 1013 13 nullstr false} {14 1014 14 nullstr false} {15 1015 15 nullstr false} {16 1016 16 nullstr false} {17 1017 17 nullstr false} {18 1018 18 nullstr false} {19 1019 19 nullstr false}]
+2019/05/15 11:41:12.306 [I]  +++++++++++++++++ {0 <nil> 1001 1  }
+2019/05/15 11:41:12.306 [I]  插入数据失败 field `plant/gateway/models_lamp.Lamp.User` cannot be NULL
+2019/05/15 11:41:12.306 [I]  插入灯初始数据成功 0
+2019/05/15 11:41:12.306 [I]  +++++++++++++++++ {0 <nil> 1002 2  }
+2019/05/15 11:41:12.306 [I]  插入数据失败 field `plant/gateway/models_lamp.Lamp.User` cannot be NULL
+2019/05/15 11:41:12.306 [I]  插入灯初始数据成功 0
+2019/05/15 11:41:12.306 [I]  +++++++++++++++++ {0 <nil> 1003 3  }
+2019/05/15 11:41:12.306 [I]  插入数据失败 field `plant/gateway/models_lamp.Lamp.User` cannot be NULL
+2019/05/15 11:41:12.306 [I]  插入灯初始数据成功 0
+2019/05/15 11:41:12.306 [I]  +++++++++++++++++ {0 <nil> 1004 4  }
+2019/05/15 11:41:12.306 [I]  插入数据失败 field `plant/gateway/models_lamp.Lamp.User` cannot be NULL
+2019/05/15 11:41:12.306 [I]  插入灯初始数据成功 0
+2019/05/15 11:41:12.306 [I]  +++++++++++++++++ {0 <nil> 1005 5  }
+2019/05/15 11:41:12.306 [I]  插入数据失败 field `plant/gateway/models_lamp.Lamp.User` cannot be NULL
+2019/05/15 11:41:12.306 [I]  插入灯初始数据成功 0
+2019/05/15 11:41:12.306 [I]  +++++++++++++++++ {0 <nil> 1006 6  }
+2019/05/15 11:41:12.306 [I]  插入数据失败 field `plant/gateway/models_lamp.Lamp.User` cannot be NULL
+2019/05/15 11:41:12.306 [I]  插入灯初始数据成功 0
+2019/05/15 11:41:12.306 [I]  +++++++++++++++++ {0 <nil> 1007 7  }
+2019/05/15 11:41:12.306 [I]  插入数据失败 field `plant/gateway/models_lamp.Lamp.User` cannot be NULL
+2019/05/15 11:41:12.306 [I]  插入灯初始数据成功 0
+2019/05/15 11:41:12.306 [I]  +++++++++++++++++ {0 <nil> 1008 8  }
+2019/05/15 11:41:12.306 [I]  插入数据失败 field `plant/gateway/models_lamp.Lamp.User` cannot be NULL
+2019/05/15 11:41:12.306 [I]  插入灯初始数据成功 0
+2019/05/15 11:41:12.306 [I]  +++++++++++++++++ {0 <nil> 1009 9  }
+2019/05/15 11:41:12.306 [I]  插入数据失败 field `plant/gateway/models_lamp.Lamp.User` cannot be NULL
+2019/05/15 11:41:12.306 [I]  插入灯初始数据成功 0
+2019/05/15 11:41:12.306 [I]  +++++++++++++++++ {0 <nil> 1010 10  }
+2019/05/15 11:41:12.307 [I]  插入数据失败 field `plant/gateway/models_lamp.Lamp.User` cannot be NULL
+2019/05/15 11:41:12.307 [I]  插入灯初始数据成功 0
+2019/05/15 11:41:12.307 [I]  +++++++++++++++++ {0 <nil> 1011 11  }
+2019/05/15 11:41:12.307 [I]  插入数据失败 field `plant/gateway/models_lamp.Lamp.User` cannot be NULL
+2019/05/15 11:41:12.307 [I]  插入灯初始数据成功 0
+2019/05/15 11:41:12.307 [I]  +++++++++++++++++ {0 <nil> 1012 12  }
+2019/05/15 11:41:12.307 [I]  插入数据失败 field `plant/gateway/models_lamp.Lamp.User` cannot be NULL
+2019/05/15 11:41:12.307 [I]  插入灯初始数据成功 0
+2019/05/15 11:41:12.307 [I]  +++++++++++++++++ {0 <nil> 1013 13  }
+2019/05/15 11:41:12.307 [I]  插入数据失败 field `plant/gateway/models_lamp.Lamp.User` cannot be NULL
+2019/05/15 11:41:12.307 [I]  插入灯初始数据成功 0
+2019/05/15 11:41:12.307 [I]  +++++++++++++++++ {0 <nil> 1014 14  }
+2019/05/15 11:41:12.307 [I]  插入数据失败 field `plant/gateway/models_lamp.Lamp.User` cannot be NULL
+2019/05/15 11:41:12.307 [I]  插入灯初始数据成功 0
+2019/05/15 11:41:12.307 [I]  +++++++++++++++++ {0 <nil> 1015 15  }
+2019/05/15 11:41:12.307 [I]  插入数据失败 field `plant/gateway/models_lamp.Lamp.User` cannot be NULL
+2019/05/15 11:41:12.307 [I]  插入灯初始数据成功 0
+2019/05/15 11:41:12.307 [I]  +++++++++++++++++ {0 <nil> 1016 16  }
+2019/05/15 11:41:12.307 [I]  插入数据失败 field `plant/gateway/models_lamp.Lamp.User` cannot be NULL
+2019/05/15 11:41:12.307 [I]  插入灯初始数据成功 0
+2019/05/15 11:41:12.307 [I]  +++++++++++++++++ {0 <nil> 1017 17  }
+2019/05/15 11:41:12.307 [I]  插入数据失败 field `plant/gateway/models_lamp.Lamp.User` cannot be NULL
+2019/05/15 11:41:12.307 [I]  插入灯初始数据成功 0
+2019/05/15 11:41:12.307 [I]  +++++++++++++++++ {0 <nil> 1018 18  }
+2019/05/15 11:41:12.307 [I]  插入数据失败 field `plant/gateway/models_lamp.Lamp.User` cannot be NULL
+2019/05/15 11:41:12.307 [I]  插入灯初始数据成功 0
+2019/05/15 11:41:12.307 [I]  +++++++++++++++++ {0 <nil> 1019 19  }
+2019/05/15 11:41:12.307 [I]  插入数据失败 field `plant/gateway/models_lamp.Lamp.User` cannot be NULL
+2019/05/15 11:41:12.307 [I]  插入灯初始数据成功 0
+2019/05/15 11:41:12.307 [I]  使用中的灯 aaabedb9bc77ce4365a5f3cc4450bac4 
+2019/05/15 11:41:12.307 [I]  金币数 aaabedb9bc77ce4365a5f3cc4450bac4 
+2019/05/15 11:41:12.307 [I]  最高关卡数 aaabedb9bc77ce4365a5f3cc4450bac4 
+2019/05/15 11:41:12.307 [I]  当前关卡数 aaabedb9bc77ce4365a5f3cc4450bac4 
+2019/05/15 11:44:47.853 [I]  初始化服务 url：/api/plant/config
+2019/05/15 11:44:47.862 [I]  ConfigLamp  初始化服务 url：/api/lamp/config
+2019/05/15 11:44:47.862 [I]  map[key:lamp conn:127.0.0.1:6379 dbNum:2 password:]
+2019/05/15 11:44:47.862 [I]  [116 101 115 116]
+2019/05/15 11:44:47.862 [I]  test
+2019/05/15 11:44:48.005 [I]  [{1 1001 1 nullstr false} {2 1002 2 nullstr false} {3 1003 3 nullstr false} {4 1004 4 nullstr false} {5 1005 5 nullstr false} {6 1006 6 nullstr false} {7 1007 7 nullstr false} {8 1008 8 nullstr false} {9 1009 9 nullstr false} {10 1010 10 nullstr false} {11 1011 11 nullstr false} {12 1012 12 nullstr false} {13 1013 13 nullstr false} {14 1014 14 nullstr false} {15 1015 15 nullstr false} {16 1016 16 nullstr false} {17 1017 17 nullstr false} {18 1018 18 nullstr false} {19 1019 19 nullstr false}]
+2019/05/15 11:44:48.006 [I]  +++++++++++++++++ {0 0xc4201ff040 1001 1 nullstr false}
+2019/05/15 11:44:48.080 [I]  插入灯初始数据成功 24
+2019/05/15 11:44:48.080 [I]  +++++++++++++++++ {24 0xc4201ff040 1002 2 nullstr false}
+2019/05/15 11:44:48.146 [I]  插入数据失败 Error 1062: Duplicate entry '24' for key 'PRIMARY'
+2019/05/15 11:44:48.146 [I]  插入灯初始数据成功 0
+2019/05/15 11:44:48.146 [I]  +++++++++++++++++ {24 0xc4201ff040 1003 3 nullstr false}
+2019/05/15 11:44:48.226 [I]  插入数据失败 Error 1062: Duplicate entry '24' for key 'PRIMARY'
+2019/05/15 11:44:48.226 [I]  插入灯初始数据成功 0
+2019/05/15 11:44:48.226 [I]  +++++++++++++++++ {24 0xc4201ff040 1004 4 nullstr false}
+2019/05/15 11:44:48.309 [I]  插入数据失败 Error 1062: Duplicate entry '24' for key 'PRIMARY'
+2019/05/15 11:44:48.309 [I]  插入灯初始数据成功 0
+2019/05/15 11:44:48.309 [I]  +++++++++++++++++ {24 0xc4201ff040 1005 5 nullstr false}
+2019/05/15 11:44:48.441 [I]  插入数据失败 Error 1062: Duplicate entry '24' for key 'PRIMARY'
+2019/05/15 11:44:48.441 [I]  插入灯初始数据成功 0
+2019/05/15 11:44:48.441 [I]  +++++++++++++++++ {24 0xc4201ff040 1006 6 nullstr false}
+2019/05/15 11:44:48.575 [I]  插入数据失败 Error 1062: Duplicate entry '24' for key 'PRIMARY'
+2019/05/15 11:44:48.575 [I]  插入灯初始数据成功 0
+2019/05/15 11:44:48.575 [I]  +++++++++++++++++ {24 0xc4201ff040 1007 7 nullstr false}
+2019/05/15 11:44:48.730 [I]  插入数据失败 Error 1062: Duplicate entry '24' for key 'PRIMARY'
+2019/05/15 11:44:48.730 [I]  插入灯初始数据成功 0
+2019/05/15 11:44:48.730 [I]  +++++++++++++++++ {24 0xc4201ff040 1008 8 nullstr false}
+2019/05/15 11:44:48.841 [I]  插入数据失败 Error 1062: Duplicate entry '24' for key 'PRIMARY'
+2019/05/15 11:44:48.841 [I]  插入灯初始数据成功 0
+2019/05/15 11:44:48.841 [I]  +++++++++++++++++ {24 0xc4201ff040 1009 9 nullstr false}
+2019/05/15 11:44:48.949 [I]  插入数据失败 Error 1062: Duplicate entry '24' for key 'PRIMARY'
+2019/05/15 11:44:48.949 [I]  插入灯初始数据成功 0
+2019/05/15 11:44:48.949 [I]  +++++++++++++++++ {24 0xc4201ff040 1010 10 nullstr false}
+2019/05/15 11:44:49.030 [I]  插入数据失败 Error 1062: Duplicate entry '24' for key 'PRIMARY'
+2019/05/15 11:44:49.030 [I]  插入灯初始数据成功 0
+2019/05/15 11:44:49.030 [I]  +++++++++++++++++ {24 0xc4201ff040 1011 11 nullstr false}
+2019/05/15 11:44:49.080 [I]  插入数据失败 Error 1062: Duplicate entry '24' for key 'PRIMARY'
+2019/05/15 11:44:49.080 [I]  插入灯初始数据成功 0
+2019/05/15 11:44:49.080 [I]  +++++++++++++++++ {24 0xc4201ff040 1012 12 nullstr false}
+2019/05/15 11:44:49.144 [I]  插入数据失败 Error 1062: Duplicate entry '24' for key 'PRIMARY'
+2019/05/15 11:44:49.144 [I]  插入灯初始数据成功 0
+2019/05/15 11:44:49.144 [I]  +++++++++++++++++ {24 0xc4201ff040 1013 13 nullstr false}
+2019/05/15 11:44:49.209 [I]  插入数据失败 Error 1062: Duplicate entry '24' for key 'PRIMARY'
+2019/05/15 11:44:49.209 [I]  插入灯初始数据成功 0
+2019/05/15 11:44:49.209 [I]  +++++++++++++++++ {24 0xc4201ff040 1014 14 nullstr false}
+2019/05/15 11:44:49.275 [I]  插入数据失败 Error 1062: Duplicate entry '24' for key 'PRIMARY'
+2019/05/15 11:44:49.275 [I]  插入灯初始数据成功 0
+2019/05/15 11:44:49.275 [I]  +++++++++++++++++ {24 0xc4201ff040 1015 15 nullstr false}
+2019/05/15 11:44:49.353 [I]  插入数据失败 Error 1062: Duplicate entry '24' for key 'PRIMARY'
+2019/05/15 11:44:49.353 [I]  插入灯初始数据成功 0
+2019/05/15 11:44:49.353 [I]  +++++++++++++++++ {24 0xc4201ff040 1016 16 nullstr false}
+2019/05/15 11:44:49.451 [I]  插入数据失败 Error 1062: Duplicate entry '24' for key 'PRIMARY'
+2019/05/15 11:44:49.451 [I]  插入灯初始数据成功 0
+2019/05/15 11:44:49.451 [I]  +++++++++++++++++ {24 0xc4201ff040 1017 17 nullstr false}
+2019/05/15 11:44:49.529 [I]  插入数据失败 Error 1062: Duplicate entry '24' for key 'PRIMARY'
+2019/05/15 11:44:49.529 [I]  插入灯初始数据成功 0
+2019/05/15 11:44:49.529 [I]  +++++++++++++++++ {24 0xc4201ff040 1018 18 nullstr false}
+2019/05/15 11:44:49.578 [I]  插入数据失败 Error 1062: Duplicate entry '24' for key 'PRIMARY'
+2019/05/15 11:44:49.579 [I]  插入灯初始数据成功 0
+2019/05/15 11:44:49.579 [I]  +++++++++++++++++ {24 0xc4201ff040 1019 19 nullstr false}
+2019/05/15 11:44:49.647 [I]  插入数据失败 Error 1062: Duplicate entry '24' for key 'PRIMARY'
+2019/05/15 11:44:49.647 [I]  插入灯初始数据成功 0
+2019/05/15 11:44:49.647 [I]  使用中的灯 aaabedb9bc77ce4365a5f3cc4450bac4 
+2019/05/15 11:44:49.647 [I]  金币数 aaabedb9bc77ce4365a5f3cc4450bac4 
+2019/05/15 11:44:49.647 [I]  最高关卡数 aaabedb9bc77ce4365a5f3cc4450bac4 
+2019/05/15 11:44:49.647 [I]  当前关卡数 aaabedb9bc77ce4365a5f3cc4450bac4 
+2019/05/15 11:47:05.194 [I]  初始化服务 url：/api/plant/config
+2019/05/15 11:47:05.232 [I]  ConfigLamp  初始化服务 url：/api/lamp/config
+2019/05/15 11:47:05.232 [I]  map[key:lamp conn:127.0.0.1:6379 dbNum:2 password:]
+2019/05/15 11:47:05.233 [I]  [116 101 115 116]
+2019/05/15 11:47:05.233 [I]  test
+2019/05/15 11:47:05.348 [I]  [{1 1001 1 nullstr false} {2 1002 2 nullstr false} {3 1003 3 nullstr false} {4 1004 4 nullstr false} {5 1005 5 nullstr false} {6 1006 6 nullstr false} {7 1007 7 nullstr false} {8 1008 8 nullstr false} {9 1009 9 nullstr false} {10 1010 10 nullstr false} {11 1011 11 nullstr false} {12 1012 12 nullstr false} {13 1013 13 nullstr false} {14 1014 14 nullstr false} {15 1015 15 nullstr false} {16 1016 16 nullstr false} {17 1017 17 nullstr false} {18 1018 18 nullstr false} {19 1019 19 nullstr false}]
+2019/05/15 11:47:05.349 [I]  +++++++++++++++++ {0 0xc4200b5380 1001 1 nullstr false}
+2019/05/15 11:47:05.413 [I]  插入灯初始数据成功 25
+2019/05/15 11:47:05.414 [I]  +++++++++++++++++ {0 0xc4200b5380 1002 2 nullstr false}
+2019/05/15 11:47:05.480 [I]  插入灯初始数据成功 26
+2019/05/15 11:47:05.480 [I]  +++++++++++++++++ {0 0xc4200b5380 1003 3 nullstr false}
+2019/05/15 11:47:05.527 [I]  插入灯初始数据成功 27
+2019/05/15 11:47:05.527 [I]  +++++++++++++++++ {0 0xc4200b5380 1004 4 nullstr false}
+2019/05/15 11:47:05.584 [I]  插入灯初始数据成功 28
+2019/05/15 11:47:05.584 [I]  +++++++++++++++++ {0 0xc4200b5380 1005 5 nullstr false}
+2019/05/15 11:47:05.635 [I]  插入灯初始数据成功 29
+2019/05/15 11:47:05.635 [I]  +++++++++++++++++ {0 0xc4200b5380 1006 6 nullstr false}
+2019/05/15 11:47:05.680 [I]  插入灯初始数据成功 30
+2019/05/15 11:47:05.680 [I]  +++++++++++++++++ {0 0xc4200b5380 1007 7 nullstr false}
+2019/05/15 11:47:05.771 [I]  插入灯初始数据成功 31
+2019/05/15 11:47:05.771 [I]  +++++++++++++++++ {0 0xc4200b5380 1008 8 nullstr false}
+2019/05/15 11:47:05.846 [I]  插入灯初始数据成功 32
+2019/05/15 11:47:05.846 [I]  +++++++++++++++++ {0 0xc4200b5380 1009 9 nullstr false}
+2019/05/15 11:47:05.882 [I]  插入灯初始数据成功 33
+2019/05/15 11:47:05.882 [I]  +++++++++++++++++ {0 0xc4200b5380 1010 10 nullstr false}
+2019/05/15 11:47:05.929 [I]  插入灯初始数据成功 34
+2019/05/15 11:47:05.929 [I]  +++++++++++++++++ {0 0xc4200b5380 1011 11 nullstr false}
+2019/05/15 11:47:05.955 [I]  插入灯初始数据成功 35
+2019/05/15 11:47:05.955 [I]  +++++++++++++++++ {0 0xc4200b5380 1012 12 nullstr false}
+2019/05/15 11:47:06.008 [I]  插入灯初始数据成功 36
+2019/05/15 11:47:06.008 [I]  +++++++++++++++++ {0 0xc4200b5380 1013 13 nullstr false}
+2019/05/15 11:47:06.067 [I]  插入灯初始数据成功 37
+2019/05/15 11:47:06.067 [I]  +++++++++++++++++ {0 0xc4200b5380 1014 14 nullstr false}
+2019/05/15 11:47:06.120 [I]  插入灯初始数据成功 38
+2019/05/15 11:47:06.121 [I]  +++++++++++++++++ {0 0xc4200b5380 1015 15 nullstr false}
+2019/05/15 11:47:06.157 [I]  插入灯初始数据成功 39
+2019/05/15 11:47:06.157 [I]  +++++++++++++++++ {0 0xc4200b5380 1016 16 nullstr false}
+2019/05/15 11:47:06.224 [I]  插入灯初始数据成功 40
+2019/05/15 11:47:06.225 [I]  +++++++++++++++++ {0 0xc4200b5380 1017 17 nullstr false}
+2019/05/15 11:47:06.279 [I]  插入灯初始数据成功 41
+2019/05/15 11:47:06.279 [I]  +++++++++++++++++ {0 0xc4200b5380 1018 18 nullstr false}
+2019/05/15 11:47:06.326 [I]  插入灯初始数据成功 42
+2019/05/15 11:47:06.326 [I]  +++++++++++++++++ {0 0xc4200b5380 1019 19 nullstr false}
+2019/05/15 11:47:06.361 [I]  插入灯初始数据成功 43
+2019/05/15 11:47:06.361 [I]  使用中的灯 aaabedb9bc77ce4365a5f3cc4450bac4 
+2019/05/15 11:47:06.361 [I]  金币数 aaabedb9bc77ce4365a5f3cc4450bac4 
+2019/05/15 11:47:06.361 [I]  最高关卡数 aaabedb9bc77ce4365a5f3cc4450bac4 
+2019/05/15 11:47:06.361 [I]  当前关卡数 aaabedb9bc77ce4365a5f3cc4450bac4 
+2019/05/15 11:48:34.259 [I]  初始化服务 url：/api/plant/config
+2019/05/15 11:48:34.268 [I]  ConfigLamp  初始化服务 url：/api/lamp/config
+2019/05/15 11:48:34.268 [I]  map[key:lamp conn:127.0.0.1:6379 dbNum:2 password:]
+2019/05/15 11:48:34.269 [I]  [116 101 115 116]
+2019/05/15 11:48:34.269 [I]  test
+2019/05/15 11:48:34.289 [I]  [{1 1001 1 nullstr false} {2 1002 2 nullstr false} {3 1003 3 nullstr false} {4 1004 4 nullstr false} {5 1005 5 nullstr false} {6 1006 6 nullstr false} {7 1007 7 nullstr false} {8 1008 8 nullstr false} {9 1009 9 nullstr false} {10 1010 10 nullstr false} {11 1011 11 nullstr false} {12 1012 12 nullstr false} {13 1013 13 nullstr false} {14 1014 14 nullstr false} {15 1015 15 nullstr false} {16 1016 16 nullstr false} {17 1017 17 nullstr false} {18 1018 18 nullstr false} {19 1019 19 nullstr false}]
+2019/05/15 11:48:34.290 [I]  +++++++++++++++++ {0 0xc4201c9380 1001 1 nullstr false}
+2019/05/15 11:48:34.301 [I]  插入灯初始数据成功 44
+2019/05/15 11:48:34.301 [I]  +++++++++++++++++ {44 0xc4201c9380 1002 2 nullstr false}
+2019/05/15 11:48:34.333 [I]  插入数据失败 Error 1062: Duplicate entry '44' for key 'PRIMARY'
+2019/05/15 11:48:34.333 [I]  插入灯初始数据成功 0
+2019/05/15 11:48:34.333 [I]  +++++++++++++++++ {44 0xc4201c9380 1003 3 nullstr false}
+2019/05/15 11:48:34.364 [I]  插入数据失败 Error 1062: Duplicate entry '44' for key 'PRIMARY'
+2019/05/15 11:48:34.364 [I]  插入灯初始数据成功 0
+2019/05/15 11:48:34.364 [I]  +++++++++++++++++ {44 0xc4201c9380 1004 4 nullstr false}
+2019/05/15 11:48:34.377 [I]  插入数据失败 Error 1062: Duplicate entry '44' for key 'PRIMARY'
+2019/05/15 11:48:34.377 [I]  插入灯初始数据成功 0
+2019/05/15 11:48:34.377 [I]  +++++++++++++++++ {44 0xc4201c9380 1005 5 nullstr false}
+2019/05/15 11:48:34.427 [I]  插入数据失败 Error 1062: Duplicate entry '44' for key 'PRIMARY'
+2019/05/15 11:48:34.427 [I]  插入灯初始数据成功 0
+2019/05/15 11:48:34.427 [I]  +++++++++++++++++ {44 0xc4201c9380 1006 6 nullstr false}
+2019/05/15 11:48:34.442 [I]  插入数据失败 Error 1062: Duplicate entry '44' for key 'PRIMARY'
+2019/05/15 11:48:34.442 [I]  插入灯初始数据成功 0
+2019/05/15 11:48:34.442 [I]  +++++++++++++++++ {44 0xc4201c9380 1007 7 nullstr false}
+2019/05/15 11:48:34.457 [I]  插入数据失败 Error 1062: Duplicate entry '44' for key 'PRIMARY'
+2019/05/15 11:48:34.457 [I]  插入灯初始数据成功 0
+2019/05/15 11:48:34.457 [I]  +++++++++++++++++ {44 0xc4201c9380 1008 8 nullstr false}
+2019/05/15 11:48:34.469 [I]  插入数据失败 Error 1062: Duplicate entry '44' for key 'PRIMARY'
+2019/05/15 11:48:34.469 [I]  插入灯初始数据成功 0
+2019/05/15 11:48:34.469 [I]  +++++++++++++++++ {44 0xc4201c9380 1009 9 nullstr false}
+2019/05/15 11:48:34.485 [I]  插入数据失败 Error 1062: Duplicate entry '44' for key 'PRIMARY'
+2019/05/15 11:48:34.485 [I]  插入灯初始数据成功 0
+2019/05/15 11:48:34.485 [I]  +++++++++++++++++ {44 0xc4201c9380 1010 10 nullstr false}
+2019/05/15 11:48:34.498 [I]  插入数据失败 Error 1062: Duplicate entry '44' for key 'PRIMARY'
+2019/05/15 11:48:34.498 [I]  插入灯初始数据成功 0
+2019/05/15 11:48:34.498 [I]  +++++++++++++++++ {44 0xc4201c9380 1011 11 nullstr false}
+2019/05/15 11:48:34.513 [I]  插入数据失败 Error 1062: Duplicate entry '44' for key 'PRIMARY'
+2019/05/15 11:48:34.513 [I]  插入灯初始数据成功 0
+2019/05/15 11:48:34.513 [I]  +++++++++++++++++ {44 0xc4201c9380 1012 12 nullstr false}
+2019/05/15 11:48:34.528 [I]  插入数据失败 Error 1062: Duplicate entry '44' for key 'PRIMARY'
+2019/05/15 11:48:34.528 [I]  插入灯初始数据成功 0
+2019/05/15 11:48:34.528 [I]  +++++++++++++++++ {44 0xc4201c9380 1013 13 nullstr false}
+2019/05/15 11:48:34.543 [I]  插入数据失败 Error 1062: Duplicate entry '44' for key 'PRIMARY'
+2019/05/15 11:48:34.543 [I]  插入灯初始数据成功 0
+2019/05/15 11:48:34.543 [I]  +++++++++++++++++ {44 0xc4201c9380 1014 14 nullstr false}
+2019/05/15 11:48:34.555 [I]  插入数据失败 Error 1062: Duplicate entry '44' for key 'PRIMARY'
+2019/05/15 11:48:34.555 [I]  插入灯初始数据成功 0
+2019/05/15 11:48:34.555 [I]  +++++++++++++++++ {44 0xc4201c9380 1015 15 nullstr false}
+2019/05/15 11:48:34.572 [I]  插入数据失败 Error 1062: Duplicate entry '44' for key 'PRIMARY'
+2019/05/15 11:48:34.572 [I]  插入灯初始数据成功 0
+2019/05/15 11:48:34.572 [I]  +++++++++++++++++ {44 0xc4201c9380 1016 16 nullstr false}
+2019/05/15 11:48:34.586 [I]  插入数据失败 Error 1062: Duplicate entry '44' for key 'PRIMARY'
+2019/05/15 11:48:34.586 [I]  插入灯初始数据成功 0
+2019/05/15 11:48:34.586 [I]  +++++++++++++++++ {44 0xc4201c9380 1017 17 nullstr false}
+2019/05/15 11:48:34.600 [I]  插入数据失败 Error 1062: Duplicate entry '44' for key 'PRIMARY'
+2019/05/15 11:48:34.600 [I]  插入灯初始数据成功 0
+2019/05/15 11:48:34.600 [I]  +++++++++++++++++ {44 0xc4201c9380 1018 18 nullstr false}
+2019/05/15 11:48:34.617 [I]  插入数据失败 Error 1062: Duplicate entry '44' for key 'PRIMARY'
+2019/05/15 11:48:34.617 [I]  插入灯初始数据成功 0
+2019/05/15 11:48:34.617 [I]  +++++++++++++++++ {44 0xc4201c9380 1019 19 nullstr false}
+2019/05/15 11:48:34.631 [I]  插入数据失败 Error 1062: Duplicate entry '44' for key 'PRIMARY'
+2019/05/15 11:48:34.631 [I]  插入灯初始数据成功 0
+2019/05/15 11:48:34.631 [I]  使用中的灯 aaabedb9bc77ce4365a5f3cc4450bac4 
+2019/05/15 11:48:34.631 [I]  金币数 aaabedb9bc77ce4365a5f3cc4450bac4 
+2019/05/15 11:48:34.631 [I]  最高关卡数 aaabedb9bc77ce4365a5f3cc4450bac4 
+2019/05/15 11:48:34.631 [I]  当前关卡数 aaabedb9bc77ce4365a5f3cc4450bac4 
+2019/05/15 11:52:05.982 [I]  初始化服务 url：/api/plant/config
+2019/05/15 11:52:05.987 [I]  ConfigLamp  初始化服务 url：/api/lamp/config
+2019/05/15 11:52:05.987 [I]  map[dbNum:2 password: key:lamp conn:127.0.0.1:6379]
+2019/05/15 11:52:05.987 [I]  [116 101 115 116]
+2019/05/15 11:52:05.987 [I]  test
+2019/05/15 11:52:06.061 [I]  插入灯初始数据成功 45
+2019/05/15 11:52:06.095 [I]  插入灯初始数据成功 46
+2019/05/15 11:52:06.123 [I]  插入灯初始数据成功 47
+2019/05/15 11:52:06.159 [I]  插入灯初始数据成功 48
+2019/05/15 11:52:06.192 [I]  插入灯初始数据成功 49
+2019/05/15 11:52:06.265 [I]  插入灯初始数据成功 50
+2019/05/15 11:52:06.297 [I]  插入灯初始数据成功 51
+2019/05/15 11:52:06.344 [I]  插入灯初始数据成功 52
+2019/05/15 11:52:06.393 [I]  插入灯初始数据成功 53
+2019/05/15 11:52:06.414 [I]  插入灯初始数据成功 54
+2019/05/15 11:52:06.470 [I]  插入灯初始数据成功 55
+2019/05/15 11:52:06.509 [I]  插入灯初始数据成功 56
+2019/05/15 11:52:06.542 [I]  插入灯初始数据成功 57
+2019/05/15 11:52:06.769 [I]  插入灯初始数据成功 58
+2019/05/15 11:52:06.813 [I]  插入灯初始数据成功 59
+2019/05/15 11:52:06.864 [I]  插入灯初始数据成功 60
+2019/05/15 11:52:06.881 [I]  插入灯初始数据成功 61
+2019/05/15 11:52:06.906 [I]  插入灯初始数据成功 62
+2019/05/15 11:52:06.922 [I]  插入灯初始数据成功 63
+2019/05/15 11:52:06.922 [I]  使用中的灯 aaabedb9bc77ce4365a5f3cc4450bac4 
+2019/05/15 11:52:06.922 [I]  金币数 aaabedb9bc77ce4365a5f3cc4450bac4 
+2019/05/15 11:52:06.922 [I]  最高关卡数 aaabedb9bc77ce4365a5f3cc4450bac4 
+2019/05/15 11:52:06.922 [I]  当前关卡数 aaabedb9bc77ce4365a5f3cc4450bac4 
+2019/05/15 14:54:59.737 [I]  设置灯服务   url：/api/lamp/buylamp
+2019/05/15 14:54:59.773 [I]  SetLamp  设置灯服务  /api/lamp/setlamp
+2019/05/15 14:54:59.792 [I]  redis连接成功
+2019/05/15 14:54:59.794 [I]  获取opid成功
+2019/05/15 14:54:59.911 [I]  查询用户数据成功
+2019/05/15 14:54:59.978 [I]  购买灯成功
+2019/05/15 14:55:18.436 [I]  设置灯服务   url：/api/lamp/buylamp
+2019/05/15 14:55:18.441 [I]  SetLamp  设置灯服务  /api/lamp/setlamp
+2019/05/15 14:55:18.443 [I]  redis连接成功
+2019/05/15 14:55:18.443 [I]  获取opid成功
+2019/05/15 14:55:18.496 [I]  查询用户数据成功
+2019/05/15 14:55:18.558 [I]  购买灯成功
+2019/05/15 14:55:42.084 [I]  设置灯服务   url：/api/lamp/buylamp
+2019/05/15 14:55:42.089 [I]  SetLamp  设置灯服务  /api/lamp/setlamp
+2019/05/15 14:55:42.090 [I]  redis连接成功
+2019/05/15 14:55:42.090 [I]  获取opid成功
+2019/05/15 14:55:42.149 [I]  查询用户数据成功
+2019/05/15 14:55:42.217 [I]  购买灯成功
+2019/05/15 14:55:58.037 [I]  设置灯服务   url：/api/lamp/buylamp
+2019/05/15 14:55:58.046 [I]  SetLamp  设置灯服务  /api/lamp/setlamp
+2019/05/15 14:55:58.048 [I]  redis连接成功
+2019/05/15 14:55:58.048 [I]  获取opid成功
+2019/05/15 14:55:58.080 [I]  查询用户数据成功
+2019/05/15 14:55:58.091 [I]  金币不足购买失败
+2019/05/15 15:15:38.837 [I]  设置灯服务   url：/api/lamp/buylamp
+2019/05/15 15:15:38.840 [I]  SetLamp  设置灯服务  /api/lamp/setlamp
+2019/05/15 15:15:38.841 [I]  redis连接成功
+2019/05/15 15:15:38.841 [I]  获取opid成功
+2019/05/15 15:15:38.867 [I]  查询用户数据成功
+2019/05/15 15:15:38.880 [I]  金币不足购买失败
+2019/05/15 15:15:44.012 [I]  设置灯服务   url：/api/lamp/buylamp
+2019/05/15 15:15:44.017 [I]  SetLamp  设置灯服务  /api/lamp/setlamp
+2019/05/15 15:15:44.019 [I]  redis连接成功
+2019/05/15 15:15:44.019 [I]  获取opid成功
+2019/05/15 15:15:44.054 [I]  查询用户数据成功
+2019/05/15 15:15:44.070 [I]  金币不足购买失败
+2019/05/15 15:16:54.994 [I]  设置灯服务   url：/api/lamp/buylamp
+2019/05/15 15:16:54.999 [I]  SetLamp  设置灯服务  /api/lamp/setlamp
+2019/05/15 15:16:54.999 [I]  redis连接成功
+2019/05/15 15:16:55.000 [I]  获取opid成功
+2019/05/15 15:16:55.112 [I]  查询用户数据成功
+2019/05/15 15:16:55.153 [I]  金币不足购买失败
+2019/05/15 15:16:57.090 [I]  设置灯服务   url：/api/lamp/buylamp
+2019/05/15 15:16:57.096 [I]  SetLamp  设置灯服务  /api/lamp/setlamp
+2019/05/15 15:16:57.099 [I]  redis连接成功
+2019/05/15 15:16:57.099 [I]  获取opid成功
+2019/05/15 15:16:57.233 [I]  查询用户数据成功
+2019/05/15 15:16:57.291 [I]  金币不足购买失败
+2019/05/15 15:17:34.305 [I]  设置灯服务   url：/api/lamp/buylamp
+2019/05/15 15:17:34.312 [I]  SetLamp  设置灯服务  /api/lamp/setlamp
+2019/05/15 15:17:34.313 [I]  redis连接成功
+2019/05/15 15:17:34.313 [I]  获取opid成功
+2019/05/15 15:17:34.416 [I]  查询用户数据成功
+2019/05/15 15:17:34.454 [I]  金币不足购买失败
+2019/05/15 16:04:15.507 [I]  初始化服务 url：/api/plant/config
+2019/05/15 16:04:15.559 [I]  ConfigLamp  初始化服务 url：/api/lamp/config
+2019/05/15 16:04:15.559 [I]  map[key:lamp conn:127.0.0.1:6379 dbNum:2 password:]
+2019/05/15 16:04:15.563 [I]  [116 101 115 116]
+2019/05/15 16:04:15.563 [I]  test
+2019/05/15 16:04:15.598 [I]  查询用户数据失败
+2019/05/15 16:04:15.598 [I]  查询用户数据成功
+2019/05/15 16:04:15.598 [I]  使用中的灯 aaabedb9bc77ce4365a5f3cc4450bac4 
+2019/05/15 16:04:15.598 [I]  金币数 f6e1f00531d5eafd7781fe47166ce86e 
+2019/05/15 16:04:15.598 [I]  最高关卡数 aaabedb9bc77ce4365a5f3cc4450bac4 
+2019/05/15 16:04:15.598 [I]  当前关卡数 aaabedb9bc77ce4365a5f3cc4450bac4 
+2019/05/15 16:52:37.884 [I]  初始化服务 url：/api/plant/config
+2019/05/15 16:52:37.921 [I]  ConfigLamp  初始化服务 url：/api/lamp/config
+2019/05/15 16:52:37.921 [I]  map[key:lamp conn:127.0.0.1:6379 dbNum:2 password:]
+2019/05/15 16:52:37.934 [I]  [116 101 115 116]
+2019/05/15 16:52:37.934 [I]  test
+2019/05/15 16:52:37.970 [I]  查询用户数据失败
+2019/05/15 16:52:37.970 [I]  查询用户数据成功
+2019/05/15 16:52:37.970 [I]  [1001 1002 1003 1004 1005 1006 1007 1008 1009 1010 1011 1012 1013 1014 1015 1016 1017 1018 1019]
+2019/05/15 16:52:37.970 [I]  使用中的灯 aaabedb9bc77ce4365a5f3cc4450bac4 
+2019/05/15 16:52:37.970 [I]  金币数 f6e1f00531d5eafd7781fe47166ce86e 
+2019/05/15 16:52:37.970 [I]  最高关卡数 aaabedb9bc77ce4365a5f3cc4450bac4 
+2019/05/15 16:52:37.970 [I]  当前关卡数 aaabedb9bc77ce4365a5f3cc4450bac4 
+2019/05/15 17:27:46.915 [I]  初始化服务 url：/api/plant/config
+2019/05/15 17:27:46.943 [I]  ConfigLamp  初始化服务 url：/api/lamp/config
+2019/05/15 17:27:46.946 [I]  map[dbNum:2 password: key:lamp conn:127.0.0.1:6379]
+2019/05/15 17:27:46.948 [I]  [116 101 115 116]
+2019/05/15 17:27:46.948 [I]  test
+2019/05/15 17:27:46.993 [I]  查询用户数据失败
+2019/05/15 17:27:46.993 [I]  查询用户数据成功
+2019/05/15 17:27:46.993 [I]  使用中的灯 aaabedb9bc77ce4365a5f3cc4450bac4 
+2019/05/15 17:27:46.993 [I]  金币数 f6e1f00531d5eafd7781fe47166ce86e 
+2019/05/15 17:27:46.993 [I]  最高关卡数 aaabedb9bc77ce4365a5f3cc4450bac4 
+2019/05/15 17:27:46.993 [I]  当前关卡数 aaabedb9bc77ce4365a5f3cc4450bac4 
+2019/05/15 17:27:51.613 [I]  初始化服务 url：/api/plant/config
+2019/05/15 17:27:51.617 [I]  ConfigLamp  初始化服务 url：/api/lamp/config
+2019/05/15 17:27:51.617 [I]  map[key:lamp conn:127.0.0.1:6379 dbNum:2 password:]
+2019/05/15 17:27:51.620 [I]  [116 101 115 116]
+2019/05/15 17:27:51.620 [I]  test
+2019/05/15 17:27:51.670 [I]  查询用户数据失败
+2019/05/15 17:27:51.671 [I]  查询用户数据成功
+2019/05/15 17:27:51.671 [I]  使用中的灯 aaabedb9bc77ce4365a5f3cc4450bac4 
+2019/05/15 17:27:51.671 [I]  金币数 f6e1f00531d5eafd7781fe47166ce86e 
+2019/05/15 17:27:51.671 [I]  最高关卡数 aaabedb9bc77ce4365a5f3cc4450bac4 
+2019/05/15 17:27:51.671 [I]  当前关卡数 aaabedb9bc77ce4365a5f3cc4450bac4 
+2019/05/15 17:32:34.916 [I]  初始化服务 url：/api/plant/config
+2019/05/15 17:32:34.922 [I]  ConfigLamp  初始化服务 url：/api/lamp/config
+2019/05/15 17:32:34.922 [I]  map[password: key:lamp conn:127.0.0.1:6379 dbNum:2]
+2019/05/15 17:32:34.923 [I]  [116 101 115 116]
+2019/05/15 17:32:34.923 [I]  test
+2019/05/15 17:32:34.966 [I]  查询用户数据失败
+2019/05/15 17:32:34.967 [I]  查询用户数据成功
+2019/05/15 17:32:34.967 [I]  找到新code 1001
+2019/05/15 17:32:34.967 [I]  找到新code 1002
+2019/05/15 17:32:34.967 [I]  找到新code 1003
+2019/05/15 17:32:34.967 [I]  找到新code 1004
+2019/05/15 17:32:34.967 [I]  找到新code 1005
+2019/05/15 17:32:34.967 [I]  找到新code 1006
+2019/05/15 17:32:34.967 [I]  找到新code 1007
+2019/05/15 17:32:34.967 [I]  找到新code 1008
+2019/05/15 17:32:34.967 [I]  找到新code 1009
+2019/05/15 17:32:34.967 [I]  找到新code 1010
+2019/05/15 17:32:34.967 [I]  找到新code 1011
+2019/05/15 17:32:34.967 [I]  找到新code 1012
+2019/05/15 17:32:34.967 [I]  找到新code 1013
+2019/05/15 17:32:34.967 [I]  找到新code 1014
+2019/05/15 17:32:34.967 [I]  找到新code 1015
+2019/05/15 17:32:34.967 [I]  找到新code 1016
+2019/05/15 17:32:34.967 [I]  找到新code 1017
+2019/05/15 17:32:34.967 [I]  找到新code 1018
+2019/05/15 17:32:34.967 [I]  找到新code 1019
+2019/05/15 17:32:34.967 [I]  使用中的灯 aaabedb9bc77ce4365a5f3cc4450bac4 
+2019/05/15 17:32:34.967 [I]  金币数 f6e1f00531d5eafd7781fe47166ce86e 
+2019/05/15 17:32:34.967 [I]  最高关卡数 aaabedb9bc77ce4365a5f3cc4450bac4 
+2019/05/15 17:32:34.967 [I]  当前关卡数 aaabedb9bc77ce4365a5f3cc4450bac4 
+2019/05/15 17:32:48.767 [I]  初始化服务 url：/api/plant/config
+2019/05/15 17:32:48.773 [I]  ConfigLamp  初始化服务 url：/api/lamp/config
+2019/05/15 17:32:48.773 [I]  map[key:lamp conn:127.0.0.1:6379 dbNum:2 password:]
+2019/05/15 17:32:48.773 [I]  [116 101 115 116]
+2019/05/15 17:32:48.773 [I]  test
+2019/05/15 17:32:48.834 [I]  查询用户数据失败
+2019/05/15 17:32:48.834 [I]  查询用户数据成功
+2019/05/15 17:32:48.834 [I]  找到新code 1001
+2019/05/15 17:32:48.834 [I]  找到新code 1002
+2019/05/15 17:32:48.834 [I]  找到新code 1003
+2019/05/15 17:32:48.834 [I]  找到新code 1004
+2019/05/15 17:32:48.834 [I]  找到新code 1005
+2019/05/15 17:32:48.834 [I]  找到新code 1006
+2019/05/15 17:32:48.834 [I]  找到新code 1007
+2019/05/15 17:32:48.834 [I]  找到新code 1008
+2019/05/15 17:32:48.834 [I]  找到新code 1009
+2019/05/15 17:32:48.834 [I]  找到新code 1010
+2019/05/15 17:32:48.834 [I]  找到新code 1011
+2019/05/15 17:32:48.834 [I]  找到新code 1012
+2019/05/15 17:32:48.834 [I]  找到新code 1013
+2019/05/15 17:32:48.834 [I]  找到新code 1014
+2019/05/15 17:32:48.834 [I]  找到新code 1015
+2019/05/15 17:32:48.834 [I]  找到新code 1016
+2019/05/15 17:32:48.834 [I]  找到新code 1017
+2019/05/15 17:32:48.834 [I]  找到新code 1018
+2019/05/15 17:32:48.834 [I]  找到新code 1019
+2019/05/15 17:32:48.834 [I]  使用中的灯 aaabedb9bc77ce4365a5f3cc4450bac4 
+2019/05/15 17:32:48.834 [I]  金币数 f6e1f00531d5eafd7781fe47166ce86e 
+2019/05/15 17:32:48.834 [I]  最高关卡数 aaabedb9bc77ce4365a5f3cc4450bac4 
+2019/05/15 17:32:48.834 [I]  当前关卡数 aaabedb9bc77ce4365a5f3cc4450bac4 
+2019/05/15 18:09:59.182 [I]  初始化服务 url：/api/plant/config
+2019/05/15 18:09:59.186 [I]  ConfigLamp  初始化服务 url：/api/lamp/config
+2019/05/15 18:09:59.186 [I]  map[key:lamp conn:127.0.0.1:6379 dbNum:2 password:]
+2019/05/15 18:09:59.187 [I]  [116 101 115 116]
+2019/05/15 18:09:59.187 [I]  test
+2019/05/15 18:09:59.262 [I]  查询用户数据失败
+2019/05/15 18:09:59.262 [I]  查询用户数据成功
+2019/05/15 18:09:59.280 [I]  插入新灯成功 77
+2019/05/15 18:09:59.291 [I]  插入新灯成功 78
+2019/05/15 18:09:59.302 [I]  插入新灯成功 79
+2019/05/15 18:09:59.313 [I]  插入新灯成功 80
+2019/05/15 18:09:59.324 [I]  插入新灯成功 81
+2019/05/15 18:09:59.334 [I]  插入新灯成功 82
+2019/05/15 18:09:59.349 [I]  插入新灯成功 83
+2019/05/15 18:09:59.364 [I]  插入新灯成功 84
+2019/05/15 18:09:59.377 [I]  插入新灯成功 85
+2019/05/15 18:09:59.391 [I]  插入新灯成功 86
+2019/05/15 18:09:59.407 [I]  插入新灯成功 87
+2019/05/15 18:09:59.420 [I]  插入新灯成功 88
+2019/05/15 18:09:59.433 [I]  插入新灯成功 89
+2019/05/15 18:09:59.446 [I]  插入新灯成功 90
+2019/05/15 18:09:59.457 [I]  插入新灯成功 91
+2019/05/15 18:09:59.467 [I]  插入新灯成功 92
+2019/05/15 18:09:59.479 [I]  插入新灯成功 93
+2019/05/15 18:09:59.519 [I]  插入新灯成功 94
+2019/05/15 18:09:59.533 [I]  插入新灯成功 95
+2019/05/15 18:09:59.533 [I]  使用中的灯 aaabedb9bc77ce4365a5f3cc4450bac4 
+2019/05/15 18:09:59.533 [I]  金币数 f6e1f00531d5eafd7781fe47166ce86e 
+2019/05/15 18:09:59.533 [I]  最高关卡数 aaabedb9bc77ce4365a5f3cc4450bac4 
+2019/05/15 18:09:59.533 [I]  当前关卡数 aaabedb9bc77ce4365a5f3cc4450bac4 
+2019/05/15 18:18:01.325 [I]  初始化服务 url：/api/plant/config
+2019/05/15 18:18:01.329 [I]  ConfigLamp  初始化服务 url：/api/lamp/config
+2019/05/15 18:18:01.329 [I]  map[key:lamp conn:127.0.0.1:6379 dbNum:2 password:]
+2019/05/15 18:18:01.331 [I]  [116 101 115 116]
+2019/05/15 18:18:01.331 [I]  test
+2019/05/15 18:18:01.365 [I]  查询用户数据成功
+2019/05/15 18:18:01.365 [I]  没有新code
+2019/05/15 18:18:01.365 [I]  没有新code
+2019/05/15 18:18:01.365 [I]  没有新code
+2019/05/15 18:18:01.365 [I]  没有新code
+2019/05/15 18:18:01.365 [I]  没有新code
+2019/05/15 18:18:01.365 [I]  没有新code
+2019/05/15 18:18:01.365 [I]  没有新code
+2019/05/15 18:18:01.365 [I]  没有新code
+2019/05/15 18:18:01.365 [I]  没有新code
+2019/05/15 18:18:01.365 [I]  没有新code
+2019/05/15 18:18:01.365 [I]  没有新code
+2019/05/15 18:18:01.365 [I]  没有新code
+2019/05/15 18:18:01.365 [I]  没有新code
+2019/05/15 18:18:01.365 [I]  没有新code
+2019/05/15 18:18:01.365 [I]  没有新code
+2019/05/15 18:18:01.365 [I]  没有新code
+2019/05/15 18:18:01.365 [I]  没有新code
+2019/05/15 18:18:01.365 [I]  没有新code
+2019/05/15 18:18:01.365 [I]  没有新code
+2019/05/15 18:18:01.948 [I]  使用中的灯 aaabedb9bc77ce4365a5f3cc4450bac4 
+2019/05/15 18:18:01.949 [I]  金币数 f6e1f00531d5eafd7781fe47166ce86e 
+2019/05/15 18:18:01.949 [I]  最高关卡数 aaabedb9bc77ce4365a5f3cc4450bac4 
+2019/05/15 18:18:01.949 [I]  当前关卡数 aaabedb9bc77ce4365a5f3cc4450bac4 
+2019/05/15 18:18:15.379 [I]  初始化服务 url：/api/plant/config
+2019/05/15 18:18:15.384 [I]  ConfigLamp  初始化服务 url：/api/lamp/config
+2019/05/15 18:18:15.384 [I]  map[key:lamp conn:127.0.0.1:6379 dbNum:2 password:]
+2019/05/15 18:18:15.385 [I]  [116 101 115 116]
+2019/05/15 18:18:15.385 [I]  test
+2019/05/15 18:18:15.433 [I]  查询用户数据成功
+2019/05/15 18:18:15.433 [I]  没有新code
+2019/05/15 18:18:15.433 [I]  没有新code
+2019/05/15 18:18:15.433 [I]  没有新code
+2019/05/15 18:18:15.433 [I]  没有新code
+2019/05/15 18:18:15.433 [I]  没有新code
+2019/05/15 18:18:15.433 [I]  没有新code
+2019/05/15 18:18:15.433 [I]  没有新code
+2019/05/15 18:18:15.433 [I]  没有新code
+2019/05/15 18:18:15.433 [I]  没有新code
+2019/05/15 18:18:15.433 [I]  没有新code
+2019/05/15 18:18:15.433 [I]  没有新code
+2019/05/15 18:18:15.433 [I]  没有新code
+2019/05/15 18:18:15.433 [I]  没有新code
+2019/05/15 18:18:15.433 [I]  没有新code
+2019/05/15 18:18:15.434 [I]  没有新code
+2019/05/15 18:18:15.434 [I]  没有新code
+2019/05/15 18:18:15.434 [I]  没有新code
+2019/05/15 18:18:15.434 [I]  没有新code
+2019/05/15 18:18:15.434 [I]  没有新code
+2019/05/15 18:18:15.993 [I]  使用中的灯 aaabedb9bc77ce4365a5f3cc4450bac4 
+2019/05/15 18:18:15.993 [I]  金币数 f6e1f00531d5eafd7781fe47166ce86e 
+2019/05/15 18:18:15.993 [I]  最高关卡数 aaabedb9bc77ce4365a5f3cc4450bac4 
+2019/05/15 18:18:15.993 [I]  当前关卡数 aaabedb9bc77ce4365a5f3cc4450bac4 
+2019/05/15 18:18:20.897 [I]  初始化服务 url：/api/plant/config
+2019/05/15 18:18:20.902 [I]  ConfigLamp  初始化服务 url：/api/lamp/config
+2019/05/15 18:18:20.902 [I]  map[key:lamp conn:127.0.0.1:6379 dbNum:2 password:]
+2019/05/15 18:18:20.904 [I]  [116 101 115 116]
+2019/05/15 18:18:20.904 [I]  test
+2019/05/15 18:18:20.939 [I]  查询用户数据成功
+2019/05/15 18:18:20.939 [I]  没有新code
+2019/05/15 18:18:20.939 [I]  没有新code
+2019/05/15 18:18:20.939 [I]  没有新code
+2019/05/15 18:18:20.939 [I]  没有新code
+2019/05/15 18:18:20.939 [I]  没有新code
+2019/05/15 18:18:20.939 [I]  没有新code
+2019/05/15 18:18:20.939 [I]  没有新code
+2019/05/15 18:18:20.939 [I]  没有新code
+2019/05/15 18:18:20.939 [I]  没有新code
+2019/05/15 18:18:20.939 [I]  没有新code
+2019/05/15 18:18:20.939 [I]  没有新code
+2019/05/15 18:18:20.939 [I]  没有新code
+2019/05/15 18:18:20.939 [I]  没有新code
+2019/05/15 18:18:20.939 [I]  没有新code
+2019/05/15 18:18:20.940 [I]  没有新code
+2019/05/15 18:18:20.940 [I]  没有新code
+2019/05/15 18:18:20.940 [I]  没有新code
+2019/05/15 18:18:20.940 [I]  没有新code
+2019/05/15 18:18:20.940 [I]  没有新code
+2019/05/15 18:18:21.525 [I]  使用中的灯 aaabedb9bc77ce4365a5f3cc4450bac4 
+2019/05/15 18:18:21.526 [I]  金币数 f6e1f00531d5eafd7781fe47166ce86e 
+2019/05/15 18:18:21.526 [I]  最高关卡数 aaabedb9bc77ce4365a5f3cc4450bac4 
+2019/05/15 18:18:21.526 [I]  当前关卡数 aaabedb9bc77ce4365a5f3cc4450bac4 
+2019/05/15 18:19:29.983 [I]  初始化服务 url：/api/plant/config
+2019/05/15 18:19:29.991 [I]  ConfigLamp  初始化服务 url：/api/lamp/config
+2019/05/15 18:19:29.991 [I]  map[key:lamp conn:127.0.0.1:6379 dbNum:2 password:]
+2019/05/15 18:19:29.991 [I]  [116 101 115 116]
+2019/05/15 18:19:29.991 [I]  test
+2019/05/15 18:19:30.019 [I]  查询用户数据成功
+2019/05/15 18:19:30.019 [I]  没有新code
+2019/05/15 18:19:30.019 [I]  没有新code
+2019/05/15 18:19:30.019 [I]  没有新code
+2019/05/15 18:19:30.019 [I]  没有新code
+2019/05/15 18:19:30.019 [I]  没有新code
+2019/05/15 18:19:30.019 [I]  没有新code
+2019/05/15 18:19:30.019 [I]  没有新code
+2019/05/15 18:19:30.019 [I]  没有新code
+2019/05/15 18:19:30.019 [I]  没有新code
+2019/05/15 18:19:30.019 [I]  没有新code
+2019/05/15 18:19:30.019 [I]  没有新code
+2019/05/15 18:19:30.019 [I]  没有新code
+2019/05/15 18:19:30.019 [I]  没有新code
+2019/05/15 18:19:30.019 [I]  没有新code
+2019/05/15 18:19:30.019 [I]  没有新code
+2019/05/15 18:19:30.019 [I]  没有新code
+2019/05/15 18:19:30.019 [I]  没有新code
+2019/05/15 18:19:30.019 [I]  没有新code
+2019/05/15 18:19:30.019 [I]  没有新code
+2019/05/15 18:19:30.019 [I]  没有新code
+2019/05/15 18:19:30.598 [I]  使用中的灯 aaabedb9bc77ce4365a5f3cc4450bac4 
+2019/05/15 18:19:30.598 [I]  金币数 f6e1f00531d5eafd7781fe47166ce86e 
+2019/05/15 18:19:30.598 [I]  最高关卡数 aaabedb9bc77ce4365a5f3cc4450bac4 
+2019/05/15 18:19:30.598 [I]  当前关卡数 aaabedb9bc77ce4365a5f3cc4450bac4 
+2019/05/15 18:19:55.676 [I]  初始化服务 url：/api/plant/config
+2019/05/15 18:19:55.683 [I]  ConfigLamp  初始化服务 url：/api/lamp/config
+2019/05/15 18:19:55.683 [I]  map[key:lamp conn:127.0.0.1:6379 dbNum:2 password:]
+2019/05/15 18:19:55.684 [I]  [116 101 115 116]
+2019/05/15 18:19:55.684 [I]  test
+2019/05/15 18:19:55.726 [I]  查询用户数据成功
+2019/05/15 18:19:55.726 [I]  没有新code
+2019/05/15 18:19:55.726 [I]  没有新code
+2019/05/15 18:19:55.726 [I]  没有新code
+2019/05/15 18:19:55.726 [I]  没有新code
+2019/05/15 18:19:55.726 [I]  没有新code
+2019/05/15 18:19:55.726 [I]  没有新code
+2019/05/15 18:19:55.726 [I]  没有新code
+2019/05/15 18:19:55.726 [I]  没有新code
+2019/05/15 18:19:55.726 [I]  没有新code
+2019/05/15 18:19:55.726 [I]  没有新code
+2019/05/15 18:19:55.726 [I]  没有新code
+2019/05/15 18:19:55.726 [I]  没有新code
+2019/05/15 18:19:55.726 [I]  没有新code
+2019/05/15 18:19:55.726 [I]  没有新code
+2019/05/15 18:19:55.726 [I]  没有新code
+2019/05/15 18:19:55.726 [I]  没有新code
+2019/05/15 18:19:55.727 [I]  没有新code
+2019/05/15 18:19:55.727 [I]  没有新code
+2019/05/15 18:19:55.727 [I]  没有新code
+2019/05/15 18:19:55.727 [I]  没有新code
+2019/05/15 18:19:56.328 [I]  使用中的灯 aaabedb9bc77ce4365a5f3cc4450bac4 
+2019/05/15 18:19:56.328 [I]  金币数 f6e1f00531d5eafd7781fe47166ce86e 
+2019/05/15 18:19:56.328 [I]  最高关卡数 aaabedb9bc77ce4365a5f3cc4450bac4 
+2019/05/15 18:19:56.328 [I]  当前关卡数 aaabedb9bc77ce4365a5f3cc4450bac4 
+2019/05/15 18:27:43.642 [I]  初始化服务 url：/api/plant/config
+2019/05/15 18:27:43.651 [I]  ConfigLamp  初始化服务 url：/api/lamp/config
+2019/05/15 18:27:43.651 [I]  map[dbNum:2 password: key:lamp conn:127.0.0.1:6379]
+2019/05/15 18:27:43.652 [I]  [116 101 115 116]
+2019/05/15 18:27:43.652 [I]  test
+2019/05/15 18:27:43.695 [I]  查询用户数据成功
+2019/05/15 18:27:43.695 [I]  没有新code
+2019/05/15 18:27:43.695 [I]  没有新code
+2019/05/15 18:27:43.695 [I]  没有新code
+2019/05/15 18:27:43.695 [I]  没有新code
+2019/05/15 18:27:43.695 [I]  没有新code
+2019/05/15 18:27:43.695 [I]  没有新code
+2019/05/15 18:27:43.695 [I]  没有新code
+2019/05/15 18:27:43.695 [I]  没有新code
+2019/05/15 18:27:43.695 [I]  没有新code
+2019/05/15 18:27:43.695 [I]  没有新code
+2019/05/15 18:27:43.695 [I]  没有新code
+2019/05/15 18:27:43.695 [I]  没有新code
+2019/05/15 18:27:43.695 [I]  没有新code
+2019/05/15 18:27:43.695 [I]  没有新code
+2019/05/15 18:27:43.695 [I]  没有新code
+2019/05/15 18:27:43.695 [I]  没有新code
+2019/05/15 18:27:43.695 [I]  没有新code
+2019/05/15 18:27:43.695 [I]  没有新code
+2019/05/15 18:27:43.695 [I]  没有新code
+2019/05/15 18:27:43.695 [I]  没有新code
+2019/05/15 18:28:29.317 [I]  初始化服务 url：/api/plant/config
+2019/05/15 18:28:29.322 [I]  ConfigLamp  初始化服务 url：/api/lamp/config
+2019/05/15 18:28:29.322 [I]  map[key:lamp conn:127.0.0.1:6379 dbNum:2 password:]
+2019/05/15 18:28:29.324 [I]  [116 101 115 116]
+2019/05/15 18:28:29.324 [I]  test
+2019/05/15 18:28:29.351 [I]  查询用户数据成功
+2019/05/15 18:28:29.351 [I]  没有新code
+2019/05/15 18:28:29.351 [I]  没有新code
+2019/05/15 18:28:29.351 [I]  没有新code
+2019/05/15 18:28:29.351 [I]  没有新code
+2019/05/15 18:28:29.351 [I]  没有新code
+2019/05/15 18:28:29.351 [I]  没有新code
+2019/05/15 18:28:29.351 [I]  没有新code
+2019/05/15 18:28:29.351 [I]  没有新code
+2019/05/15 18:28:29.351 [I]  没有新code
+2019/05/15 18:28:29.351 [I]  没有新code
+2019/05/15 18:28:29.351 [I]  没有新code
+2019/05/15 18:28:29.351 [I]  没有新code
+2019/05/15 18:28:29.351 [I]  没有新code
+2019/05/15 18:28:29.351 [I]  没有新code
+2019/05/15 18:28:29.351 [I]  没有新code
+2019/05/15 18:28:29.351 [I]  没有新code
+2019/05/15 18:28:29.351 [I]  没有新code
+2019/05/15 18:28:29.351 [I]  没有新code
+2019/05/15 18:28:29.351 [I]  没有新code
+2019/05/15 18:28:29.351 [I]  没有新code
+2019/05/15 18:28:29.892 [I]  使用中的灯 aaabedb9bc77ce4365a5f3cc4450bac4 
+2019/05/15 18:28:29.893 [I]  金币数 f6e1f00531d5eafd7781fe47166ce86e 
+2019/05/15 18:28:29.893 [I]  最高关卡数 aaabedb9bc77ce4365a5f3cc4450bac4 
+2019/05/15 18:28:29.893 [I]  当前关卡数 aaabedb9bc77ce4365a5f3cc4450bac4 
+2019/05/15 18:44:32.311 [I]  初始化服务 url：/api/plant/config
+2019/05/15 18:44:32.319 [I]  ConfigLamp  初始化服务 url：/api/lamp/config
+2019/05/15 18:44:32.319 [I]  map[conn:127.0.0.1:6379 dbNum:2 password: key:lamp]
+2019/05/15 18:44:32.320 [I]  [116 101 115 116]
+2019/05/15 18:44:32.320 [I]  test
+2019/05/15 18:44:32.358 [I]  查询用户数据成功
+2019/05/15 18:44:33.007 [I]  使用中的灯 aaabedb9bc77ce4365a5f3cc4450bac4 
+2019/05/15 18:44:33.008 [I]  金币数 f6e1f00531d5eafd7781fe47166ce86e 
+2019/05/15 18:44:33.008 [I]  最高关卡数 aaabedb9bc77ce4365a5f3cc4450bac4 
+2019/05/15 18:44:33.008 [I]  当前关卡数 aaabedb9bc77ce4365a5f3cc4450bac4 
+2019/05/15 18:44:47.790 [I]  初始化服务 url：/api/plant/config
+2019/05/15 18:44:47.795 [I]  ConfigLamp  初始化服务 url：/api/lamp/config
+2019/05/15 18:44:47.796 [I]  map[key:lamp conn:127.0.0.1:6379 dbNum:2 password:]
+2019/05/15 18:44:47.796 [I]  [116 101 115 116]
+2019/05/15 18:44:47.796 [I]  test
+2019/05/15 18:44:47.837 [I]  查询用户数据成功
+2019/05/15 18:44:48.578 [I]  使用中的灯 aaabedb9bc77ce4365a5f3cc4450bac4 
+2019/05/15 18:44:48.578 [I]  金币数 f6e1f00531d5eafd7781fe47166ce86e 
+2019/05/15 18:44:48.578 [I]  最高关卡数 aaabedb9bc77ce4365a5f3cc4450bac4 
+2019/05/15 18:44:48.579 [I]  当前关卡数 aaabedb9bc77ce4365a5f3cc4450bac4 
+2019/05/15 18:49:19.021 [I]  初始化服务 url：/api/plant/config
+2019/05/15 18:49:19.024 [I]  ConfigLamp  初始化服务 url：/api/lamp/config
+2019/05/15 18:49:19.025 [I]  map[password: key:lamp conn:127.0.0.1:6379 dbNum:2]
+2019/05/15 18:49:19.026 [I]  [116 101 115 116]
+2019/05/15 18:49:19.026 [I]  test
+2019/05/15 18:49:19.056 [I]  查询用户数据成功
+2019/05/15 18:49:19.056 [I]  [{1 1001 500 nullstr false} {2 1002 500 nullstr false} {3 1003 500 nullstr false} {4 1004 500 nullstr false} {5 1005 500 nullstr false} {6 1006 500 nullstr false} {7 1007 500 nullstr false} {8 1008 500 nullstr false} {9 1009 500 nullstr false} {10 1010 500 nullstr false} {11 1011 500 nullstr false} {12 1012 500 nullstr false} {13 1013 500 nullstr false} {14 1014 500 nullstr false} {15 1015 500 nullstr false} {16 1016 500 nullstr false} {17 1017 500 nullstr false} {18 1018 500 nullstr false} {19 1019 500 nullstr false} {21 1020 999 nullstr false} {22 1111 111 nullstr false}]
+2019/05/15 18:49:19.599 [I]  使用中的灯 aaabedb9bc77ce4365a5f3cc4450bac4 
+2019/05/15 18:49:19.599 [I]  金币数 f6e1f00531d5eafd7781fe47166ce86e 
+2019/05/15 18:49:19.599 [I]  最高关卡数 aaabedb9bc77ce4365a5f3cc4450bac4 
+2019/05/15 18:49:19.599 [I]  当前关卡数 aaabedb9bc77ce4365a5f3cc4450bac4 
+2019/05/15 18:54:11.292 [I]  初始化服务 url：/api/plant/config
+2019/05/15 18:54:11.300 [I]  ConfigLamp  初始化服务 url：/api/lamp/config
+2019/05/15 18:54:11.300 [I]  map[key:lamp conn:127.0.0.1:6379 dbNum:2 password:]
+2019/05/15 18:54:11.300 [I]  [116 101 115 116]
+2019/05/15 18:54:11.300 [I]  test
+2019/05/15 18:54:11.340 [I]  查询用户数据成功
+2019/05/15 18:54:11.340 [I]  [{1 1001 500 nullstr false} {2 1002 500 nullstr false} {3 1003 500 nullstr false} {4 1004 500 nullstr false} {5 1005 500 nullstr false} {6 1006 500 nullstr false} {7 1007 500 nullstr false} {8 1008 500 nullstr false} {9 1009 500 nullstr false} {10 1010 500 nullstr false} {11 1011 500 nullstr false} {12 1012 500 nullstr false} {13 1013 500 nullstr false} {14 1014 500 nullstr false} {15 1015 500 nullstr false} {16 1016 500 nullstr false} {17 1017 500 nullstr false} {18 1018 500 nullstr false} {19 1019 500 nullstr false} {21 1020 999 nullstr false} {22 1111 111 nullstr false}]
+2019/05/15 18:54:11.914 [I]  使用中的灯 aaabedb9bc77ce4365a5f3cc4450bac4 
+2019/05/15 18:54:11.914 [I]  金币数 f6e1f00531d5eafd7781fe47166ce86e 
+2019/05/15 18:54:11.914 [I]  最高关卡数 aaabedb9bc77ce4365a5f3cc4450bac4 
+2019/05/15 18:54:11.914 [I]  当前关卡数 aaabedb9bc77ce4365a5f3cc4450bac4 
+2019/05/15 18:57:51.887 [I]  初始化服务 url：/api/plant/config
+2019/05/15 18:57:51.891 [I]  ConfigLamp  初始化服务 url：/api/lamp/config
+2019/05/15 18:57:51.891 [I]  map[key:lamp conn:127.0.0.1:6379 dbNum:2 password:]
+2019/05/15 18:57:51.892 [I]  [116 101 115 116]
+2019/05/15 18:57:51.892 [I]  test
+2019/05/15 18:57:51.948 [I]  查询用户数据成功
+2019/05/15 18:57:51.948 [I]  [{1 1001 500 nullstr false} {2 1002 500 nullstr false} {3 1003 500 nullstr false} {4 1004 500 nullstr false} {5 1005 500 nullstr false} {6 1006 500 nullstr false} {7 1007 500 nullstr false} {8 1008 500 nullstr false} {9 1009 500 nullstr false} {10 1010 500 nullstr false} {11 1011 500 nullstr false} {12 1012 500 nullstr false} {13 1013 500 nullstr false} {14 1014 500 nullstr false} {15 1015 500 nullstr false} {16 1016 500 nullstr false} {17 1017 500 nullstr false} {18 1018 500 nullstr false} {19 1019 500 nullstr false} {21 1020 999 nullstr false} {22 1111 111 nullstr false}]
+2019/05/15 18:57:51.963 [I]  插入新灯成功 115
+2019/05/15 18:57:51.977 [I]  插入新灯成功 116
+2019/05/15 18:57:51.990 [I]  插入新灯成功 117
+2019/05/15 18:57:52.020 [I]  插入新灯成功 118
+2019/05/15 18:57:52.034 [I]  插入新灯成功 119
+2019/05/15 18:57:52.050 [I]  插入新灯成功 120
+2019/05/15 18:57:52.072 [I]  插入新灯成功 121
+2019/05/15 18:57:52.087 [I]  插入新灯成功 122
+2019/05/15 18:57:52.098 [I]  插入新灯成功 123
+2019/05/15 18:57:52.111 [I]  插入新灯成功 124
+2019/05/15 18:57:52.135 [I]  插入新灯成功 125
+2019/05/15 18:57:52.152 [I]  插入新灯成功 126
+2019/05/15 18:57:52.212 [I]  插入新灯成功 127
+2019/05/15 18:57:52.241 [I]  插入新灯成功 128
+2019/05/15 18:57:52.254 [I]  插入新灯成功 129
+2019/05/15 18:57:52.274 [I]  插入新灯成功 130
+2019/05/15 18:57:52.293 [I]  插入新灯成功 131
+2019/05/15 18:57:52.306 [I]  插入新灯成功 132
+2019/05/15 18:57:52.333 [I]  插入新灯成功 133
+2019/05/15 18:57:52.351 [I]  插入新灯成功 134
+2019/05/15 18:57:52.367 [I]  插入新灯成功 135
+2019/05/15 18:57:52.388 [I]  插入新灯成功 136
+2019/05/15 18:57:52.402 [I]  插入新灯成功 137
+2019/05/15 18:57:52.416 [I]  插入新灯成功 138
+2019/05/15 18:57:52.428 [I]  插入新灯成功 139
+2019/05/15 18:57:52.446 [I]  插入新灯成功 140
+2019/05/15 18:57:52.477 [I]  插入新灯成功 141
+2019/05/15 18:57:52.495 [I]  插入新灯成功 142
+2019/05/15 18:57:52.516 [I]  插入新灯成功 143
+2019/05/15 18:57:52.539 [I]  插入新灯成功 144
+2019/05/15 18:57:52.555 [I]  插入新灯成功 145
+2019/05/15 18:57:52.572 [I]  插入新灯成功 146
+2019/05/15 18:57:52.585 [I]  插入新灯成功 147
+2019/05/15 18:57:52.599 [I]  插入新灯成功 148
+2019/05/15 18:57:52.621 [I]  插入新灯成功 149
+2019/05/15 18:57:52.646 [I]  插入新灯成功 150
+2019/05/15 18:57:52.659 [I]  插入新灯成功 151
+2019/05/15 18:57:52.680 [I]  插入新灯成功 152
+2019/05/15 18:57:52.699 [I]  插入新灯成功 153
+2019/05/15 18:57:52.713 [I]  插入新灯成功 154
+2019/05/15 18:57:52.726 [I]  插入新灯成功 155
+2019/05/15 18:57:52.740 [I]  插入新灯成功 156
+2019/05/15 18:57:52.757 [I]  插入新灯成功 157
+2019/05/15 18:57:52.792 [I]  插入新灯成功 158
+2019/05/15 18:57:52.808 [I]  插入新灯成功 159
+2019/05/15 18:57:52.827 [I]  插入新灯成功 160
+2019/05/15 18:57:52.839 [I]  插入新灯成功 161
+2019/05/15 18:57:52.856 [I]  插入新灯成功 162
+2019/05/15 18:57:52.870 [I]  插入新灯成功 163
+2019/05/15 18:57:52.885 [I]  插入新灯成功 164
+2019/05/15 18:57:52.899 [I]  插入新灯成功 165
+2019/05/15 18:57:52.911 [I]  插入新灯成功 166
+2019/05/15 18:57:52.923 [I]  插入新灯成功 167
+2019/05/15 18:57:52.939 [I]  插入新灯成功 168
+2019/05/15 18:57:52.950 [I]  插入新灯成功 169
+2019/05/15 18:57:52.964 [I]  插入新灯成功 170
+2019/05/15 18:57:52.977 [I]  插入新灯成功 171
+2019/05/15 18:57:52.990 [I]  插入新灯成功 172
+2019/05/15 18:57:53.003 [I]  插入新灯成功 173
+2019/05/15 18:57:53.018 [I]  插入新灯成功 174
+2019/05/15 18:57:53.031 [I]  插入新灯成功 175
+2019/05/15 18:57:53.045 [I]  插入新灯成功 176
+2019/05/15 18:57:53.087 [I]  插入新灯成功 177
+2019/05/15 18:57:53.100 [I]  插入新灯成功 178
+2019/05/15 18:57:53.117 [I]  插入新灯成功 179
+2019/05/15 18:57:53.135 [I]  插入新灯成功 180
+2019/05/15 18:57:53.146 [I]  插入新灯成功 181
+2019/05/15 18:57:53.160 [I]  插入新灯成功 182
+2019/05/15 18:57:53.176 [I]  插入新灯成功 183
+2019/05/15 18:57:53.193 [I]  插入新灯成功 184
+2019/05/15 18:57:53.206 [I]  插入新灯成功 185
+2019/05/15 18:57:53.221 [I]  插入新灯成功 186
+2019/05/15 18:57:53.234 [I]  插入新灯成功 187
+2019/05/15 18:57:53.246 [I]  插入新灯成功 188
+2019/05/15 18:57:53.265 [I]  插入新灯成功 189
+2019/05/15 18:57:53.278 [I]  插入新灯成功 190
+2019/05/15 18:57:53.291 [I]  插入新灯成功 191
+2019/05/15 18:57:53.303 [I]  插入新灯成功 192
+2019/05/15 18:57:53.324 [I]  插入新灯成功 193
+2019/05/15 18:57:53.338 [I]  插入新灯成功 194
+2019/05/15 18:57:53.350 [I]  插入新灯成功 195
+2019/05/15 18:57:53.393 [I]  插入新灯成功 196
+2019/05/15 18:57:53.404 [I]  插入新灯成功 197
+2019/05/15 18:57:53.416 [I]  插入新灯成功 198
+2019/05/15 18:57:53.431 [I]  插入新灯成功 199
+2019/05/15 18:57:53.451 [I]  插入新灯成功 200
+2019/05/15 18:57:53.463 [I]  插入新灯成功 201
+2019/05/15 18:57:53.476 [I]  插入新灯成功 202
+2019/05/15 18:57:53.489 [I]  插入新灯成功 203
+2019/05/15 18:57:53.501 [I]  插入新灯成功 204
+2019/05/15 18:57:53.520 [I]  插入新灯成功 205
+2019/05/15 18:57:53.535 [I]  插入新灯成功 206
+2019/05/15 18:57:53.548 [I]  插入新灯成功 207
+2019/05/15 18:57:53.564 [I]  插入新灯成功 208
+2019/05/15 18:57:53.582 [I]  插入新灯成功 209
+2019/05/15 18:57:53.594 [I]  插入新灯成功 210
+2019/05/15 18:57:53.608 [I]  插入新灯成功 211
+2019/05/15 18:57:53.627 [I]  插入新灯成功 212
+2019/05/15 18:57:53.640 [I]  插入新灯成功 213
+2019/05/15 18:57:53.652 [I]  插入新灯成功 214
+2019/05/15 18:57:53.698 [I]  插入新灯成功 215
+2019/05/15 18:57:53.712 [I]  插入新灯成功 216
+2019/05/15 18:57:53.725 [I]  插入新灯成功 217
+2019/05/15 18:57:53.737 [I]  插入新灯成功 218
+2019/05/15 18:57:53.752 [I]  插入新灯成功 219
+2019/05/15 18:57:53.769 [I]  插入新灯成功 220
+2019/05/15 18:57:53.784 [I]  插入新灯成功 221
+2019/05/15 18:57:53.797 [I]  插入新灯成功 222
+2019/05/15 18:57:53.809 [I]  插入新灯成功 223
+2019/05/15 18:57:53.829 [I]  插入新灯成功 224
+2019/05/15 18:57:53.841 [I]  插入新灯成功 225
+2019/05/15 18:57:53.854 [I]  插入新灯成功 226
+2019/05/15 18:57:53.868 [I]  插入新灯成功 227
+2019/05/15 18:57:53.886 [I]  插入新灯成功 228
+2019/05/15 18:57:53.900 [I]  插入新灯成功 229
+2019/05/15 18:57:53.912 [I]  插入新灯成功 230
+2019/05/15 18:57:53.924 [I]  插入新灯成功 231
+2019/05/15 18:57:53.941 [I]  插入新灯成功 232
+2019/05/15 18:57:53.975 [I]  插入新灯成功 233
+2019/05/15 18:57:53.995 [I]  插入新灯成功 234
+2019/05/15 18:57:54.014 [I]  插入新灯成功 235
+2019/05/15 18:57:54.027 [I]  插入新灯成功 236
+2019/05/15 18:57:54.039 [I]  插入新灯成功 237
+2019/05/15 18:57:54.050 [I]  插入新灯成功 238
+2019/05/15 18:57:54.063 [I]  插入新灯成功 239
+2019/05/15 18:57:54.081 [I]  插入新灯成功 240
+2019/05/15 18:57:54.103 [I]  插入新灯成功 241
+2019/05/15 18:57:54.130 [I]  插入新灯成功 242
+2019/05/15 18:57:54.146 [I]  插入新灯成功 243
+2019/05/15 18:57:54.159 [I]  插入新灯成功 244
+2019/05/15 18:57:54.172 [I]  插入新灯成功 245
+2019/05/15 18:57:54.190 [I]  插入新灯成功 246
+2019/05/15 18:57:54.202 [I]  插入新灯成功 247
+2019/05/15 18:57:54.213 [I]  插入新灯成功 248
+2019/05/15 18:57:54.226 [I]  插入新灯成功 249
+2019/05/15 18:57:54.242 [I]  插入新灯成功 250
+2019/05/15 18:57:54.253 [I]  插入新灯成功 251
+2019/05/15 18:57:54.289 [I]  插入新灯成功 252
+2019/05/15 18:57:54.302 [I]  插入新灯成功 253
+2019/05/15 18:57:54.322 [I]  插入新灯成功 254
+2019/05/15 18:57:54.335 [I]  插入新灯成功 255
+2019/05/15 18:57:54.348 [I]  插入新灯成功 256
+2019/05/15 18:57:54.363 [I]  插入新灯成功 257
+2019/05/15 18:57:54.385 [I]  插入新灯成功 258
+2019/05/15 18:57:54.398 [I]  插入新灯成功 259
+2019/05/15 18:57:54.411 [I]  插入新灯成功 260
+2019/05/15 18:57:54.429 [I]  插入新灯成功 261
+2019/05/15 18:57:54.446 [I]  插入新灯成功 262
+2019/05/15 18:57:54.466 [I]  插入新灯成功 263
+2019/05/15 18:57:54.479 [I]  插入新灯成功 264
+2019/05/15 18:57:54.501 [I]  插入新灯成功 265
+2019/05/15 18:57:54.517 [I]  插入新灯成功 266
+2019/05/15 18:57:54.530 [I]  插入新灯成功 267
+2019/05/15 18:57:54.545 [I]  插入新灯成功 268
+2019/05/15 18:57:54.588 [I]  插入新灯成功 269
+2019/05/15 18:57:54.609 [I]  插入新灯成功 270
+2019/05/15 18:57:54.623 [I]  插入新灯成功 271
+2019/05/15 18:57:54.639 [I]  插入新灯成功 272
+2019/05/15 18:57:54.652 [I]  插入新灯成功 273
+2019/05/15 18:57:54.665 [I]  插入新灯成功 274
+2019/05/15 18:57:54.678 [I]  插入新灯成功 275
+2019/05/15 18:57:54.692 [I]  插入新灯成功 276
+2019/05/15 18:57:54.705 [I]  插入新灯成功 277
+2019/05/15 18:57:54.718 [I]  插入新灯成功 278
+2019/05/15 18:57:54.731 [I]  插入新灯成功 279
+2019/05/15 18:57:54.743 [I]  插入新灯成功 280
+2019/05/15 18:57:54.758 [I]  插入新灯成功 281
+2019/05/15 18:57:54.771 [I]  插入新灯成功 282
+2019/05/15 18:57:54.784 [I]  插入新灯成功 283
+2019/05/15 18:57:54.800 [I]  插入新灯成功 284
+2019/05/15 18:57:54.814 [I]  插入新灯成功 285
+2019/05/15 18:57:54.831 [I]  插入新灯成功 286
+2019/05/15 18:57:54.880 [I]  插入新灯成功 287
+2019/05/15 18:57:54.896 [I]  插入新灯成功 288
+2019/05/15 18:57:54.909 [I]  插入新灯成功 289
+2019/05/15 18:57:54.922 [I]  插入新灯成功 290
+2019/05/15 18:57:54.936 [I]  插入新灯成功 291
+2019/05/15 18:57:54.948 [I]  插入新灯成功 292
+2019/05/15 18:57:54.960 [I]  插入新灯成功 293
+2019/05/15 18:57:54.976 [I]  插入新灯成功 294
+2019/05/15 18:57:54.990 [I]  插入新灯成功 295
+2019/05/15 18:57:55.012 [I]  插入新灯成功 296
+2019/05/15 18:57:55.038 [I]  插入新灯成功 297
+2019/05/15 18:57:55.049 [I]  插入新灯成功 298
+2019/05/15 18:57:55.065 [I]  插入新灯成功 299
+2019/05/15 18:57:55.079 [I]  插入新灯成功 300
+2019/05/15 18:57:55.093 [I]  插入新灯成功 301
+2019/05/15 18:57:55.130 [I]  插入新灯成功 302
+2019/05/15 18:57:55.144 [I]  插入新灯成功 303
+2019/05/15 18:57:55.164 [I]  插入新灯成功 304
+2019/05/15 18:57:55.179 [I]  插入新灯成功 305
+2019/05/15 18:57:55.211 [I]  插入新灯成功 306
+2019/05/15 18:57:55.242 [I]  插入新灯成功 307
+2019/05/15 18:57:55.263 [I]  插入新灯成功 308
+2019/05/15 18:57:55.280 [I]  插入新灯成功 309
+2019/05/15 18:57:55.293 [I]  插入新灯成功 310
+2019/05/15 18:57:55.306 [I]  插入新灯成功 311
+2019/05/15 18:57:55.319 [I]  插入新灯成功 312
+2019/05/15 18:57:55.333 [I]  插入新灯成功 313
+2019/05/15 18:57:55.346 [I]  插入新灯成功 314
+2019/05/15 18:57:55.363 [I]  插入新灯成功 315
+2019/05/15 18:57:55.376 [I]  插入新灯成功 316
+2019/05/15 18:57:55.388 [I]  插入新灯成功 317
+2019/05/15 18:57:55.403 [I]  插入新灯成功 318
+2019/05/15 18:57:55.415 [I]  插入新灯成功 319
+2019/05/15 18:57:55.429 [I]  插入新灯成功 320
+2019/05/15 18:57:55.444 [I]  插入新灯成功 321
+2019/05/15 18:57:55.456 [I]  插入新灯成功 322
+2019/05/15 18:57:55.490 [I]  插入新灯成功 323
+2019/05/15 18:57:56.102 [I]  使用中的灯 aaabedb9bc77ce4365a5f3cc4450bac4 
+2019/05/15 18:57:56.102 [I]  金币数 f6e1f00531d5eafd7781fe47166ce86e 
+2019/05/15 18:57:56.102 [I]  最高关卡数 aaabedb9bc77ce4365a5f3cc4450bac4 
+2019/05/15 18:57:56.102 [I]  当前关卡数 aaabedb9bc77ce4365a5f3cc4450bac4 
+2019/05/15 18:59:07.235 [I]  初始化服务 url：/api/plant/config
+2019/05/15 18:59:07.241 [I]  ConfigLamp  初始化服务 url：/api/lamp/config
+2019/05/15 18:59:07.241 [I]  map[conn:127.0.0.1:6379 dbNum:2 password: key:lamp]
+2019/05/15 18:59:07.242 [I]  [116 101 115 116]
+2019/05/15 18:59:07.242 [I]  test
+2019/05/15 18:59:07.275 [I]  查询用户数据成功
+2019/05/15 18:59:07.275 [I]  [{1 1001 500 nullstr false} {2 1002 500 nullstr false} {3 1003 500 nullstr false} {4 1004 500 nullstr false} {5 1005 500 nullstr false} {6 1006 500 nullstr false} {7 1007 500 nullstr false} {8 1008 500 nullstr false} {9 1009 500 nullstr false} {10 1010 500 nullstr false} {11 1011 500 nullstr false} {12 1012 500 nullstr false} {13 1013 500 nullstr false} {14 1014 500 nullstr false} {15 1015 500 nullstr false} {16 1016 500 nullstr false} {17 1017 500 nullstr false} {18 1018 500 nullstr false} {19 1019 500 nullstr false} {21 1020 999 nullstr false} {22 1111 111 nullstr false}]
+2019/05/15 18:59:07.296 [I]  插入新灯成功 324
+2019/05/15 18:59:07.313 [I]  插入新灯成功 325
+2019/05/15 18:59:07.326 [I]  插入新灯成功 326
+2019/05/15 18:59:07.337 [I]  插入新灯成功 327
+2019/05/15 18:59:07.357 [I]  插入新灯成功 328
+2019/05/15 18:59:07.369 [I]  插入新灯成功 329
+2019/05/15 18:59:07.380 [I]  插入新灯成功 330
+2019/05/15 18:59:07.393 [I]  插入新灯成功 331
+2019/05/15 18:59:07.415 [I]  插入新灯成功 332
+2019/05/15 18:59:07.427 [I]  插入新灯成功 333
+2019/05/15 18:59:07.439 [I]  插入新灯成功 334
+2019/05/15 18:59:07.451 [I]  插入新灯成功 335
+2019/05/15 18:59:07.464 [I]  插入新灯成功 336
+2019/05/15 18:59:07.482 [I]  插入新灯成功 337
+2019/05/15 18:59:07.494 [I]  插入新灯成功 338
+2019/05/15 18:59:07.510 [I]  插入新灯成功 339
+2019/05/15 18:59:07.563 [I]  插入新灯成功 340
+2019/05/15 18:59:07.574 [I]  插入新灯成功 341
+2019/05/15 18:59:07.602 [I]  插入新灯成功 342
+2019/05/15 18:59:07.612 [I]  插入新灯成功 343
+2019/05/15 18:59:07.626 [I]  插入新灯成功 344
+2019/05/15 18:59:07.637 [I]  插入新灯成功 345
+2019/05/15 18:59:07.650 [I]  插入新灯成功 346
+2019/05/15 18:59:07.670 [I]  插入新灯成功 347
+2019/05/15 18:59:07.683 [I]  插入新灯成功 348
+2019/05/15 18:59:07.702 [I]  插入新灯成功 349
+2019/05/15 18:59:07.722 [I]  插入新灯成功 350
+2019/05/15 18:59:07.738 [I]  插入新灯成功 351
+2019/05/15 18:59:07.765 [I]  插入新灯成功 352
+2019/05/15 18:59:07.796 [I]  插入新灯成功 353
+2019/05/15 18:59:07.811 [I]  插入新灯成功 354
+2019/05/15 18:59:07.825 [I]  插入新灯成功 355
+2019/05/15 18:59:07.837 [I]  插入新灯成功 356
+2019/05/15 18:59:07.861 [I]  插入新灯成功 357
+2019/05/15 18:59:07.873 [I]  插入新灯成功 358
+2019/05/15 18:59:07.884 [I]  插入新灯成功 359
+2019/05/15 18:59:07.896 [I]  插入新灯成功 360
+2019/05/15 18:59:07.918 [I]  插入新灯成功 361
+2019/05/15 18:59:07.933 [I]  插入新灯成功 362
+2019/05/15 18:59:07.943 [I]  插入新灯成功 363
+2019/05/15 18:59:07.959 [I]  插入新灯成功 364
+2019/05/15 18:59:07.971 [I]  插入新灯成功 365
+2019/05/15 18:59:07.989 [I]  插入新灯成功 366
+2019/05/15 18:59:08.001 [I]  插入新灯成功 367
+2019/05/15 18:59:08.016 [I]  插入新灯成功 368
+2019/05/15 18:59:08.030 [I]  插入新灯成功 369
+2019/05/15 18:59:08.044 [I]  插入新灯成功 370
+2019/05/15 18:59:08.064 [I]  插入新灯成功 371
+2019/05/15 18:59:08.078 [I]  插入新灯成功 372
+2019/05/15 18:59:08.090 [I]  插入新灯成功 373
+2019/05/15 18:59:08.108 [I]  插入新灯成功 374
+2019/05/15 18:59:08.126 [I]  插入新灯成功 375
+2019/05/15 18:59:08.140 [I]  插入新灯成功 376
+2019/05/15 18:59:08.180 [I]  插入新灯成功 377
+2019/05/15 18:59:08.193 [I]  插入新灯成功 378
+2019/05/15 18:59:08.204 [I]  插入新灯成功 379
+2019/05/15 18:59:08.220 [I]  插入新灯成功 380
+2019/05/15 18:59:08.240 [I]  插入新灯成功 381
+2019/05/15 18:59:08.252 [I]  插入新灯成功 382
+2019/05/15 18:59:08.265 [I]  插入新灯成功 383
+2019/05/15 18:59:08.277 [I]  插入新灯成功 384
+2019/05/15 18:59:08.297 [I]  插入新灯成功 385
+2019/05/15 18:59:08.320 [I]  插入新灯成功 386
+2019/05/15 18:59:08.337 [I]  插入新灯成功 387
+2019/05/15 18:59:08.354 [I]  插入新灯成功 388
+2019/05/15 18:59:08.391 [I]  插入新灯成功 389
+2019/05/15 18:59:08.412 [I]  插入新灯成功 390
+2019/05/15 18:59:08.425 [I]  插入新灯成功 391
+2019/05/15 18:59:08.439 [I]  插入新灯成功 392
+2019/05/15 18:59:08.451 [I]  插入新灯成功 393
+2019/05/15 18:59:08.462 [I]  插入新灯成功 394
+2019/05/15 18:59:08.482 [I]  插入新灯成功 395
+2019/05/15 18:59:08.493 [I]  插入新灯成功 396
+2019/05/15 18:59:08.506 [I]  插入新灯成功 397
+2019/05/15 18:59:08.520 [I]  插入新灯成功 398
+2019/05/15 18:59:08.541 [I]  插入新灯成功 399
+2019/05/15 18:59:08.553 [I]  插入新灯成功 400
+2019/05/15 18:59:08.566 [I]  插入新灯成功 401
+2019/05/15 18:59:08.577 [I]  插入新灯成功 402
+2019/05/15 18:59:08.589 [I]  插入新灯成功 403
+2019/05/15 18:59:08.608 [I]  插入新灯成功 404
+2019/05/15 18:59:08.622 [I]  插入新灯成功 405
+2019/05/15 18:59:08.635 [I]  插入新灯成功 406
+2019/05/15 18:59:08.649 [I]  插入新灯成功 407
+2019/05/15 18:59:08.684 [I]  插入新灯成功 408
+2019/05/15 18:59:08.703 [I]  插入新灯成功 409
+2019/05/15 18:59:08.714 [I]  插入新灯成功 410
+2019/05/15 18:59:08.731 [I]  插入新灯成功 411
+2019/05/15 18:59:08.747 [I]  插入新灯成功 412
+2019/05/15 18:59:08.762 [I]  插入新灯成功 413
+2019/05/15 18:59:08.776 [I]  插入新灯成功 414
+2019/05/15 18:59:08.804 [I]  插入新灯成功 415
+2019/05/15 18:59:08.835 [I]  插入新灯成功 416
+2019/05/15 18:59:08.853 [I]  插入新灯成功 417
+2019/05/15 18:59:08.866 [I]  插入新灯成功 418
+2019/05/15 18:59:08.879 [I]  插入新灯成功 419
+2019/05/15 18:59:08.892 [I]  插入新灯成功 420
+2019/05/15 18:59:08.904 [I]  插入新灯成功 421
+2019/05/15 18:59:08.922 [I]  插入新灯成功 422
+2019/05/15 18:59:08.935 [I]  插入新灯成功 423
+2019/05/15 18:59:08.948 [I]  插入新灯成功 424
+2019/05/15 18:59:08.988 [I]  插入新灯成功 425
+2019/05/15 18:59:09.000 [I]  插入新灯成功 426
+2019/05/15 18:59:09.012 [I]  插入新灯成功 427
+2019/05/15 18:59:09.023 [I]  插入新灯成功 428
+2019/05/15 18:59:09.040 [I]  插入新灯成功 429
+2019/05/15 18:59:09.060 [I]  插入新灯成功 430
+2019/05/15 18:59:09.077 [I]  插入新灯成功 431
+2019/05/15 18:59:09.104 [I]  插入新灯成功 432
+2019/05/15 18:59:09.116 [I]  插入新灯成功 433
+2019/05/15 18:59:09.129 [I]  插入新灯成功 434
+2019/05/15 18:59:09.142 [I]  插入新灯成功 435
+2019/05/15 18:59:09.161 [I]  插入新灯成功 436
+2019/05/15 18:59:09.174 [I]  插入新灯成功 437
+2019/05/15 18:59:09.186 [I]  插入新灯成功 438
+2019/05/15 18:59:09.197 [I]  插入新灯成功 439
+2019/05/15 18:59:09.210 [I]  插入新灯成功 440
+2019/05/15 18:59:09.225 [I]  插入新灯成功 441
+2019/05/15 18:59:09.238 [I]  插入新灯成功 442
+2019/05/15 18:59:09.250 [I]  插入新灯成功 443
+2019/05/15 18:59:09.279 [I]  插入新灯成功 444
+2019/05/15 18:59:09.293 [I]  插入新灯成功 445
+2019/05/15 18:59:09.305 [I]  插入新灯成功 446
+2019/05/15 18:59:09.316 [I]  插入新灯成功 447
+2019/05/15 18:59:09.328 [I]  插入新灯成功 448
+2019/05/15 18:59:09.348 [I]  插入新灯成功 449
+2019/05/15 18:59:09.360 [I]  插入新灯成功 450
+2019/05/15 18:59:09.377 [I]  插入新灯成功 451
+2019/05/15 18:59:09.396 [I]  插入新灯成功 452
+2019/05/15 18:59:09.409 [I]  插入新灯成功 453
+2019/05/15 18:59:09.420 [I]  插入新灯成功 454
+2019/05/15 18:59:09.433 [I]  插入新灯成功 455
+2019/05/15 18:59:09.448 [I]  插入新灯成功 456
+2019/05/15 18:59:09.460 [I]  插入新灯成功 457
+2019/05/15 18:59:09.479 [I]  插入新灯成功 458
+2019/05/15 18:59:09.493 [I]  插入新灯成功 459
+2019/05/15 18:59:09.506 [I]  插入新灯成功 460
+2019/05/15 18:59:09.518 [I]  插入新灯成功 461
+2019/05/15 18:59:09.529 [I]  插入新灯成功 462
+2019/05/15 18:59:09.566 [I]  插入新灯成功 463
+2019/05/15 18:59:09.587 [I]  插入新灯成功 464
+2019/05/15 18:59:09.607 [I]  插入新灯成功 465
+2019/05/15 18:59:09.618 [I]  插入新灯成功 466
+2019/05/15 18:59:09.632 [I]  插入新灯成功 467
+2019/05/15 18:59:09.643 [I]  插入新灯成功 468
+2019/05/15 18:59:09.663 [I]  插入新灯成功 469
+2019/05/15 18:59:09.676 [I]  插入新灯成功 470
+2019/05/15 18:59:09.688 [I]  插入新灯成功 471
+2019/05/15 18:59:09.699 [I]  插入新灯成功 472
+2019/05/15 18:59:09.710 [I]  插入新灯成功 473
+2019/05/15 18:59:09.722 [I]  插入新灯成功 474
+2019/05/15 18:59:09.735 [I]  插入新灯成功 475
+2019/05/15 18:59:09.746 [I]  插入新灯成功 476
+2019/05/15 18:59:09.759 [I]  插入新灯成功 477
+2019/05/15 18:59:09.780 [I]  插入新灯成功 478
+2019/05/15 18:59:09.796 [I]  插入新灯成功 479
+2019/05/15 18:59:09.811 [I]  插入新灯成功 480
+2019/05/15 18:59:09.822 [I]  插入新灯成功 481
+2019/05/15 18:59:09.833 [I]  插入新灯成功 482
+2019/05/15 18:59:09.852 [I]  插入新灯成功 483
+2019/05/15 18:59:09.889 [I]  插入新灯成功 484
+2019/05/15 18:59:09.903 [I]  插入新灯成功 485
+2019/05/15 18:59:09.917 [I]  插入新灯成功 486
+2019/05/15 18:59:09.929 [I]  插入新灯成功 487
+2019/05/15 18:59:09.939 [I]  插入新灯成功 488
+2019/05/15 18:59:09.950 [I]  插入新灯成功 489
+2019/05/15 18:59:09.963 [I]  插入新灯成功 490
+2019/05/15 18:59:09.980 [I]  插入新灯成功 491
+2019/05/15 18:59:09.996 [I]  插入新灯成功 492
+2019/05/15 18:59:10.009 [I]  插入新灯成功 493
+2019/05/15 18:59:10.023 [I]  插入新灯成功 494
+2019/05/15 18:59:10.046 [I]  插入新灯成功 495
+2019/05/15 18:59:10.061 [I]  插入新灯成功 496
+2019/05/15 18:59:10.078 [I]  插入新灯成功 497
+2019/05/15 18:59:10.091 [I]  插入新灯成功 498
+2019/05/15 18:59:10.108 [I]  插入新灯成功 499
+2019/05/15 18:59:10.119 [I]  插入新灯成功 500
+2019/05/15 18:59:10.131 [I]  插入新灯成功 501
+2019/05/15 18:59:10.142 [I]  插入新灯成功 502
+2019/05/15 18:59:10.158 [I]  插入新灯成功 503
+2019/05/15 18:59:10.188 [I]  插入新灯成功 504
+2019/05/15 18:59:10.199 [I]  插入新灯成功 505
+2019/05/15 18:59:10.212 [I]  插入新灯成功 506
+2019/05/15 18:59:10.226 [I]  插入新灯成功 507
+2019/05/15 18:59:10.237 [I]  插入新灯成功 508
+2019/05/15 18:59:10.249 [I]  插入新灯成功 509
+2019/05/15 18:59:10.263 [I]  插入新灯成功 510
+2019/05/15 18:59:10.274 [I]  插入新灯成功 511
+2019/05/15 18:59:10.292 [I]  插入新灯成功 512
+2019/05/15 18:59:10.304 [I]  插入新灯成功 513
+2019/05/15 18:59:10.318 [I]  插入新灯成功 514
+2019/05/15 18:59:10.329 [I]  插入新灯成功 515
+2019/05/15 18:59:10.340 [I]  插入新灯成功 516
+2019/05/15 18:59:10.351 [I]  插入新灯成功 517
+2019/05/15 18:59:10.364 [I]  插入新灯成功 518
+2019/05/15 18:59:10.376 [I]  插入新灯成功 519
+2019/05/15 18:59:10.391 [I]  插入新灯成功 520
+2019/05/15 18:59:10.407 [I]  插入新灯成功 521
+2019/05/15 18:59:10.422 [I]  插入新灯成功 522
+2019/05/15 18:59:10.433 [I]  插入新灯成功 523
+2019/05/15 18:59:10.449 [I]  插入新灯成功 524
+2019/05/15 18:59:10.487 [I]  插入新灯成功 525
+2019/05/15 18:59:10.498 [I]  插入新灯成功 526
+2019/05/15 18:59:10.511 [I]  插入新灯成功 527
+2019/05/15 18:59:10.524 [I]  插入新灯成功 528
+2019/05/15 18:59:10.546 [I]  插入新灯成功 529
+2019/05/15 18:59:10.559 [I]  插入新灯成功 530
+2019/05/15 18:59:10.573 [I]  插入新灯成功 531
+2019/05/15 18:59:10.586 [I]  插入新灯成功 532
+2019/05/15 18:59:10.604 [I]  插入新灯成功 533
+2019/05/15 18:59:10.615 [I]  插入新灯成功 534
+2019/05/15 18:59:10.632 [I]  插入新灯成功 535
+2019/05/15 18:59:10.644 [I]  插入新灯成功 536
+2019/05/15 18:59:10.657 [I]  插入新灯成功 537
+2019/05/15 18:59:10.671 [I]  插入新灯成功 538
+2019/05/15 18:59:10.684 [I]  插入新灯成功 539
+2019/05/15 18:59:10.697 [I]  插入新灯成功 540
+2019/05/15 18:59:10.709 [I]  插入新灯成功 541
+2019/05/15 18:59:10.721 [I]  插入新灯成功 542
+2019/05/15 18:59:10.733 [I]  插入新灯成功 543
+2019/05/15 18:59:10.744 [I]  插入新灯成功 544
+2019/05/15 18:59:10.775 [I]  插入新灯成功 545
+2019/05/15 18:59:10.804 [I]  插入新灯成功 546
+2019/05/15 18:59:10.816 [I]  插入新灯成功 547
+2019/05/15 18:59:10.833 [I]  插入新灯成功 548
+2019/05/15 18:59:10.848 [I]  插入新灯成功 549
+2019/05/15 18:59:10.860 [I]  插入新灯成功 550
+2019/05/15 18:59:10.872 [I]  插入新灯成功 551
+2019/05/15 18:59:10.888 [I]  插入新灯成功 552
+2019/05/15 18:59:10.907 [I]  插入新灯成功 553
+2019/05/15 18:59:10.918 [I]  插入新灯成功 554
+2019/05/15 18:59:10.933 [I]  插入新灯成功 555
+2019/05/15 18:59:10.943 [I]  插入新灯成功 556
+2019/05/15 18:59:10.954 [I]  插入新灯成功 557
+2019/05/15 18:59:10.966 [I]  插入新灯成功 558
+2019/05/15 18:59:10.980 [I]  插入新灯成功 559
+2019/05/15 18:59:10.992 [I]  插入新灯成功 560
+2019/05/15 18:59:11.007 [I]  插入新灯成功 561
+2019/05/15 18:59:11.020 [I]  插入新灯成功 562
+2019/05/15 18:59:11.031 [I]  插入新灯成功 563
+2019/05/15 18:59:11.047 [I]  插入新灯成功 564
+2019/05/15 18:59:11.088 [I]  插入新灯成功 565
+2019/05/15 18:59:11.107 [I]  插入新灯成功 566
+2019/05/15 18:59:11.125 [I]  插入新灯成功 567
+2019/05/15 18:59:11.137 [I]  插入新灯成功 568
+2019/05/15 18:59:11.149 [I]  插入新灯成功 569
+2019/05/15 18:59:11.165 [I]  插入新灯成功 570
+2019/05/15 18:59:11.178 [I]  插入新灯成功 571
+2019/05/15 18:59:11.191 [I]  插入新灯成功 572
+2019/05/15 18:59:11.204 [I]  插入新灯成功 573
+2019/05/15 18:59:11.216 [I]  插入新灯成功 574
+2019/05/15 18:59:11.234 [I]  插入新灯成功 575
+2019/05/15 18:59:11.245 [I]  插入新灯成功 576
+2019/05/15 18:59:11.259 [I]  插入新灯成功 577
+2019/05/15 18:59:11.272 [I]  插入新灯成功 578
+2019/05/15 18:59:11.288 [I]  插入新灯成功 579
+2019/05/15 18:59:11.300 [I]  插入新灯成功 580
+2019/05/15 18:59:11.315 [I]  插入新灯成功 581
+2019/05/15 18:59:11.328 [I]  插入新灯成功 582
+2019/05/15 18:59:11.352 [I]  插入新灯成功 583
+2019/05/15 18:59:11.382 [I]  插入新灯成功 584
+2019/05/15 18:59:11.405 [I]  插入新灯成功 585
+2019/05/15 18:59:11.419 [I]  插入新灯成功 586
+2019/05/15 18:59:11.429 [I]  插入新灯成功 587
+2019/05/15 18:59:11.444 [I]  插入新灯成功 588
+2019/05/15 18:59:11.455 [I]  插入新灯成功 589
+2019/05/15 18:59:11.466 [I]  插入新灯成功 590
+2019/05/15 18:59:11.483 [I]  插入新灯成功 591
+2019/05/15 18:59:11.499 [I]  插入新灯成功 592
+2019/05/15 18:59:11.511 [I]  插入新灯成功 593
+2019/05/15 18:59:11.524 [I]  插入新灯成功 594
+2019/05/15 18:59:11.538 [I]  插入新灯成功 595
+2019/05/15 18:59:11.551 [I]  插入新灯成功 596
+2019/05/15 18:59:11.564 [I]  插入新灯成功 597
+2019/05/15 18:59:11.577 [I]  插入新灯成功 598
+2019/05/15 18:59:11.602 [I]  插入新灯成功 599
+2019/05/15 18:59:11.622 [I]  插入新灯成功 600
+2019/05/15 18:59:11.634 [I]  插入新灯成功 601
+2019/05/15 18:59:11.649 [I]  插入新灯成功 602
+2019/05/15 18:59:11.687 [I]  插入新灯成功 603
+2019/05/15 18:59:11.703 [I]  插入新灯成功 604
+2019/05/15 18:59:11.713 [I]  插入新灯成功 605
+2019/05/15 18:59:11.736 [I]  插入新灯成功 606
+2019/05/15 18:59:11.748 [I]  插入新灯成功 607
+2019/05/15 18:59:11.759 [I]  插入新灯成功 608
+2019/05/15 18:59:11.772 [I]  插入新灯成功 609
+2019/05/15 18:59:11.786 [I]  插入新灯成功 610
+2019/05/15 18:59:11.798 [I]  插入新灯成功 611
+2019/05/15 18:59:11.810 [I]  插入新灯成功 612
+2019/05/15 18:59:11.823 [I]  插入新灯成功 613
+2019/05/15 18:59:11.834 [I]  插入新灯成功 614
+2019/05/15 18:59:11.849 [I]  插入新灯成功 615
+2019/05/15 18:59:11.860 [I]  插入新灯成功 616
+2019/05/15 18:59:11.872 [I]  插入新灯成功 617
+2019/05/15 18:59:11.885 [I]  插入新灯成功 618
+2019/05/15 18:59:11.899 [I]  插入新灯成功 619
+2019/05/15 18:59:11.914 [I]  插入新灯成功 620
+2019/05/15 18:59:11.928 [I]  插入新灯成功 621
+2019/05/15 18:59:11.938 [I]  插入新灯成功 622
+2019/05/15 18:59:11.955 [I]  插入新灯成功 623
+2019/05/15 18:59:11.967 [I]  插入新灯成功 624
+2019/05/15 18:59:11.982 [I]  插入新灯成功 625
+2019/05/15 18:59:12.028 [I]  插入新灯成功 626
+2019/05/15 18:59:12.044 [I]  插入新灯成功 627
+2019/05/15 18:59:12.055 [I]  插入新灯成功 628
+2019/05/15 18:59:12.066 [I]  插入新灯成功 629
+2019/05/15 18:59:12.078 [I]  插入新灯成功 630
+2019/05/15 18:59:12.089 [I]  插入新灯成功 631
+2019/05/15 18:59:12.105 [I]  插入新灯成功 632
+2019/05/15 18:59:12.117 [I]  插入新灯成功 633
+2019/05/15 18:59:12.133 [I]  插入新灯成功 634
+2019/05/15 18:59:12.144 [I]  插入新灯成功 635
+2019/05/15 18:59:12.158 [I]  插入新灯成功 636
+2019/05/15 18:59:12.170 [I]  插入新灯成功 637
+2019/05/15 18:59:12.182 [I]  插入新灯成功 638
+2019/05/15 18:59:12.194 [I]  插入新灯成功 639
+2019/05/15 18:59:12.208 [I]  插入新灯成功 640
+2019/05/15 18:59:12.220 [I]  插入新灯成功 641
+2019/05/15 18:59:12.235 [I]  插入新灯成功 642
+2019/05/15 18:59:12.246 [I]  插入新灯成功 643
+2019/05/15 18:59:12.296 [I]  插入新灯成功 644
+2019/05/15 18:59:12.309 [I]  插入新灯成功 645
+2019/05/15 18:59:12.322 [I]  插入新灯成功 646
+2019/05/15 18:59:12.337 [I]  插入新灯成功 647
+2019/05/15 18:59:12.353 [I]  插入新灯成功 648
+2019/05/15 18:59:12.368 [I]  插入新灯成功 649
+2019/05/15 18:59:12.382 [I]  插入新灯成功 650
+2019/05/15 18:59:12.393 [I]  插入新灯成功 651
+2019/05/15 18:59:12.408 [I]  插入新灯成功 652
+2019/05/15 18:59:12.426 [I]  插入新灯成功 653
+2019/05/15 18:59:12.440 [I]  插入新灯成功 654
+2019/05/15 18:59:12.452 [I]  插入新灯成功 655
+2019/05/15 18:59:12.464 [I]  插入新灯成功 656
+2019/05/15 18:59:12.480 [I]  插入新灯成功 657
+2019/05/15 18:59:12.492 [I]  插入新灯成功 658
+2019/05/15 18:59:12.505 [I]  插入新灯成功 659
+2019/05/15 18:59:12.519 [I]  插入新灯成功 660
+2019/05/15 18:59:12.537 [I]  插入新灯成功 661
+2019/05/15 18:59:12.550 [I]  插入新灯成功 662
+2019/05/15 18:59:12.561 [I]  插入新灯成功 663
+2019/05/15 18:59:12.575 [I]  插入新灯成功 664
+2019/05/15 18:59:12.588 [I]  插入新灯成功 665
+2019/05/15 18:59:12.608 [I]  插入新灯成功 666
+2019/05/15 18:59:12.622 [I]  插入新灯成功 667
+2019/05/15 18:59:12.634 [I]  插入新灯成功 668
+2019/05/15 18:59:12.667 [I]  插入新灯成功 669
+2019/05/15 18:59:12.688 [I]  插入新灯成功 670
+2019/05/15 18:59:12.699 [I]  插入新灯成功 671
+2019/05/15 18:59:12.710 [I]  插入新灯成功 672
+2019/05/15 18:59:12.727 [I]  插入新灯成功 673
+2019/05/15 18:59:12.740 [I]  插入新灯成功 674
+2019/05/15 18:59:12.752 [I]  插入新灯成功 675
+2019/05/15 18:59:12.764 [I]  插入新灯成功 676
+2019/05/15 18:59:12.776 [I]  插入新灯成功 677
+2019/05/15 18:59:12.798 [I]  插入新灯成功 678
+2019/05/15 18:59:12.809 [I]  插入新灯成功 679
+2019/05/15 18:59:12.821 [I]  插入新灯成功 680
+2019/05/15 18:59:12.834 [I]  插入新灯成功 681
+2019/05/15 18:59:12.852 [I]  插入新灯成功 682
+2019/05/15 18:59:12.899 [I]  插入新灯成功 683
+2019/05/15 18:59:12.917 [I]  插入新灯成功 684
+2019/05/15 18:59:12.932 [I]  插入新灯成功 685
+2019/05/15 18:59:12.945 [I]  插入新灯成功 686
+2019/05/15 18:59:12.956 [I]  插入新灯成功 687
+2019/05/15 18:59:12.967 [I]  插入新灯成功 688
+2019/05/15 18:59:12.989 [I]  插入新灯成功 689
+2019/05/15 18:59:13.003 [I]  插入新灯成功 690
+2019/05/15 18:59:13.015 [I]  插入新灯成功 691
+2019/05/15 18:59:13.028 [I]  插入新灯成功 692
+2019/05/15 18:59:13.049 [I]  插入新灯成功 693
+2019/05/15 18:59:13.061 [I]  插入新灯成功 694
+2019/05/15 18:59:13.073 [I]  插入新灯成功 695
+2019/05/15 18:59:13.084 [I]  插入新灯成功 696
+2019/05/15 18:59:13.102 [I]  插入新灯成功 697
+2019/05/15 18:59:13.115 [I]  插入新灯成功 698
+2019/05/15 18:59:13.129 [I]  插入新灯成功 699
+2019/05/15 18:59:13.142 [I]  插入新灯成功 700
+2019/05/15 18:59:13.171 [I]  插入新灯成功 701
+2019/05/15 18:59:13.192 [I]  插入新灯成功 702
+2019/05/15 18:59:13.204 [I]  插入新灯成功 703
+2019/05/15 18:59:13.215 [I]  插入新灯成功 704
+2019/05/15 18:59:13.231 [I]  插入新灯成功 705
+2019/05/15 18:59:13.245 [I]  插入新灯成功 706
+2019/05/15 18:59:13.260 [I]  插入新灯成功 707
+2019/05/15 18:59:13.274 [I]  插入新灯成功 708
+2019/05/15 18:59:13.294 [I]  插入新灯成功 709
+2019/05/15 18:59:13.305 [I]  插入新灯成功 710
+2019/05/15 18:59:13.320 [I]  插入新灯成功 711
+2019/05/15 18:59:13.333 [I]  插入新灯成功 712
+2019/05/15 18:59:13.351 [I]  插入新灯成功 713
+2019/05/15 18:59:13.366 [I]  插入新灯成功 714
+2019/05/15 18:59:13.377 [I]  插入新灯成功 715
+2019/05/15 18:59:13.390 [I]  插入新灯成功 716
+2019/05/15 18:59:13.405 [I]  插入新灯成功 717
+2019/05/15 18:59:13.417 [I]  插入新灯成功 718
+2019/05/15 18:59:13.428 [I]  插入新灯成功 719
+2019/05/15 18:59:13.440 [I]  插入新灯成功 720
+2019/05/15 18:59:13.452 [I]  插入新灯成功 721
+2019/05/15 18:59:13.487 [I]  插入新灯成功 722
+2019/05/15 18:59:13.499 [I]  插入新灯成功 723
+2019/05/15 18:59:13.511 [I]  插入新灯成功 724
+2019/05/15 18:59:13.523 [I]  插入新灯成功 725
+2019/05/15 18:59:13.539 [I]  插入新灯成功 726
+2019/05/15 18:59:13.551 [I]  插入新灯成功 727
+2019/05/15 18:59:13.566 [I]  插入新灯成功 728
+2019/05/15 18:59:13.578 [I]  插入新灯成功 729
+2019/05/15 18:59:13.590 [I]  插入新灯成功 730
+2019/05/15 18:59:13.603 [I]  插入新灯成功 731
+2019/05/15 18:59:13.617 [I]  插入新灯成功 732
+2019/05/15 18:59:13.629 [I]  插入新灯成功 733
+2019/05/15 18:59:13.640 [I]  插入新灯成功 734
+2019/05/15 18:59:13.657 [I]  插入新灯成功 735
+2019/05/15 18:59:13.674 [I]  插入新灯成功 736
+2019/05/15 18:59:13.685 [I]  插入新灯成功 737
+2019/05/15 18:59:13.697 [I]  插入新灯成功 738
+2019/05/15 18:59:13.709 [I]  插入新灯成功 739
+2019/05/15 18:59:13.720 [I]  插入新灯成功 740
+2019/05/15 18:59:13.732 [I]  插入新灯成功 741
+2019/05/15 18:59:13.743 [I]  插入新灯成功 742
+2019/05/15 18:59:13.758 [I]  插入新灯成功 743
+2019/05/15 18:59:13.789 [I]  插入新灯成功 744
+2019/05/15 18:59:13.801 [I]  插入新灯成功 745
+2019/05/15 18:59:13.823 [I]  插入新灯成功 746
+2019/05/15 18:59:13.834 [I]  插入新灯成功 747
+2019/05/15 18:59:13.847 [I]  插入新灯成功 748
+2019/05/15 18:59:13.859 [I]  插入新灯成功 749
+2019/05/15 18:59:13.878 [I]  插入新灯成功 750
+2019/05/15 18:59:13.916 [I]  插入新灯成功 751
+2019/05/15 18:59:13.932 [I]  插入新灯成功 752
+2019/05/15 18:59:13.944 [I]  插入新灯成功 753
+2019/05/15 18:59:13.958 [I]  插入新灯成功 754
+2019/05/15 18:59:13.971 [I]  插入新灯成功 755
+2019/05/15 18:59:13.985 [I]  插入新灯成功 756
+2019/05/15 18:59:13.998 [I]  插入新灯成功 757
+2019/05/15 18:59:14.012 [I]  插入新灯成功 758
+2019/05/15 18:59:14.024 [I]  插入新灯成功 759
+2019/05/15 18:59:14.038 [I]  插入新灯成功 760
+2019/05/15 18:59:14.077 [I]  插入新灯成功 761
+2019/05/15 18:59:14.097 [I]  插入新灯成功 762
+2019/05/15 18:59:14.118 [I]  插入新灯成功 763
+2019/05/15 18:59:14.133 [I]  插入新灯成功 764
+2019/05/15 18:59:14.149 [I]  插入新灯成功 765
+2019/05/15 18:59:14.163 [I]  插入新灯成功 766
+2019/05/15 18:59:14.176 [I]  插入新灯成功 767
+2019/05/15 18:59:14.188 [I]  插入新灯成功 768
+2019/05/15 18:59:14.200 [I]  插入新灯成功 769
+2019/05/15 18:59:14.217 [I]  插入新灯成功 770
+2019/05/15 18:59:14.236 [I]  插入新灯成功 771
+2019/05/15 18:59:14.249 [I]  插入新灯成功 772
+2019/05/15 18:59:14.262 [I]  插入新灯成功 773
+2019/05/15 18:59:14.279 [I]  插入新灯成功 774
+2019/05/15 18:59:14.298 [I]  插入新灯成功 775
+2019/05/15 18:59:14.313 [I]  插入新灯成功 776
+2019/05/15 18:59:14.326 [I]  插入新灯成功 777
+2019/05/15 18:59:14.337 [I]  插入新灯成功 778
+2019/05/15 18:59:14.351 [I]  插入新灯成功 779
+2019/05/15 18:59:14.387 [I]  插入新灯成功 780
+2019/05/15 18:59:14.400 [I]  插入新灯成功 781
+2019/05/15 18:59:14.417 [I]  插入新灯成功 782
+2019/05/15 18:59:14.431 [I]  插入新灯成功 783
+2019/05/15 18:59:14.448 [I]  插入新灯成功 784
+2019/05/15 18:59:14.463 [I]  插入新灯成功 785
+2019/05/15 18:59:14.486 [I]  插入新灯成功 786
+2019/05/15 18:59:14.500 [I]  插入新灯成功 787
+2019/05/15 18:59:14.515 [I]  插入新灯成功 788
+2019/05/15 18:59:14.527 [I]  插入新灯成功 789
+2019/05/15 18:59:14.548 [I]  插入新灯成功 790
+2019/05/15 18:59:14.562 [I]  插入新灯成功 791
+2019/05/15 18:59:14.577 [I]  插入新灯成功 792
+2019/05/15 18:59:14.593 [I]  插入新灯成功 793
+2019/05/15 18:59:14.603 [I]  插入新灯成功 794
+2019/05/15 18:59:14.617 [I]  插入新灯成功 795
+2019/05/15 18:59:14.633 [I]  插入新灯成功 796
+2019/05/15 18:59:14.644 [I]  插入新灯成功 797
+2019/05/15 18:59:14.664 [I]  插入新灯成功 798
+2019/05/15 18:59:14.689 [I]  插入新灯成功 799
+2019/05/15 18:59:14.699 [I]  插入新灯成功 800
+2019/05/15 18:59:14.711 [I]  插入新灯成功 801
+2019/05/15 18:59:14.728 [I]  插入新灯成功 802
+2019/05/15 18:59:14.740 [I]  插入新灯成功 803
+2019/05/15 18:59:14.753 [I]  插入新灯成功 804
+2019/05/15 18:59:14.766 [I]  插入新灯成功 805
+2019/05/15 18:59:14.780 [I]  插入新灯成功 806
+2019/05/15 18:59:14.795 [I]  插入新灯成功 807
+2019/05/15 18:59:14.811 [I]  插入新灯成功 808
+2019/05/15 18:59:14.823 [I]  插入新灯成功 809
+2019/05/15 18:59:14.834 [I]  插入新灯成功 810
+2019/05/15 18:59:14.847 [I]  插入新灯成功 811
+2019/05/15 18:59:14.858 [I]  插入新灯成功 812
+2019/05/15 18:59:14.870 [I]  插入新灯成功 813
+2019/05/15 18:59:14.883 [I]  插入新灯成功 814
+2019/05/15 18:59:14.898 [I]  插入新灯成功 815
+2019/05/15 18:59:14.920 [I]  插入新灯成功 816
+2019/05/15 18:59:14.931 [I]  插入新灯成功 817
+2019/05/15 18:59:14.944 [I]  插入新灯成功 818
+2019/05/15 18:59:14.957 [I]  插入新灯成功 819
+2019/05/15 18:59:14.971 [I]  插入新灯成功 820
+2019/05/15 18:59:14.988 [I]  插入新灯成功 821
+2019/05/15 18:59:15.006 [I]  插入新灯成功 822
+2019/05/15 18:59:15.019 [I]  插入新灯成功 823
+2019/05/15 18:59:15.042 [I]  插入新灯成功 824
+2019/05/15 18:59:15.053 [I]  插入新灯成功 825
+2019/05/15 18:59:15.064 [I]  插入新灯成功 826
+2019/05/15 18:59:15.078 [I]  插入新灯成功 827
+2019/05/15 18:59:15.097 [I]  插入新灯成功 828
+2019/05/15 18:59:15.108 [I]  插入新灯成功 829
+2019/05/15 18:59:15.121 [I]  插入新灯成功 830
+2019/05/15 18:59:15.132 [I]  插入新灯成功 831
+2019/05/15 18:59:15.144 [I]  插入新灯成功 832
+2019/05/15 18:59:15.162 [I]  插入新灯成功 833
+2019/05/15 18:59:15.173 [I]  插入新灯成功 834
+2019/05/15 18:59:15.189 [I]  插入新灯成功 835
+2019/05/15 18:59:15.205 [I]  插入新灯成功 836
+2019/05/15 18:59:15.217 [I]  插入新灯成功 837
+2019/05/15 18:59:15.238 [I]  插入新灯成功 838
+2019/05/15 18:59:15.249 [I]  插入新灯成功 839
+2019/05/15 18:59:15.272 [I]  插入新灯成功 840
+2019/05/15 18:59:15.291 [I]  插入新灯成功 841
+2019/05/15 18:59:15.307 [I]  插入新灯成功 842
+2019/05/15 18:59:15.320 [I]  插入新灯成功 843
+2019/05/15 18:59:15.331 [I]  插入新灯成功 844
+2019/05/15 18:59:15.351 [I]  插入新灯成功 845
+2019/05/15 18:59:15.361 [I]  插入新灯成功 846
+2019/05/15 18:59:15.372 [I]  插入新灯成功 847
+2019/05/15 18:59:15.388 [I]  插入新灯成功 848
+2019/05/15 18:59:15.407 [I]  插入新灯成功 849
+2019/05/15 18:59:15.418 [I]  插入新灯成功 850
+2019/05/15 18:59:15.429 [I]  插入新灯成功 851
+2019/05/15 18:59:15.443 [I]  插入新灯成功 852
+2019/05/15 18:59:15.454 [I]  插入新灯成功 853
+2019/05/15 18:59:15.465 [I]  插入新灯成功 854
+2019/05/15 18:59:15.483 [I]  插入新灯成功 855
+2019/05/15 18:59:15.497 [I]  插入新灯成功 856
+2019/05/15 18:59:15.512 [I]  插入新灯成功 857
+2019/05/15 18:59:15.522 [I]  插入新灯成功 858
+2019/05/15 18:59:15.544 [I]  插入新灯成功 859
+2019/05/15 18:59:15.555 [I]  插入新灯成功 860
+2019/05/15 18:59:15.586 [I]  插入新灯成功 861
+2019/05/15 18:59:15.609 [I]  插入新灯成功 862
+2019/05/15 18:59:15.620 [I]  插入新灯成功 863
+2019/05/15 18:59:15.631 [I]  插入新灯成功 864
+2019/05/15 18:59:15.643 [I]  插入新灯成功 865
+2019/05/15 18:59:15.662 [I]  插入新灯成功 866
+2019/05/15 18:59:15.673 [I]  插入新灯成功 867
+2019/05/15 18:59:15.684 [I]  插入新灯成功 868
+2019/05/15 18:59:15.698 [I]  插入新灯成功 869
+2019/05/15 18:59:15.712 [I]  插入新灯成功 870
+2019/05/15 18:59:15.729 [I]  插入新灯成功 871
+2019/05/15 18:59:15.745 [I]  插入新灯成功 872
+2019/05/15 18:59:15.758 [I]  插入新灯成功 873
+2019/05/15 18:59:15.768 [I]  插入新灯成功 874
+2019/05/15 18:59:15.780 [I]  插入新灯成功 875
+2019/05/15 18:59:15.798 [I]  插入新灯成功 876
+2019/05/15 18:59:15.810 [I]  插入新灯成功 877
+2019/05/15 18:59:15.824 [I]  插入新灯成功 878
+2019/05/15 18:59:15.836 [I]  插入新灯成功 879
+2019/05/15 18:59:15.872 [I]  插入新灯成功 880
+2019/05/15 18:59:15.899 [I]  插入新灯成功 881
+2019/05/15 18:59:15.926 [I]  插入新灯成功 882
+2019/05/15 18:59:15.937 [I]  插入新灯成功 883
+2019/05/15 18:59:15.950 [I]  插入新灯成功 884
+2019/05/15 18:59:15.961 [I]  插入新灯成功 885
+2019/05/15 18:59:15.978 [I]  插入新灯成功 886
+2019/05/15 18:59:15.991 [I]  插入新灯成功 887
+2019/05/15 18:59:16.003 [I]  插入新灯成功 888
+2019/05/15 18:59:16.018 [I]  插入新灯成功 889
+2019/05/15 18:59:16.029 [I]  插入新灯成功 890
+2019/05/15 18:59:16.047 [I]  插入新灯成功 891
+2019/05/15 18:59:16.059 [I]  插入新灯成功 892
+2019/05/15 18:59:16.073 [I]  插入新灯成功 893
+2019/05/15 18:59:23.036 [I]  使用中的灯 aaabedb9bc77ce4365a5f3cc4450bac4 
+2019/05/15 18:59:23.036 [I]  金币数 f6e1f00531d5eafd7781fe47166ce86e 
+2019/05/15 18:59:23.036 [I]  最高关卡数 aaabedb9bc77ce4365a5f3cc4450bac4 
+2019/05/15 18:59:23.036 [I]  当前关卡数 aaabedb9bc77ce4365a5f3cc4450bac4 
+2019/05/15 19:08:14.510 [I]  初始化服务 url：/api/plant/config
+2019/05/15 19:08:14.518 [I]  ConfigLamp  初始化服务 url：/api/lamp/config
+2019/05/15 19:08:14.518 [I]  map[key:lamp conn:127.0.0.1:6379 dbNum:2 password:]
+2019/05/15 19:08:14.518 [I]  [116 101 115 116]
+2019/05/15 19:08:14.518 [I]  test
+2019/05/15 19:08:14.569 [I]  查询用户数据失败 <QuerySeter> no row found
+2019/05/15 19:08:14.569 [I]  查询用户数据成功
+2019/05/15 19:08:14.569 [I]  [{1 1001 500 nullstr false} {2 1002 500 nullstr false} {3 1003 500 nullstr false} {4 1004 500 nullstr false} {5 1005 500 nullstr false} {6 1006 500 nullstr false} {7 1007 500 nullstr false} {8 1008 500 nullstr false} {9 1009 500 nullstr false} {10 1010 500 nullstr false} {11 1011 500 nullstr false} {12 1012 500 nullstr false} {13 1013 500 nullstr false} {14 1014 500 nullstr false} {15 1015 500 nullstr false} {16 1016 500 nullstr false} {17 1017 500 nullstr false} {18 1018 500 nullstr false} {19 1019 500 nullstr false}]
+2019/05/15 19:08:14.569 [I]  使用中的灯 aaabedb9bc77ce4365a5f3cc4450bac4 
+2019/05/15 19:08:14.569 [I]  金币数 f6e1f00531d5eafd7781fe47166ce86e 
+2019/05/15 19:08:14.569 [I]  最高关卡数 aaabedb9bc77ce4365a5f3cc4450bac4 
+2019/05/15 19:08:14.569 [I]  当前关卡数 aaabedb9bc77ce4365a5f3cc4450bac4 
+2019/05/15 19:08:28.766 [I]  初始化服务 url：/api/plant/config
+2019/05/15 19:08:28.769 [I]  ConfigLamp  初始化服务 url：/api/lamp/config
+2019/05/15 19:08:28.769 [I]  map[key:lamp conn:127.0.0.1:6379 dbNum:2 password:]
+2019/05/15 19:08:28.772 [I]  [116 101 115 116]
+2019/05/15 19:08:28.772 [I]  test
+2019/05/15 19:08:28.860 [I]  查询用户数据失败 <QuerySeter> no row found
+2019/05/15 19:08:28.861 [I]  查询用户数据成功
+2019/05/15 19:08:28.861 [I]  [{1 1001 500 nullstr false} {2 1002 500 nullstr false} {3 1003 500 nullstr false} {4 1004 500 nullstr false} {5 1005 500 nullstr false} {6 1006 500 nullstr false} {7 1007 500 nullstr false} {8 1008 500 nullstr false} {9 1009 500 nullstr false} {10 1010 500 nullstr false} {11 1011 500 nullstr false} {12 1012 500 nullstr false} {13 1013 500 nullstr false} {14 1014 500 nullstr false} {15 1015 500 nullstr false} {16 1016 500 nullstr false} {17 1017 500 nullstr false} {18 1018 500 nullstr false} {19 1019 500 nullstr false}]
+2019/05/15 19:08:28.861 [I]  使用中的灯 aaabedb9bc77ce4365a5f3cc4450bac4 
+2019/05/15 19:08:28.861 [I]  金币数 f6e1f00531d5eafd7781fe47166ce86e 
+2019/05/15 19:08:28.861 [I]  最高关卡数 aaabedb9bc77ce4365a5f3cc4450bac4 
+2019/05/15 19:08:28.861 [I]  当前关卡数 aaabedb9bc77ce4365a5f3cc4450bac4 
+2019/05/15 19:08:30.215 [I]  初始化服务 url：/api/plant/config
+2019/05/15 19:08:30.219 [I]  ConfigLamp  初始化服务 url：/api/lamp/config
+2019/05/15 19:08:30.219 [I]  map[key:lamp conn:127.0.0.1:6379 dbNum:2 password:]
+2019/05/15 19:08:30.220 [I]  [116 101 115 116]
+2019/05/15 19:08:30.220 [I]  test
+2019/05/15 19:08:30.289 [I]  查询用户数据失败 <QuerySeter> no row found
+2019/05/15 19:08:30.289 [I]  查询用户数据成功
+2019/05/15 19:08:30.289 [I]  [{1 1001 500 nullstr false} {2 1002 500 nullstr false} {3 1003 500 nullstr false} {4 1004 500 nullstr false} {5 1005 500 nullstr false} {6 1006 500 nullstr false} {7 1007 500 nullstr false} {8 1008 500 nullstr false} {9 1009 500 nullstr false} {10 1010 500 nullstr false} {11 1011 500 nullstr false} {12 1012 500 nullstr false} {13 1013 500 nullstr false} {14 1014 500 nullstr false} {15 1015 500 nullstr false} {16 1016 500 nullstr false} {17 1017 500 nullstr false} {18 1018 500 nullstr false} {19 1019 500 nullstr false}]
+2019/05/15 19:08:30.289 [I]  使用中的灯 aaabedb9bc77ce4365a5f3cc4450bac4 
+2019/05/15 19:08:30.289 [I]  金币数 f6e1f00531d5eafd7781fe47166ce86e 
+2019/05/15 19:08:30.289 [I]  最高关卡数 aaabedb9bc77ce4365a5f3cc4450bac4 
+2019/05/15 19:08:30.289 [I]  当前关卡数 aaabedb9bc77ce4365a5f3cc4450bac4 
+2019/05/15 19:12:27.934 [I]  初始化服务 url：/api/plant/config
+2019/05/15 19:12:27.943 [I]  ConfigLamp  初始化服务 url：/api/lamp/config
+2019/05/15 19:12:27.943 [I]  map[password: key:lamp conn:127.0.0.1:6379 dbNum:2]
+2019/05/15 19:12:27.944 [I]  [116 101 115 116]
+2019/05/15 19:12:27.944 [I]  test
+2019/05/15 19:12:27.982 [I]  查询用户数据失败 <QuerySeter> no row found
+2019/05/15 19:12:27.982 [I]  查询用户数据成功
+2019/05/15 19:12:27.982 [I]  [{1 1001 500 nullstr false} {2 1002 500 nullstr false} {3 1003 500 nullstr false} {4 1004 500 nullstr false} {5 1005 500 nullstr false} {6 1006 500 nullstr false} {7 1007 500 nullstr false} {8 1008 500 nullstr false} {9 1009 500 nullstr false} {10 1010 500 nullstr false} {11 1011 500 nullstr false} {12 1012 500 nullstr false} {13 1013 500 nullstr false} {14 1014 500 nullstr false} {15 1015 500 nullstr false} {16 1016 500 nullstr false} {17 1017 500 nullstr false} {18 1018 500 nullstr false} {19 1019 500 nullstr false}]
+2019/05/15 19:12:27.982 [I]  使用中的灯 aaabedb9bc77ce4365a5f3cc4450bac4 
+2019/05/15 19:12:27.982 [I]  金币数 f6e1f00531d5eafd7781fe47166ce86e 
+2019/05/15 19:12:27.982 [I]  最高关卡数 aaabedb9bc77ce4365a5f3cc4450bac4 
+2019/05/15 19:12:27.982 [I]  当前关卡数 aaabedb9bc77ce4365a5f3cc4450bac4 
+2019/05/15 20:08:00.289 [I]  初始化服务 url：/api/plant/config
+2019/05/15 20:08:00.315 [I]  ConfigLamp  初始化服务 url：/api/lamp/config
+2019/05/15 20:08:00.315 [I]  map[dbNum:2 password: key:lamp conn:127.0.0.1:6379]
+2019/05/15 20:08:00.326 [I]  [116 101 115 116]
+2019/05/15 20:08:00.326 [I]  test
+2019/05/15 20:08:00.338 [I]  查询用户数据失败
+2019/05/15 20:08:04.023 [I]  初始化服务 url：/api/plant/config
+2019/05/15 20:08:04.027 [I]  ConfigLamp  初始化服务 url：/api/lamp/config
+2019/05/15 20:08:04.027 [I]  map[key:lamp conn:127.0.0.1:6379 dbNum:2 password:]
+2019/05/15 20:08:04.027 [I]  [116 101 115 116]
+2019/05/15 20:08:04.027 [I]  test
+2019/05/15 20:08:04.046 [I]  查询用户数据失败
+2019/05/15 20:08:23.896 [I]  初始化服务 url：/api/plant/config
+2019/05/15 20:08:23.903 [I]  ConfigLamp  初始化服务 url：/api/lamp/config
+2019/05/15 20:08:23.903 [I]  map[dbNum:2 password: key:lamp conn:127.0.0.1:6379]
+2019/05/15 20:08:23.904 [I]  [116 101 115 116]
+2019/05/15 20:08:23.904 [I]  test
+2019/05/15 20:08:23.949 [I]  查询用户数据失败 <QuerySeter> no row found
+2019/05/15 20:08:23.949 [I]  查询用户数据成功
+2019/05/15 20:08:23.949 [I]  [{1 1001 500 nullstr false} {2 1002 500 nullstr false} {3 1003 500 nullstr false} {4 1004 500 nullstr false} {5 1005 500 nullstr false} {6 1006 500 nullstr false} {7 1007 500 nullstr false} {8 1008 500 nullstr false} {9 1009 500 nullstr false} {10 1010 500 nullstr false} {11 1011 500 nullstr false} {12 1012 500 nullstr false} {13 1013 500 nullstr false} {14 1014 500 nullstr false} {15 1015 500 nullstr false} {16 1016 500 nullstr false} {17 1017 500 nullstr false} {18 1018 500 nullstr false} {19 1019 500 nullstr false}]
+2019/05/15 20:08:23.973 [I]  插入新灯成功 96
+2019/05/15 20:08:24.008 [I]  插入新灯成功 97
+2019/05/15 20:08:24.021 [I]  插入新灯成功 98
+2019/05/15 20:08:24.036 [I]  插入新灯成功 99
+2019/05/15 20:08:24.050 [I]  插入新灯成功 100
+2019/05/15 20:08:24.064 [I]  插入新灯成功 101
+2019/05/15 20:08:24.076 [I]  插入新灯成功 102
+2019/05/15 20:08:24.090 [I]  插入新灯成功 103
+2019/05/15 20:08:24.102 [I]  插入新灯成功 104
+2019/05/15 20:08:24.114 [I]  插入新灯成功 105
+2019/05/15 20:08:24.127 [I]  插入新灯成功 106
+2019/05/15 20:08:24.139 [I]  插入新灯成功 107
+2019/05/15 20:08:24.154 [I]  插入新灯成功 108
+2019/05/15 20:08:24.167 [I]  插入新灯成功 109
+2019/05/15 20:08:24.184 [I]  插入新灯成功 110
+2019/05/15 20:08:24.198 [I]  插入新灯成功 111
+2019/05/15 20:08:24.211 [I]  插入新灯成功 112
+2019/05/15 20:08:24.223 [I]  插入新灯成功 113
+2019/05/15 20:08:24.241 [I]  插入新灯成功 114
+2019/05/15 20:08:24.241 [I]  使用中的灯 aaabedb9bc77ce4365a5f3cc4450bac4 
+2019/05/15 20:08:24.241 [I]  金币数 aaabedb9bc77ce4365a5f3cc4450bac4 
+2019/05/15 20:08:24.241 [I]  最高关卡数 aaabedb9bc77ce4365a5f3cc4450bac4 
+2019/05/15 20:08:24.241 [I]  当前关卡数 aaabedb9bc77ce4365a5f3cc4450bac4 
+2019/05/15 20:08:55.702 [I]  初始化服务 url：/api/plant/config
+2019/05/15 20:08:55.731 [I]  ConfigLamp  初始化服务 url：/api/lamp/config
+2019/05/15 20:08:55.734 [I]  map[key:lamp conn:127.0.0.1:6379 dbNum:2 password:]
+2019/05/15 20:08:55.736 [I]  [116 101 115 116]
+2019/05/15 20:08:55.736 [I]  test
+2019/05/15 20:08:55.781 [I]  查询用户数据成功
+2019/05/15 20:08:55.781 [I]  [{1 1001 500 nullstr false} {2 1002 500 nullstr false} {3 1003 500 nullstr false} {4 1004 500 nullstr false} {5 1005 500 nullstr false} {6 1006 500 nullstr false} {7 1007 500 nullstr false} {8 1008 500 nullstr false} {9 1009 500 nullstr false} {10 1010 500 nullstr false} {11 1011 500 nullstr false} {12 1012 500 nullstr false} {13 1013 500 nullstr false} {14 1014 500 nullstr false} {15 1015 500 nullstr false} {16 1016 500 nullstr false} {17 1017 500 nullstr false} {18 1018 500 nullstr false} {19 1019 500 nullstr false}]
+2019/05/15 20:08:55.794 [I]  插入新灯成功 115
+2019/05/15 20:08:56.377 [I]  使用中的灯 aaabedb9bc77ce4365a5f3cc4450bac4 
+2019/05/15 20:08:56.377 [I]  金币数 aaabedb9bc77ce4365a5f3cc4450bac4 
+2019/05/15 20:08:56.378 [I]  最高关卡数 aaabedb9bc77ce4365a5f3cc4450bac4 
+2019/05/15 20:08:56.378 [I]  当前关卡数 aaabedb9bc77ce4365a5f3cc4450bac4 
+2019/05/15 20:09:28.472 [I]  初始化服务 url：/api/plant/config
+2019/05/15 20:09:28.476 [I]  ConfigLamp  初始化服务 url：/api/lamp/config
+2019/05/15 20:09:28.476 [I]  map[key:lamp conn:127.0.0.1:6379 dbNum:2 password:]
+2019/05/15 20:09:28.477 [I]  [116 101 115 116]
+2019/05/15 20:09:28.477 [I]  test
+2019/05/15 20:09:28.578 [I]  查询用户数据成功
+2019/05/15 20:09:28.578 [I]  [{1 1001 500 nullstr false} {2 1002 500 nullstr false} {3 1003 500 nullstr false} {4 1004 500 nullstr false} {5 1005 500 nullstr false} {6 1006 500 nullstr false} {7 1007 500 nullstr false} {8 1008 500 nullstr false} {9 1009 500 nullstr false} {10 1010 500 nullstr false} {11 1011 500 nullstr false} {12 1012 500 nullstr false} {13 1013 500 nullstr false} {14 1014 500 nullstr false} {15 1015 500 nullstr false} {16 1016 500 nullstr false} {17 1017 500 nullstr false} {18 1018 500 nullstr false} {19 1019 500 nullstr false}]
+2019/05/15 20:09:28.592 [I]  插入新灯成功 116
+2019/05/15 20:09:29.182 [I]  使用中的灯 aaabedb9bc77ce4365a5f3cc4450bac4 
+2019/05/15 20:09:29.182 [I]  金币数 aaabedb9bc77ce4365a5f3cc4450bac4 
+2019/05/15 20:09:29.182 [I]  最高关卡数 aaabedb9bc77ce4365a5f3cc4450bac4 
+2019/05/15 20:09:29.182 [I]  当前关卡数 aaabedb9bc77ce4365a5f3cc4450bac4 

@@ -1,0 +1,1588 @@
+2019/06/05 10:13:04.412 [I]  登陆服务  url : /api/plant/Login
+2019/06/05 10:13:28.078 [I]  登陆服务  url : /api/plant/Login
+2019/06/05 10:13:29.973 [I]  初始化服务 url：/api/plant/config
+2019/06/05 10:13:32.477 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 10:13:32.488 [I]  获取公告服务 url：/api/plant/TestServer
+2019/06/05 10:13:37.902 [I]  宝图服务 url：/api/plant/treasuremap
+2019/06/05 10:13:37.903 [I]  宝图服务 url：/api/plant/treasuremap 
+2019/06/05 10:13:48.194 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 10:13:48.248 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 10:13:58.190 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 10:13:58.242 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 10:14:08.217 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 10:14:08.273 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 10:14:08.600 [I]  获取灯助力数据服务 url：/api/plant/lamplest
+2019/06/05 10:14:18.256 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 10:14:18.315 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 10:14:23.999 [I]  获取灯助力数据服务 url：/api/plant/lamplest
+2019/06/05 10:20:25.069 [I]  登陆服务  url : /api/plant/Login
+2019/06/05 10:20:26.799 [I]  初始化服务 url：/api/plant/config
+2019/06/05 10:20:28.541 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 10:20:28.560 [I]  获取公告服务 url：/api/plant/TestServer
+2019/06/05 10:20:37.897 [I]  获取灯助力数据服务 url：/api/plant/lamplest
+2019/06/05 10:20:43.960 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 10:20:44.225 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 10:20:53.835 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 10:20:53.895 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 10:21:03.781 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 10:21:03.825 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 10:21:13.664 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 10:21:13.724 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 10:21:23.839 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 10:21:23.902 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 10:21:25.376 [I]  获取灯助力数据服务 url：/api/plant/lamplest
+2019/06/05 10:27:30.197 [I]  登陆服务  url : /api/plant/Login
+2019/06/05 10:27:31.834 [I]  初始化服务 url：/api/plant/config
+2019/06/05 10:27:34.786 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 10:27:34.820 [I]  获取公告服务 url：/api/plant/TestServer
+2019/06/05 10:27:37.878 [I]  宝图服务 url：/api/plant/treasuremap
+2019/06/05 10:27:37.878 [I]  宝图服务 url：/api/plant/treasuremap 
+2019/06/05 10:27:48.238 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 10:27:48.354 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 10:27:51.720 [I]  获取灯助力数据服务 url：/api/plant/lamplest
+2019/06/05 10:27:58.243 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 10:27:58.312 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 10:28:08.252 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 10:28:08.316 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 10:28:18.263 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 10:28:18.303 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 10:28:28.300 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 10:28:28.349 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 10:28:38.245 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 10:28:38.304 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 10:28:48.271 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 10:28:48.309 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 10:28:58.245 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 10:28:58.295 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 10:29:08.548 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 10:29:08.595 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 10:29:34.045 [I]  获取灯助力数据服务 url：/api/plant/lamplest
+2019/06/05 10:30:21.737 [I]  获取灯助力数据服务 url：/api/plant/lamplest
+2019/06/05 10:32:07.135 [I]  获取灯助力数据服务 url：/api/plant/lamplest
+2019/06/05 10:32:51.035 [I]  登陆服务  url : /api/plant/Login
+2019/06/05 10:32:52.715 [I]  初始化服务 url：/api/plant/config
+2019/06/05 10:32:55.325 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 10:32:55.329 [I]  获取公告服务 url：/api/plant/TestServer
+2019/06/05 10:33:09.631 [I]  获取灯助力数据服务 url：/api/plant/lamplest
+2019/06/05 10:33:12.328 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 10:33:12.383 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 10:33:26.201 [I]  登陆服务  url : /api/plant/Login
+2019/06/05 10:35:17.935 [I]  登陆服务  url : /api/plant/Login
+2019/06/05 10:35:19.313 [I]  初始化服务 url：/api/plant/config
+2019/06/05 10:35:21.214 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 10:35:21.219 [I]  获取公告服务 url：/api/plant/TestServer
+2019/06/05 10:35:28.043 [I]  获取灯助力数据服务 url：/api/plant/lamplest
+2019/06/05 10:35:35.951 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 10:35:36.002 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 10:35:45.861 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 10:35:45.928 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 10:35:55.900 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 10:35:55.946 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 10:36:05.858 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 10:36:05.901 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 10:36:15.875 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 10:36:15.923 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 10:36:25.930 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 10:36:25.982 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 10:36:35.986 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 10:36:36.043 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 10:36:45.868 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 10:36:45.953 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 10:36:55.879 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 10:36:55.953 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 10:37:05.908 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 10:37:05.960 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 10:37:15.863 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 10:37:15.909 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 10:37:25.864 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 10:37:25.925 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 10:37:35.883 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 10:37:35.926 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 10:37:45.919 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 10:37:45.986 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 10:37:51.886 [I]  获取灯助力数据服务 url：/api/plant/lamplest
+2019/06/05 10:45:04.407 [I]  登陆服务  url : /api/plant/Login
+2019/06/05 10:45:05.936 [I]  初始化服务 url：/api/plant/config
+2019/06/05 10:45:08.017 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 10:45:08.035 [I]  获取公告服务 url：/api/plant/TestServer
+2019/06/05 10:45:22.937 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 10:45:23.029 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 10:45:24.372 [I]  获取灯助力数据服务 url：/api/plant/lamplest
+2019/06/05 10:45:33.038 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 10:45:33.091 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 10:45:58.508 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 10:46:02.881 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 10:46:02.933 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 10:46:12.910 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 10:46:12.981 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 10:46:22.869 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 10:46:22.922 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 10:46:32.879 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 10:46:32.930 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 10:46:42.913 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 10:46:42.973 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 10:46:52.847 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 10:46:52.895 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 10:47:02.829 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 10:47:02.906 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 10:47:12.919 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 10:47:13.000 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 10:50:39.589 [I]  登陆服务  url : /api/plant/Login
+2019/06/05 10:50:41.177 [I]  初始化服务 url：/api/plant/config
+2019/06/05 10:50:44.463 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 10:50:44.485 [I]  获取公告服务 url：/api/plant/TestServer
+2019/06/05 10:50:50.152 [I]  获取灯助力数据服务 url：/api/plant/lamplest
+2019/06/05 10:50:58.067 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 10:50:58.113 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 10:51:07.961 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 10:51:08.005 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 10:51:18.419 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 10:51:18.480 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 10:51:27.905 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 10:51:27.991 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 10:51:37.670 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 10:51:37.721 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 10:51:47.771 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 10:51:47.827 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 10:51:58.435 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 10:51:58.532 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 10:52:08.239 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 10:52:08.283 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 10:52:17.813 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 10:52:17.883 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 10:52:21.235 [I]  获取灯助力数据服务 url：/api/plant/lamplest
+2019/06/05 10:53:57.335 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 10:54:09.235 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 10:54:09.292 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 10:54:16.829 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 10:54:16.894 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 10:54:26.583 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 10:54:26.620 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 10:54:36.583 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 10:54:36.623 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 10:54:46.875 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 10:54:46.928 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 10:54:57.396 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 10:54:57.452 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 10:55:06.582 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 10:55:06.640 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 10:55:17.060 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 10:55:17.103 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 10:55:26.582 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 10:55:26.631 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 10:55:36.646 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 10:55:36.693 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 10:55:46.678 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 10:55:46.732 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 10:55:56.793 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 10:55:56.846 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 10:56:06.580 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 10:56:06.631 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 10:56:16.589 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 10:56:16.630 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 10:56:35.937 [I]  登陆服务  url : /api/plant/Login
+2019/06/05 10:56:37.165 [I]  初始化服务 url：/api/plant/config
+2019/06/05 10:56:38.911 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 10:56:38.917 [I]  获取公告服务 url：/api/plant/TestServer
+2019/06/05 10:56:53.449 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 10:56:53.496 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 10:57:03.392 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 10:57:03.442 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 10:57:13.417 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 10:57:13.464 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 10:57:23.391 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 10:57:23.433 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 10:57:33.489 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 10:57:33.546 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 10:57:43.420 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 10:57:43.480 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 10:57:53.455 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 10:57:53.513 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 10:58:03.491 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 10:58:03.533 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 10:58:07.961 [I]  获取灯助力数据服务 url：/api/plant/lamplest
+2019/06/05 10:58:13.434 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 10:58:13.489 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 11:08:07.697 [I]  登陆服务  url : /api/plant/Login
+2019/06/05 11:08:09.478 [I]  初始化服务 url：/api/plant/config
+2019/06/05 11:08:11.734 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 11:08:11.742 [I]  获取公告服务 url：/api/plant/TestServer
+2019/06/05 11:08:19.316 [I]  获取灯助力数据服务 url：/api/plant/lamplest
+2019/06/05 11:08:26.998 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 11:08:27.055 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 11:08:30.800 [I]  获取灯助力数据服务 url：/api/plant/lamplest
+2019/06/05 11:08:36.864 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 11:08:36.914 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 11:08:46.901 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 11:08:46.982 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 11:08:50.439 [I]  获取灯助力数据服务 url：/api/plant/lamplest
+2019/06/05 11:08:56.868 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 11:08:56.926 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 11:09:06.896 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 11:09:06.940 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 11:09:16.957 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 11:09:17.005 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 11:09:26.901 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 11:09:26.950 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 11:10:16.857 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 11:10:16.904 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 11:10:23.004 [I]  获取灯助力数据服务 url：/api/plant/lamplest
+2019/06/05 11:10:26.830 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 11:10:26.873 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 11:10:32.113 [I]  获取灯助力数据服务 url：/api/plant/lamplest
+2019/06/05 11:11:51.511 [I]  登陆服务  url : /api/plant/Login
+2019/06/05 11:11:53.422 [I]  初始化服务 url：/api/plant/config
+2019/06/05 11:11:55.475 [I]  获取公告服务 url：/api/plant/TestServer
+2019/06/05 11:11:55.475 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 11:12:09.701 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 11:12:09.750 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 11:17:33.090 [I]  登陆服务  url : /api/plant/Login
+2019/06/05 11:17:34.715 [I]  初始化服务 url：/api/plant/config
+2019/06/05 11:17:37.869 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 11:17:37.894 [I]  获取公告服务 url：/api/plant/TestServer
+2019/06/05 11:17:44.341 [I]  获取灯助力数据服务 url：/api/plant/lamplest
+2019/06/05 11:17:52.023 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 11:17:52.082 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 11:18:02.060 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 11:18:02.114 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 11:18:09.735 [I]  获取灯助力数据服务 url：/api/plant/lamplest
+2019/06/05 11:18:11.951 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 11:18:12.029 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 11:18:21.964 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 11:18:22.017 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 11:18:31.962 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 11:18:32.026 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 11:18:41.954 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 11:18:42.004 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 11:18:52.028 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 11:18:52.091 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 11:19:02.074 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 11:19:02.117 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 11:19:04.010 [I]  获取灯助力数据服务 url：/api/plant/lamplest
+2019/06/05 11:19:08.412 [I]  获取灯助力数据服务 url：/api/plant/lamplest
+2019/06/05 11:19:11.997 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 11:19:12.043 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 11:19:22.032 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 11:19:22.085 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 11:19:32.067 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 11:19:32.119 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 11:19:35.757 [I]  获取灯助力数据服务 url：/api/plant/lamplest
+2019/06/05 11:19:49.215 [I]  获取灯助力数据服务 url：/api/plant/lamplest
+2019/06/05 11:19:50.398 [I]  获取灯助力数据服务 url：/api/plant/lamplest
+2019/06/05 11:19:51.725 [I]  获取灯助力数据服务 url：/api/plant/lamplest
+2019/06/05 11:21:06.275 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 11:21:06.330 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 11:21:16.209 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 11:21:16.262 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 11:21:26.347 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 11:21:26.399 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 11:21:36.278 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 11:21:36.322 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 11:21:46.211 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 11:21:46.256 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 11:21:56.246 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 11:21:56.299 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 11:22:06.172 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 11:22:06.232 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 11:22:16.172 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 11:22:16.260 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 11:22:26.250 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 11:22:26.307 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 11:22:36.183 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 11:22:36.234 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 11:22:46.218 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 11:22:46.274 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 11:22:56.261 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 11:22:56.306 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 11:23:06.290 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 11:23:06.349 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 11:23:16.221 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 11:23:16.276 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 11:24:26.187 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 11:24:26.242 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 11:24:36.196 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 11:24:36.289 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 11:24:46.234 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 11:24:46.283 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 11:24:56.179 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 11:24:56.257 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 11:25:06.185 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 11:25:06.242 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 11:25:16.236 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 11:25:16.297 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 11:25:26.272 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 11:25:26.323 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 11:25:36.307 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 11:25:36.355 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 11:25:46.242 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 11:25:46.307 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 11:25:56.276 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 11:25:56.341 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 11:26:06.212 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 11:26:06.260 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 11:32:40.796 [I]  登陆服务  url : /api/plant/Login
+2019/06/05 11:32:42.302 [I]  初始化服务 url：/api/plant/config
+2019/06/05 11:32:44.344 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 11:32:44.349 [I]  获取公告服务 url：/api/plant/TestServer
+2019/06/05 11:32:58.682 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 11:32:58.719 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 11:33:05.648 [I]  获取灯助力数据服务 url：/api/plant/lamplest
+2019/06/05 11:33:08.718 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 11:33:27.468 [I]  获取灯助力数据服务 url：/api/plant/lamplest
+2019/06/05 11:33:27.535 [I]  获取灯助力数据服务 url：/api/plant/lamplest
+2019/06/05 11:33:28.620 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 11:33:28.663 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 11:33:36.877 [I]  登陆服务  url : /api/plant/Login
+2019/06/05 11:33:38.411 [I]  初始化服务 url：/api/plant/config
+2019/06/05 11:33:40.052 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 11:33:40.053 [I]  获取公告服务 url：/api/plant/TestServer
+2019/06/05 11:33:49.475 [I]  获取灯助力数据服务 url：/api/plant/lamplest
+2019/06/05 11:33:54.775 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 11:33:54.836 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 11:34:01.262 [I]  获取灯助力数据服务 url：/api/plant/lamplest
+2019/06/05 11:34:04.832 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 11:34:04.874 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 11:34:14.867 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 11:34:14.926 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 11:34:24.799 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 11:34:24.842 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 11:34:24.996 [I]  获取灯助力数据服务 url：/api/plant/lamplest
+2019/06/05 11:34:34.835 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 11:34:34.890 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 11:34:44.871 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 11:34:44.911 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 11:34:54.802 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 11:34:54.885 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 11:35:04.839 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 11:35:04.909 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 11:35:14.835 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 11:35:14.889 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 11:35:24.808 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 11:35:24.863 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 11:35:34.850 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 11:35:34.897 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 11:35:44.878 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 11:35:44.938 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 11:35:54.812 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 11:35:54.853 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 11:36:05.073 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 11:36:05.123 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 11:36:14.882 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 11:36:14.932 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 11:36:24.777 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 11:36:24.828 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 11:36:34.846 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 11:36:34.898 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 11:36:44.773 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 11:36:44.836 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 11:36:54.810 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 11:36:54.887 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 11:37:04.850 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 11:37:04.897 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 11:37:14.764 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 11:37:14.808 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 11:37:24.807 [I]  登陆服务  url : /api/plant/Login
+2019/06/05 11:37:26.560 [I]  初始化服务 url：/api/plant/config
+2019/06/05 11:37:28.694 [I]  获取公告服务 url：/api/plant/TestServer
+2019/06/05 11:37:28.694 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 11:37:43.802 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 11:37:43.867 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 11:37:53.800 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 11:37:53.902 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 11:38:01.192 [I]  登陆服务  url : /api/plant/Login
+2019/06/05 11:38:02.787 [I]  初始化服务 url：/api/plant/config
+2019/06/05 11:38:04.310 [I]  获取公告服务 url：/api/plant/TestServer
+2019/06/05 11:38:04.310 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 11:50:33.000 [I]  登陆服务  url : /api/plant/Login
+2019/06/05 11:50:34.408 [I]  初始化服务 url：/api/plant/config
+2019/06/05 11:50:36.563 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 11:50:36.580 [I]  获取公告服务 url：/api/plant/TestServer
+2019/06/05 11:50:50.791 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 11:50:50.868 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 11:51:00.724 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 11:51:00.777 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 11:51:10.758 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 11:51:10.809 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 11:51:20.696 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 11:51:20.747 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 11:51:30.698 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 11:51:30.773 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 11:51:40.699 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 11:51:40.748 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 11:51:50.718 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 11:51:50.763 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 11:52:01.113 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 11:52:01.157 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 11:52:10.701 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 11:52:10.749 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 11:52:20.796 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 11:52:20.848 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 11:52:30.698 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 11:52:30.751 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 11:52:40.760 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 11:52:40.815 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 11:52:50.797 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 11:52:50.853 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 11:53:00.690 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 11:53:00.778 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 11:53:10.763 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 11:53:10.836 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 11:53:20.797 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 11:53:20.849 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 11:53:30.697 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 11:53:30.758 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 11:53:40.692 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 11:53:40.748 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 11:53:50.820 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 11:53:50.882 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 11:54:00.732 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 11:54:00.772 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 11:54:10.691 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 11:54:10.736 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 11:54:20.695 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 11:54:20.745 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 11:54:30.691 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 11:54:30.752 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 11:54:40.692 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 11:54:40.749 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 11:54:50.688 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 11:54:50.746 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 11:55:00.737 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 11:55:00.787 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 11:55:10.769 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 11:55:10.816 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 11:55:20.701 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 11:55:20.741 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 11:55:30.686 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 11:55:30.749 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 11:55:40.770 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 11:55:40.842 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 11:55:50.705 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 11:55:50.757 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 11:56:00.738 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 11:56:00.783 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 11:56:10.689 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 11:56:10.732 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 11:56:20.705 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 11:56:20.759 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 11:56:30.687 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 11:56:30.729 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 11:56:40.775 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 11:56:40.856 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 11:56:50.709 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 11:56:50.759 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 11:57:00.742 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 11:57:00.792 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 11:57:10.682 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 11:57:10.726 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 11:57:20.709 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 11:57:20.763 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 11:57:30.678 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 11:57:30.729 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 11:57:40.680 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 11:57:40.742 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 11:57:50.684 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 11:57:50.739 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 11:58:00.710 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 11:58:00.769 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 11:58:10.765 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 11:58:10.801 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 11:58:20.727 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 11:58:20.774 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 11:58:30.683 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 11:58:30.724 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 11:58:40.789 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 11:58:40.842 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 13:55:15.047 [I]  登陆服务  url : /api/plant/Login
+2019/06/05 13:55:16.955 [I]  初始化服务 url：/api/plant/config
+2019/06/05 13:55:36.281 [I]  登陆服务  url : /api/plant/Login
+2019/06/05 13:55:37.999 [I]  初始化服务 url：/api/plant/config
+2019/06/05 13:55:52.252 [I]  登陆服务  url : /api/plant/Login
+2019/06/05 13:55:52.544 [I]  初始化服务 url：/api/plant/config
+2019/06/05 13:55:54.502 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 13:55:54.534 [I]  获取公告服务 url：/api/plant/TestServer
+2019/06/05 13:56:00.181 [I]  宝图服务 url：/api/plant/treasuremap
+2019/06/05 13:56:00.181 [I]  宝图服务 url：/api/plant/treasuremap 
+2019/06/05 13:56:10.591 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 13:56:10.662 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 13:56:20.571 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 13:56:20.645 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 13:56:21.358 [I]  获取灯助力数据服务 url：/api/plant/lamplest
+2019/06/05 13:56:28.130 [I]  获取灯助力数据服务 url：/api/plant/lamplest
+2019/06/05 13:56:30.571 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 13:56:30.661 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 13:56:40.610 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 13:56:40.708 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 13:56:50.575 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 13:56:50.652 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 13:57:53.609 [I]  获取灯助力数据服务 url：/api/plant/lamplest
+2019/06/05 13:57:59.431 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 13:57:59.763 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 13:58:09.347 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 13:58:09.456 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 13:58:19.408 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 13:58:19.488 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 13:58:27.818 [I]  获取灯助力数据服务 url：/api/plant/lamplest
+2019/06/05 13:58:29.376 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 13:58:29.448 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 13:58:31.974 [I]  获取灯助力数据服务 url：/api/plant/lamplest
+2019/06/05 13:58:39.387 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 13:58:39.492 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 13:58:49.395 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 13:58:49.512 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 14:01:05.070 [I]  登陆服务  url : /api/plant/Login
+2019/06/05 14:01:06.671 [I]  初始化服务 url：/api/plant/config
+2019/06/05 14:01:09.099 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 14:01:09.110 [I]  获取公告服务 url：/api/plant/TestServer
+2019/06/05 14:01:15.535 [I]  获取灯助力数据服务 url：/api/plant/lamplest
+2019/06/05 14:01:23.549 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 14:01:23.629 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 14:01:30.193 [I]  获取灯助力数据服务 url：/api/plant/lamplest
+2019/06/05 14:01:33.601 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 14:01:33.668 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 14:01:43.652 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 14:01:43.715 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 14:01:53.569 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 14:01:53.998 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 14:02:09.174 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 14:02:09.724 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 14:02:18.900 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 14:02:18.993 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 14:02:29.211 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 14:02:29.361 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 14:02:38.914 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 14:02:39.097 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 14:02:49.266 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 14:02:49.332 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 14:02:58.947 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 14:02:59.147 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 14:03:08.958 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 14:03:09.068 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 14:03:37.573 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 14:03:39.261 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 14:03:39.285 [I]  获取灯助力数据服务 url：/api/plant/lamplest
+2019/06/05 14:03:39.292 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 14:03:39.335 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 14:03:43.409 [I]  获取灯助力数据服务 url：/api/plant/lamplest
+2019/06/05 14:03:49.233 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 14:03:49.276 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 14:03:59.245 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 14:03:59.367 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 14:04:09.234 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 14:04:09.341 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 14:04:19.258 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 14:04:19.335 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 14:04:29.242 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 14:04:29.306 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 14:04:39.245 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 14:04:39.338 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 14:04:49.238 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 14:04:49.323 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 14:04:59.266 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 14:04:59.369 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 14:05:09.257 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 14:05:09.329 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 14:05:12.796 [I]  获取灯助力数据服务 url：/api/plant/lamplest
+2019/06/05 14:05:46.651 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 14:05:46.731 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 14:05:56.629 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 14:05:56.721 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 14:06:06.632 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 14:06:06.724 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 14:06:16.635 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 14:06:16.716 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 14:06:18.539 [I]  获取灯助力数据服务 url：/api/plant/lamplest
+2019/06/05 14:07:38.618 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 14:07:38.742 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 14:07:48.677 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 14:07:48.909 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 14:10:09.518 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 14:10:31.534 [I]  获取灯助力数据服务 url：/api/plant/lamplest
+2019/06/05 14:10:39.888 [I]  获取灯助力数据服务 url：/api/plant/lamplest
+2019/06/05 14:10:51.684 [I]  登陆服务  url : /api/plant/Login
+2019/06/05 14:10:55.611 [I]  获取灯助力数据服务 url：/api/plant/lamplest
+2019/06/05 14:11:41.647 [I]  登陆服务  url : /api/plant/Login
+2019/06/05 14:11:43.528 [I]  初始化服务 url：/api/plant/config
+2019/06/05 14:11:47.777 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 14:11:47.837 [I]  获取公告服务 url：/api/plant/TestServer
+2019/06/05 14:11:58.635 [I]  获取灯助力数据服务 url：/api/plant/lamplest
+2019/06/05 14:14:14.330 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 14:14:14.408 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 14:14:23.904 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 14:14:24.065 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 14:14:33.904 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 14:14:33.995 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 14:14:44.132 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 14:14:44.277 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 14:14:53.907 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 14:14:53.965 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 14:15:03.932 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 14:15:04.068 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 14:15:14.294 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 14:15:14.629 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 14:15:24.012 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 14:15:24.092 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 14:15:33.990 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 14:15:34.134 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 14:15:43.929 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 14:15:44.475 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 14:15:53.912 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 14:15:54.013 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 14:16:04.112 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 14:16:04.242 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 14:16:14.020 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 14:16:14.349 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 14:16:25.479 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 14:16:27.503 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 14:16:33.906 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 14:16:34.027 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 14:16:43.984 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 14:16:44.269 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 14:16:54.151 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 14:16:54.854 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 14:17:03.948 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 14:17:04.239 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 14:17:14.833 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 14:17:15.277 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 14:17:23.997 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 14:17:24.309 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 14:17:33.914 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 14:17:34.052 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 14:17:43.974 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 14:17:44.185 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 14:17:54.069 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 14:17:54.250 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 14:18:04.007 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 14:18:04.231 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 14:18:13.963 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 14:18:14.101 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 14:18:23.925 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 14:18:24.063 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 14:18:33.913 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 14:18:34.106 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 14:18:43.967 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 14:18:44.091 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 14:18:53.979 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 14:18:54.266 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 14:19:04.083 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 14:19:04.676 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 14:19:13.951 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 14:19:14.101 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 14:19:23.983 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 14:19:24.251 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 14:19:34.086 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 14:19:34.461 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 14:19:44.182 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 14:19:45.197 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 14:19:53.916 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 14:19:53.985 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 14:20:04.033 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 14:20:04.231 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 14:20:14.846 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 14:20:14.914 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 14:20:23.945 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 14:20:24.396 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 14:20:34.063 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 14:20:34.802 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 14:20:44.145 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 14:20:44.409 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 14:20:54.065 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 14:20:54.421 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 14:21:03.950 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 14:21:04.091 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 14:21:13.931 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 14:21:14.018 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 14:21:23.974 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 14:21:24.211 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 14:21:34.074 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 14:21:34.199 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 14:21:43.952 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 14:21:44.050 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 14:21:54.041 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 14:21:54.241 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 14:22:04.245 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 14:22:04.448 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 14:22:14.014 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 14:22:14.692 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 14:26:21.147 [I]  登陆服务  url : /api/plant/Login
+2019/06/05 14:26:23.739 [I]  初始化服务 url：/api/plant/config
+2019/06/05 14:26:51.686 [I]  登陆服务  url : /api/plant/Login
+2019/06/05 14:26:53.917 [I]  初始化服务 url：/api/plant/config
+2019/06/05 14:26:57.605 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 14:26:57.622 [I]  获取公告服务 url：/api/plant/TestServer
+2019/06/05 14:27:07.033 [I]  获取灯助力数据服务 url：/api/plant/lamplest
+2019/06/05 14:27:11.033 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 14:27:11.078 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 14:27:20.939 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 14:27:21.096 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 14:27:21.578 [I]  获取灯助力数据服务 url：/api/plant/lamplest
+2019/06/05 14:44:36.020 [I]  登陆服务  url : /api/plant/Login
+2019/06/05 14:44:57.762 [I]  登陆服务  url : /api/plant/Login
+2019/06/05 14:45:00.867 [I]  初始化服务 url：/api/plant/config
+2019/06/05 14:45:20.245 [I]  登陆服务  url : /api/plant/Login
+2019/06/05 14:45:22.001 [I]  初始化服务 url：/api/plant/config
+2019/06/05 14:45:26.835 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 14:45:26.871 [I]  获取公告服务 url：/api/plant/TestServer
+2019/06/05 14:45:39.741 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 14:45:39.829 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 14:45:49.687 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 14:45:49.837 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 14:46:00.345 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 14:46:00.500 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 14:46:03.032 [I]  转换错误
+2019/06/05 14:46:10.778 [I]  登陆服务  url : /api/plant/Login
+2019/06/05 14:46:13.013 [I]  初始化服务 url：/api/plant/config
+2019/06/05 14:46:31.961 [I]  登陆服务  url : /api/plant/Login
+2019/06/05 14:46:35.326 [I]  初始化服务 url：/api/plant/config
+2019/06/05 14:46:49.686 [I]  登陆服务  url : /api/plant/Login
+2019/06/05 14:46:51.317 [I]  初始化服务 url：/api/plant/config
+2019/06/05 14:47:12.630 [I]  登陆服务  url : /api/plant/Login
+2019/06/05 14:47:13.984 [I]  初始化服务 url：/api/plant/config
+2019/06/05 14:47:29.315 [I]  登陆服务  url : /api/plant/Login
+2019/06/05 14:47:30.255 [I]  初始化服务 url：/api/plant/config
+2019/06/05 14:48:01.629 [I]  登陆服务  url : /api/plant/Login
+2019/06/05 14:48:03.731 [I]  初始化服务 url：/api/plant/config
+2019/06/05 14:48:31.861 [I]  获取灯助力数据服务 url：/api/plant/lamplest
+2019/06/05 14:48:33.149 [I]  登陆服务  url : /api/plant/Login
+2019/06/05 14:48:34.145 [I]  初始化服务 url：/api/plant/config
+2019/06/05 14:48:35.979 [I]  获取灯助力数据服务 url：/api/plant/lamplest
+2019/06/05 14:48:38.344 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 14:48:38.370 [I]  获取公告服务 url：/api/plant/TestServer
+2019/06/05 14:53:43.980 [I]  登陆服务  url : /api/plant/Login
+2019/06/05 14:53:46.049 [I]  初始化服务 url：/api/plant/config
+2019/06/05 14:53:49.262 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 14:53:49.307 [I]  获取公告服务 url：/api/plant/TestServer
+2019/06/05 14:53:56.444 [I]  获取灯助力数据服务 url：/api/plant/lamplest
+2019/06/05 14:54:00.739 [I]  获取灯助力数据服务 url：/api/plant/lamplest
+2019/06/05 14:54:03.109 [I]  获取灯助力数据服务 url：/api/plant/lamplest
+2019/06/05 14:54:04.105 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 14:54:17.428 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 14:54:17.491 [I]  获取灯助力数据服务 url：/api/plant/lamplest
+2019/06/05 14:54:17.543 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 14:54:19.276 [I]  获取灯助力数据服务 url：/api/plant/lamplest
+2019/06/05 14:54:24.117 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 14:54:24.212 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 14:54:34.168 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 14:54:34.261 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 14:54:44.248 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 14:54:44.387 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 14:54:54.142 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 14:54:54.249 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 14:55:04.226 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 14:55:04.305 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 14:55:14.137 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 14:55:14.217 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 14:55:24.111 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 14:55:24.157 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 14:55:34.179 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 15:17:11.990 [I]  登陆服务  url : /api/plant/Login
+2019/06/05 15:17:14.301 [I]  初始化服务 url：/api/plant/config
+2019/06/05 15:17:18.364 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 15:17:18.416 [I]  获取公告服务 url：/api/plant/TestServer
+2019/06/05 15:17:27.850 [I]  获取灯助力数据服务 url：/api/plant/lamplest
+2019/06/05 15:17:34.966 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 15:17:35.028 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 15:17:43.934 [I]  获取灯助力数据服务 url：/api/plant/lamplest
+2019/06/05 15:17:44.982 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 15:17:45.047 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 15:17:54.970 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 15:17:55.091 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 15:18:04.948 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 15:18:05.002 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 15:18:09.440 [I]  获取灯助力数据服务 url：/api/plant/lamplest
+2019/06/05 15:20:47.411 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 15:20:47.529 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 15:20:57.382 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 15:20:57.451 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 15:21:07.434 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 15:21:07.518 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 15:21:10.243 [I]  获取灯助力数据服务 url：/api/plant/lamplest
+2019/06/05 15:24:08.540 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 15:24:08.624 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 15:24:15.363 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 15:24:15.412 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 15:24:25.378 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 15:24:25.496 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 15:25:08.206 [I]  登陆服务  url : /api/plant/Login
+2019/06/05 15:25:29.733 [I]  登陆服务  url : /api/plant/Login
+2019/06/05 15:25:30.198 [I]  初始化服务 url：/api/plant/config
+2019/06/05 15:25:33.207 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 15:25:33.216 [I]  获取公告服务 url：/api/plant/TestServer
+2019/06/05 15:25:41.948 [I]  获取灯助力数据服务 url：/api/plant/lamplest
+2019/06/05 15:25:52.941 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 15:25:53.009 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 15:25:54.760 [I]  获取灯助力数据服务 url：/api/plant/lamplest
+2019/06/05 15:26:06.154 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 15:26:06.259 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 15:26:07.971 [I]  获取灯助力数据服务 url：/api/plant/lamplest
+2019/06/05 15:26:13.678 [I]  获取灯助力数据服务 url：/api/plant/lamplest
+2019/06/05 15:26:29.021 [I]  获取灯助力数据服务 url：/api/plant/lamplest
+2019/06/05 15:26:29.066 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 15:26:29.079 [I]  获取灯助力数据服务 url：/api/plant/lamplest
+2019/06/05 15:26:33.008 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 15:26:42.064 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 15:26:42.106 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 15:26:44.792 [I]  获取灯助力数据服务 url：/api/plant/lamplest
+2019/06/05 15:36:51.867 [I]  登陆服务  url : /api/plant/Login
+2019/06/05 15:36:53.440 [I]  初始化服务 url：/api/plant/config
+2019/06/05 15:36:55.981 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 15:36:56.024 [I]  获取公告服务 url：/api/plant/TestServer
+2019/06/05 15:37:00.551 [I]  宝图服务 url：/api/plant/treasuremap
+2019/06/05 15:37:00.552 [I]  宝图服务 url：/api/plant/treasuremap 
+2019/06/05 15:37:10.914 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 15:37:11.001 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 15:37:26.703 [I]  登陆服务  url : /api/plant/Login
+2019/06/05 15:37:28.356 [I]  初始化服务 url：/api/plant/config
+2019/06/05 15:37:31.474 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 15:37:31.481 [I]  获取公告服务 url：/api/plant/TestServer
+2019/06/05 15:37:59.333 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 15:37:59.440 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 15:38:10.513 [I]  登陆服务  url : /api/plant/Login
+2019/06/05 15:38:12.426 [I]  初始化服务 url：/api/plant/config
+2019/06/05 15:38:14.924 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 15:38:14.924 [I]  获取公告服务 url：/api/plant/TestServer
+2019/06/05 15:38:36.495 [I]  登陆服务  url : /api/plant/Login
+2019/06/05 15:38:37.497 [I]  初始化服务 url：/api/plant/config
+2019/06/05 15:38:39.109 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 15:38:39.109 [I]  获取公告服务 url：/api/plant/TestServer
+2019/06/05 15:40:23.643 [I]  登陆服务  url : /api/plant/Login
+2019/06/05 15:40:24.972 [I]  初始化服务 url：/api/plant/config
+2019/06/05 15:40:26.997 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 15:40:26.999 [I]  获取公告服务 url：/api/plant/TestServer
+2019/06/05 15:46:29.525 [I]  登陆服务  url : /api/plant/Login
+2019/06/05 15:46:31.464 [I]  初始化服务 url：/api/plant/config
+2019/06/05 15:46:33.512 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 15:46:33.521 [I]  获取公告服务 url：/api/plant/TestServer
+2019/06/05 15:46:38.636 [I]  宝图服务 url：/api/plant/treasuremap
+2019/06/05 15:46:38.636 [I]  宝图服务 url：/api/plant/treasuremap 
+2019/06/05 15:46:49.086 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 15:46:49.134 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 15:46:59.049 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 15:46:59.127 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 15:47:15.249 [I]  登陆服务  url : /api/plant/Login
+2019/06/05 15:47:16.761 [I]  初始化服务 url：/api/plant/config
+2019/06/05 15:47:18.818 [I]  获取公告服务 url：/api/plant/TestServer
+2019/06/05 15:47:18.818 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 15:48:05.136 [I]  登陆服务  url : /api/plant/Login
+2019/06/05 15:48:06.759 [I]  初始化服务 url：/api/plant/config
+2019/06/05 15:48:09.951 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 15:48:09.951 [I]  获取公告服务 url：/api/plant/TestServer
+2019/06/05 15:53:58.340 [I]  登陆服务  url : /api/plant/Login
+2019/06/05 15:54:00.579 [I]  初始化服务 url：/api/plant/config
+2019/06/05 15:54:03.446 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 15:54:03.452 [I]  获取公告服务 url：/api/plant/TestServer
+2019/06/05 15:54:32.323 [I]  宝图服务 url：/api/plant/treasuremap
+2019/06/05 15:54:32.323 [I]  宝图服务 url：/api/plant/treasuremap 
+2019/06/05 15:54:42.872 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 15:54:42.926 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 15:54:45.297 [I]  获取灯助力数据服务 url：/api/plant/lamplest
+2019/06/05 15:54:52.865 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 15:55:31.828 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 15:57:56.097 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 15:58:04.390 [I]  登陆服务  url : /api/plant/Login
+2019/06/05 15:58:06.134 [I]  初始化服务 url：/api/plant/config
+2019/06/05 15:58:08.589 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 15:58:08.595 [I]  获取公告服务 url：/api/plant/TestServer
+2019/06/05 15:58:14.511 [I]  获取灯助力数据服务 url：/api/plant/lamplest
+2019/06/05 15:58:20.162 [I]  获取灯助力数据服务 url：/api/plant/lamplest
+2019/06/05 15:58:22.723 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 15:58:22.771 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 15:58:32.652 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 15:58:32.708 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 15:58:42.701 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 15:58:42.765 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 15:58:49.937 [I]  获取灯助力数据服务 url：/api/plant/lamplest
+2019/06/05 15:58:52.828 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 15:58:52.876 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 15:59:02.762 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 15:59:02.843 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 15:59:12.688 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 15:59:12.746 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 15:59:52.525 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 15:59:52.598 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 16:01:18.951 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 16:01:19.016 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 16:04:07.087 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 16:04:14.521 [I]  登陆服务  url : /api/plant/Login
+2019/06/05 16:04:16.609 [I]  初始化服务 url：/api/plant/config
+2019/06/05 16:04:19.856 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 16:04:19.861 [I]  获取公告服务 url：/api/plant/TestServer
+2019/06/05 16:04:28.896 [I]  获取灯助力数据服务 url：/api/plant/lamplest
+2019/06/05 16:04:36.006 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 16:04:36.055 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 16:04:45.993 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 16:04:46.040 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 16:04:55.994 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 16:04:56.076 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 16:07:22.849 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 16:11:12.324 [I]  登陆服务  url : /api/plant/Login
+2019/06/05 16:11:14.094 [I]  初始化服务 url：/api/plant/config
+2019/06/05 16:11:16.531 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 16:11:16.548 [I]  获取公告服务 url：/api/plant/TestServer
+2019/06/05 16:11:23.491 [I]  获取灯助力数据服务 url：/api/plant/lamplest
+2019/06/05 16:11:29.461 [I]  获取灯助力数据服务 url：/api/plant/lamplest
+2019/06/05 16:11:31.724 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 16:11:31.771 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 16:11:41.953 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 16:11:42.006 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 16:11:51.739 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 16:11:51.795 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 16:12:01.742 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 16:12:01.814 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 16:12:11.728 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 16:12:11.792 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 16:12:21.780 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 16:12:21.852 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 16:12:31.805 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 16:12:41.892 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 16:12:41.950 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 16:12:51.779 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 16:12:51.824 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 16:13:35.094 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 16:13:35.149 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 16:13:44.995 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 16:13:45.044 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 16:13:55.064 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 16:13:55.123 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 16:14:05.099 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 16:14:05.151 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 16:14:25.067 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 16:14:25.108 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 16:14:35.101 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 16:14:35.160 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 16:14:45.237 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 16:14:45.293 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 16:14:54.952 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 16:14:55.009 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 16:15:05.037 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 16:15:05.082 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 16:15:15.141 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 16:15:15.217 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 16:15:24.923 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 16:15:24.983 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 16:15:34.926 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 16:15:34.989 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 16:15:44.998 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 16:15:45.055 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 16:23:33.723 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 16:23:33.801 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 16:23:43.669 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 16:23:43.747 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 16:23:53.710 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 16:24:03.650 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 16:24:03.713 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 16:24:13.658 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 16:24:13.715 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 16:24:23.694 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 16:24:23.740 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 16:24:33.606 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 16:24:33.657 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 16:24:43.592 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 16:24:43.652 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 16:24:53.720 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 16:24:53.775 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 16:25:03.666 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 16:25:03.717 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 16:25:13.675 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 16:25:13.736 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 16:25:23.604 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 16:25:23.679 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 16:25:33.664 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 16:25:33.730 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 16:25:43.688 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 16:25:43.760 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 16:25:53.726 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 16:25:53.773 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 16:26:03.624 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 16:26:03.734 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 16:26:13.621 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 16:26:13.692 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 16:26:23.750 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 16:26:23.816 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 16:26:33.624 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 16:27:13.729 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 16:27:13.784 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 16:27:23.740 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 16:27:23.792 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 16:27:33.692 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 16:27:33.771 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 16:27:43.729 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 16:27:43.803 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 16:27:53.775 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 16:27:53.823 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 16:28:03.701 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 16:28:03.766 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 16:28:13.739 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 16:28:13.795 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 16:28:23.648 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 16:28:23.721 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 16:28:33.709 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 16:28:33.775 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 16:28:43.659 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 16:29:08.544 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 16:29:08.606 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 16:29:13.789 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 16:29:13.863 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 16:29:23.789 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 16:29:23.870 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 16:29:32.193 [I]  获取灯助力数据服务 url：/api/plant/lamplest
+2019/06/05 16:29:33.827 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 16:29:33.871 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 16:29:40.892 [I]  获取灯助力数据服务 url：/api/plant/lamplest
+2019/06/05 16:29:43.760 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 16:29:43.818 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 16:29:53.885 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 16:29:54.215 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 16:29:54.419 [I]  获取灯助力数据服务 url：/api/plant/lamplest
+2019/06/05 16:30:03.707 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 16:30:03.752 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 16:30:10.350 [I]  登陆服务  url : /api/plant/Login
+2019/06/05 16:30:12.248 [I]  初始化服务 url：/api/plant/config
+2019/06/05 16:30:14.391 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 16:30:14.399 [I]  获取公告服务 url：/api/plant/TestServer
+2019/06/05 16:30:20.834 [I]  获取灯助力数据服务 url：/api/plant/lamplest
+2019/06/05 16:30:29.328 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 16:30:29.376 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 16:30:39.353 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 16:30:39.398 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 16:30:49.407 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 16:30:49.458 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 16:30:59.350 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 16:30:59.417 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 16:31:09.330 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 16:31:09.372 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 16:31:19.412 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 16:31:19.470 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 16:31:29.345 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 16:31:29.407 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 16:31:39.382 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 16:31:39.459 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 16:32:27.725 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 16:32:27.793 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 16:32:37.971 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 16:32:38.025 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 16:33:03.840 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 16:33:03.948 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 16:33:14.008 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 16:33:14.080 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 16:33:24.202 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 16:33:24.328 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 16:33:34.309 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 16:33:34.383 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 16:33:37.024 [I]  获取灯助力数据服务 url：/api/plant/lamplest
+2019/06/05 16:33:44.143 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 16:33:44.191 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 16:33:54.145 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 16:33:54.240 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 16:34:04.190 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 16:34:04.241 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 16:34:14.279 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 16:34:14.361 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 16:34:24.163 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 16:34:24.206 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 16:34:31.362 [I]  获取灯助力数据服务 url：/api/plant/lamplest
+2019/06/05 16:37:45.687 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 16:37:45.741 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 16:41:31.838 [I]  登陆服务  url : /api/plant/Login
+2019/06/05 16:41:33.450 [I]  初始化服务 url：/api/plant/config
+2019/06/05 16:41:35.901 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 16:41:35.909 [I]  获取公告服务 url：/api/plant/TestServer
+2019/06/05 16:41:43.384 [I]  获取灯助力数据服务 url：/api/plant/lamplest
+2019/06/05 16:41:51.101 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 16:41:51.167 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 16:42:01.125 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 16:42:01.199 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 16:42:11.106 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 16:42:11.158 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 16:42:21.175 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 16:42:21.212 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 16:42:54.961 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 16:42:55.002 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 16:43:04.890 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 16:43:04.943 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 16:43:14.927 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 16:43:14.973 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 16:43:24.961 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 16:43:25.020 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 16:43:34.894 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 16:43:34.945 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 16:43:44.929 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 16:43:44.973 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 16:43:54.865 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 16:43:54.929 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 16:44:04.900 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 16:44:04.945 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 16:44:14.937 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 16:44:15.000 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 16:44:24.869 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 16:44:24.932 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 16:44:34.912 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 16:44:34.959 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 16:44:44.857 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 16:44:44.908 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 16:44:54.976 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 16:44:55.048 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 16:45:04.859 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 16:45:04.919 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 16:45:14.925 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 16:45:14.981 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 16:45:25.083 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 16:45:25.129 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 16:45:34.912 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 16:45:34.973 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 16:45:44.956 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 16:45:45.015 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 16:45:54.873 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 16:45:54.940 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 16:46:04.944 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 16:46:05.059 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 16:46:14.960 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 16:46:15.019 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 16:46:24.996 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 16:46:25.043 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 16:47:29.540 [I]  登陆服务  url : /api/plant/Login
+2019/06/05 16:47:31.247 [I]  初始化服务 url：/api/plant/config
+2019/06/05 16:47:33.729 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 16:47:33.736 [I]  获取公告服务 url：/api/plant/TestServer
+2019/06/05 16:47:41.388 [I]  获取灯助力数据服务 url：/api/plant/lamplest
+2019/06/05 16:47:48.658 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 16:47:48.711 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 16:47:58.690 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 16:47:58.742 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 16:48:08.734 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 16:48:08.793 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 16:48:18.502 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 16:48:18.541 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 16:48:28.477 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 16:48:28.544 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 16:48:37.369 [I]  获取灯助力数据服务 url：/api/plant/lamplest
+2019/06/05 17:08:27.964 [I]  登陆服务  url : /api/plant/Login
+2019/06/05 17:08:30.619 [I]  初始化服务 url：/api/plant/config
+2019/06/05 17:08:32.965 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 17:08:32.983 [I]  获取公告服务 url：/api/plant/TestServer
+2019/06/05 17:08:40.346 [I]  获取灯助力数据服务 url：/api/plant/lamplest
+2019/06/05 17:08:48.796 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 17:08:48.882 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 17:10:03.809 [I]  登陆服务  url : /api/plant/Login
+2019/06/05 17:10:04.222 [I]  初始化服务 url：/api/plant/config
+2019/06/05 17:10:07.950 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 17:10:07.982 [I]  获取公告服务 url：/api/plant/TestServer
+2019/06/05 17:10:14.048 [I]  宝图服务 url：/api/plant/treasuremap
+2019/06/05 17:10:14.048 [I]  宝图服务 url：/api/plant/treasuremap 
+2019/06/05 17:10:24.799 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 17:10:24.856 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 17:10:27.864 [I]  获取灯助力数据服务 url：/api/plant/lamplest
+2019/06/05 17:10:34.731 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 17:10:34.806 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 17:10:44.792 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 17:10:45.173 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 17:10:54.610 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 17:10:54.719 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 17:10:57.105 [I]  获取灯助力数据服务 url：/api/plant/lamplest
+2019/06/05 17:11:00.018 [I]  获取灯助力数据服务 url：/api/plant/lamplest
+2019/06/05 17:11:04.589 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 17:11:04.628 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 17:11:13.283 [I]  获取灯助力数据服务 url：/api/plant/lamplest
+2019/06/05 17:11:14.581 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 17:11:14.634 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 17:11:24.806 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 17:11:24.868 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 17:11:31.545 [I]  获取灯助力数据服务 url：/api/plant/lamplest
+2019/06/05 17:11:33.328 [I]  获取灯助力数据服务 url：/api/plant/lamplest
+2019/06/05 17:11:34.581 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 17:11:34.630 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 17:11:34.827 [I]  获取灯助力数据服务 url：/api/plant/lamplest
+2019/06/05 17:11:44.667 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 17:11:44.719 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 17:11:54.708 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 17:11:54.757 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 17:12:04.746 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 17:12:04.795 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 17:12:14.777 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 17:12:14.856 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 17:13:13.459 [I]  获取灯助力数据服务 url：/api/plant/lamplest
+2019/06/05 17:13:14.066 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 17:13:14.128 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 17:13:25.024 [I]  登陆服务  url : /api/plant/Login
+2019/06/05 17:13:26.302 [I]  初始化服务 url：/api/plant/config
+2019/06/05 17:13:28.606 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 17:13:28.617 [I]  获取公告服务 url：/api/plant/TestServer
+2019/06/05 17:13:36.418 [I]  获取灯助力数据服务 url：/api/plant/lamplest
+2019/06/05 17:13:44.891 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 17:13:44.942 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 17:13:53.998 [I]  登陆服务  url : /api/plant/Login
+2019/06/05 17:13:54.932 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 17:13:54.986 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 17:14:04.856 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 17:14:04.902 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 17:14:14.893 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 17:14:14.944 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 17:17:51.052 [I]  登陆服务  url : /api/plant/Login
+2019/06/05 17:17:53.092 [I]  初始化服务 url：/api/plant/config
+2019/06/05 17:17:55.141 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 17:17:55.148 [I]  获取公告服务 url：/api/plant/TestServer
+2019/06/05 17:18:03.128 [I]  获取灯助力数据服务 url：/api/plant/lamplest
+2019/06/05 17:18:11.115 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 17:18:11.170 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 17:18:21.045 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 17:18:21.106 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 17:18:33.741 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 17:18:49.714 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 17:18:49.779 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 17:18:59.339 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 17:18:59.401 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 17:19:09.275 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 17:19:09.333 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 17:19:19.611 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 17:19:43.083 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 17:19:49.818 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 17:19:50.124 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 17:19:59.544 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 17:19:59.606 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 17:20:01.707 [I]  获取灯助力数据服务 url：/api/plant/lamplest
+2019/06/05 17:20:09.578 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 17:20:09.632 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 17:20:15.404 [I]  获取灯助力数据服务 url：/api/plant/lamplest
+2019/06/05 17:20:19.519 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 17:20:19.573 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 17:20:20.757 [I]  获取灯助力数据服务 url：/api/plant/lamplest
+2019/06/05 17:20:29.527 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 17:20:29.594 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 17:20:39.533 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 17:20:39.591 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 17:20:49.576 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 17:20:49.622 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 17:20:59.558 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 17:20:59.598 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 17:21:00.915 [I]  获取灯助力数据服务 url：/api/plant/lamplest
+2019/06/05 17:21:09.579 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 17:21:09.628 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 17:23:34.370 [I]  登陆服务  url : /api/plant/Login
+2019/06/05 17:23:36.413 [I]  初始化服务 url：/api/plant/config
+2019/06/05 17:23:39.278 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 17:23:39.294 [I]  获取公告服务 url：/api/plant/TestServer
+2019/06/05 17:23:48.201 [I]  宝图服务 url：/api/plant/treasuremap
+2019/06/05 17:23:48.201 [I]  宝图服务 url：/api/plant/treasuremap 
+2019/06/05 17:23:58.655 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 17:23:58.722 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 17:23:59.581 [I]  获取灯助力数据服务 url：/api/plant/lamplest
+2019/06/05 17:24:19.948 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 17:24:19.997 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 17:24:29.964 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 17:24:30.031 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 17:24:39.940 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 17:24:40.078 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 17:24:49.930 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 17:24:49.996 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 17:24:59.926 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 17:24:59.979 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 17:41:59.822 [I]  登陆服务  url : /api/plant/Login
+2019/06/05 17:43:57.303 [I]  登陆服务  url : /api/plant/Login
+2019/06/05 17:48:45.053 [I]  登陆服务  url : /api/plant/Login
+2019/06/05 17:50:29.005 [I]  登陆服务  url : /api/plant/Login
+2019/06/05 17:50:32.112 [I]  初始化服务 url：/api/plant/config
+2019/06/05 17:50:34.147 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 17:50:34.156 [I]  获取公告服务 url：/api/plant/TestServer
+2019/06/05 17:50:45.150 [I]  获取灯助力数据服务 url：/api/plant/lamplest
+2019/06/05 17:50:49.075 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 17:50:49.173 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 17:50:59.201 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 17:50:59.313 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 17:51:09.140 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 17:51:09.204 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 17:51:12.111 [I]  获取灯助力数据服务 url：/api/plant/lamplest
+2019/06/05 17:51:19.075 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 17:51:19.199 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 17:51:29.109 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 17:51:29.173 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 17:51:55.617 [I]  获取灯助力数据服务 url：/api/plant/lamplest
+2019/06/05 17:51:55.814 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 17:51:55.874 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 17:52:05.877 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 17:52:05.938 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 17:52:12.240 [I]  获取灯助力数据服务 url：/api/plant/lamplest
+2019/06/05 17:52:15.907 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 17:52:15.953 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 17:52:25.841 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 17:52:25.880 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 17:52:38.017 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 17:52:40.176 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 17:52:50.714 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 17:52:52.262 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 17:53:01.986 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 17:53:02.101 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 17:53:11.915 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 17:53:11.956 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 17:53:21.946 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 17:53:22.044 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 17:53:31.990 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 17:53:32.124 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 17:53:41.924 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 17:53:42.075 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 17:53:52.277 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 17:53:52.419 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 17:54:01.989 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 17:54:02.045 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 17:54:07.106 [I]  获取灯助力数据服务 url：/api/plant/lamplest
+2019/06/05 17:54:11.927 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 17:54:11.974 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 17:54:14.263 [I]  获取灯助力数据服务 url：/api/plant/lamplest
+2019/06/05 17:54:24.109 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 17:54:24.150 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 17:54:34.152 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 17:54:34.257 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 17:55:42.683 [I]  登陆服务  url : /api/plant/Login
+2019/06/05 17:58:38.525 [I]  登陆服务  url : /api/plant/Login
+2019/06/05 18:02:17.013 [I]  登陆服务  url : /api/plant/Login
+2019/06/05 18:02:17.606 [I]  初始化服务 url：/api/plant/config
+2019/06/05 18:02:20.367 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 18:02:20.402 [I]  获取公告服务 url：/api/plant/TestServer
+2019/06/05 18:02:32.965 [I]  宝图服务 url：/api/plant/treasuremap
+2019/06/05 18:02:32.968 [I]  宝图服务 url：/api/plant/treasuremap 
+2019/06/05 18:02:43.844 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 18:02:44.019 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 18:02:47.913 [I]  获取灯助力数据服务 url：/api/plant/lamplest
+2019/06/05 18:02:50.684 [I]  获取灯助力数据服务 url：/api/plant/lamplest
+2019/06/05 18:02:54.054 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 18:02:54.162 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 18:03:03.997 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 18:03:04.070 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 18:03:13.932 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 18:03:14.013 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 18:03:24.059 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 18:03:24.148 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 18:03:34.106 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 18:03:34.276 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 18:03:44.047 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 18:03:44.124 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 18:03:54.088 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 18:03:54.179 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 18:04:04.096 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 18:04:04.183 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 18:04:14.072 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 18:04:14.145 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 18:04:16.512 [I]  登陆服务  url : /api/plant/Login
+2019/06/05 18:04:24.057 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 18:04:24.183 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 18:04:34.145 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 18:04:34.616 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 18:04:43.419 [I]  获取灯助力数据服务 url：/api/plant/lamplest
+2019/06/05 18:04:44.219 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 18:04:44.340 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 18:04:54.219 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 18:04:54.305 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 18:05:04.268 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 18:05:04.364 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 18:05:14.332 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 18:05:14.441 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 18:05:24.391 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 18:05:24.907 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 18:05:34.452 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 18:05:34.623 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 18:05:44.451 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 18:05:44.589 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 18:05:54.440 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 18:05:54.546 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 18:06:04.500 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 18:06:04.622 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 18:06:14.468 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 18:06:14.578 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 18:06:24.520 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 18:06:24.684 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 18:06:34.524 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 18:06:34.603 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 18:06:44.560 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 18:06:44.638 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 18:06:54.597 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 18:06:54.682 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 18:07:04.630 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 18:07:04.716 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 18:07:14.780 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 18:07:14.876 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 18:07:24.598 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 18:07:24.674 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 18:07:34.745 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 18:07:34.818 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 18:07:44.873 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 18:07:44.966 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 18:07:54.863 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 18:07:54.959 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 18:08:04.824 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 18:08:04.901 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 18:08:14.878 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 18:08:14.973 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 18:13:12.863 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 18:13:12.930 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 18:13:22.987 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 18:13:23.073 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 18:13:32.946 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 18:13:33.050 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 18:13:42.872 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 18:13:42.951 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 18:13:46.556 [I]  获取灯助力数据服务 url：/api/plant/lamplest
+2019/06/05 18:13:52.901 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 18:13:52.988 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 18:13:59.314 [I]  获取灯助力数据服务 url：/api/plant/lamplest
+2019/06/05 18:14:03.039 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 18:14:03.327 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 18:14:11.644 [I]  获取灯助力数据服务 url：/api/plant/lamplest
+2019/06/05 18:14:13.075 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 18:14:13.146 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 18:14:20.419 [I]  获取灯助力数据服务 url：/api/plant/lamplest
+2019/06/05 18:14:23.015 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 18:14:23.091 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 18:14:33.144 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 18:14:33.248 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 18:37:51.118 [I]  登陆服务  url : /api/plant/Login
+2019/06/05 18:37:52.343 [I]  初始化服务 url：/api/plant/config
+2019/06/05 18:37:55.618 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 18:37:55.634 [I]  获取公告服务 url：/api/plant/TestServer
+2019/06/05 18:38:12.521 [I]  获取灯助力数据服务 url：/api/plant/lamplest
+2019/06/05 18:38:15.687 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 18:38:15.792 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 18:38:25.412 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 18:38:25.501 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 18:38:26.030 [I]  获取灯助力数据服务 url：/api/plant/lamplest
+2019/06/05 18:38:35.553 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 18:38:35.645 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 18:38:45.501 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 18:38:45.586 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 18:38:55.521 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 18:38:55.614 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 18:39:05.558 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 18:39:05.673 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 18:39:15.592 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 18:39:15.702 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 18:39:25.626 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 18:39:26.036 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 18:39:35.560 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 18:39:35.780 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 18:39:45.594 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 18:39:45.682 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 18:39:56.245 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 18:39:56.350 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 18:40:05.663 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 18:40:05.769 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 18:40:15.600 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 18:40:15.804 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 18:40:25.635 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 18:40:25.729 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 18:40:36.088 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 18:40:36.195 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 18:40:46.113 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 18:40:46.197 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 18:40:56.149 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 18:40:56.255 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 18:41:06.083 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 18:41:06.193 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 18:41:16.116 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 18:41:16.221 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 18:41:26.137 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 18:41:26.357 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 18:41:35.983 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 18:41:36.189 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 18:41:46.119 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 18:41:46.326 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 18:41:56.154 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 18:41:56.264 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 18:42:06.190 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 18:42:06.304 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 18:42:16.056 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 18:42:16.137 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 18:42:26.167 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 18:42:26.260 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 18:42:48.146 [I]  登陆服务  url : /api/plant/Login
+2019/06/05 18:42:48.599 [I]  初始化服务 url：/api/plant/config
+2019/06/05 18:42:52.578 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 18:42:52.587 [I]  获取公告服务 url：/api/plant/TestServer
+2019/06/05 18:43:13.171 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 18:43:13.368 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 18:43:23.195 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 18:43:23.328 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 18:43:25.254 [I]  获取灯助力数据服务 url：/api/plant/lamplest
+2019/06/05 18:43:33.231 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 18:43:33.333 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 18:43:35.177 [I]  获取灯助力数据服务 url：/api/plant/lamplest
+2019/06/05 18:43:43.265 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 18:43:43.353 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 18:43:47.236 [I]  获取灯助力数据服务 url：/api/plant/lamplest
+2019/06/05 18:43:53.116 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 18:43:53.208 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 18:44:03.238 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 18:44:03.344 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 18:44:13.269 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 18:44:13.357 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 18:44:23.203 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 18:44:23.325 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 18:44:33.238 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 18:44:33.343 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 18:44:43.375 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 18:44:43.580 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 18:44:49.313 [I]  获取灯助力数据服务 url：/api/plant/lamplest
+2019/06/05 18:44:53.222 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 18:44:53.311 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 18:45:03.351 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 18:45:03.438 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 18:45:13.276 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 18:45:13.377 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 18:45:23.276 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 18:45:23.374 [I]  同步数据服务 url : /api/plant/PostTest
+2019/06/05 18:45:33.345 [I]  时间戳服务 url：/api/plant/nowtime
+2019/06/05 18:45:33.417 [I]  同步数据服务 url : /api/plant/PostTest
+2019/08/02 15:48:51.984 [I]  初始化服务 url：/api/plant/config
+2019/08/02 15:49:02.509 [I]  时间戳服务 url：/api/plant/nowtime
+2019/08/02 15:54:33.108 [I]  登陆服务  url : /api/plant/Login
+2019/08/02 15:54:34.128 [I]  初始化服务 url：/api/plant/config
+2019/08/02 15:55:42.418 [I]  登陆服务  url : /api/plant/Login
+2019/08/02 15:55:43.628 [I]  初始化服务 url：/api/plant/config
+2019/08/02 16:00:14.564 [I]  登陆服务  url : /api/plant/Login
+2019/08/02 16:00:15.439 [I]  初始化服务 url：/api/plant/config
+2019/08/02 16:02:50.901 [I]  登陆服务  url : /api/plant/Login
+2019/08/02 16:02:51.762 [I]  初始化服务 url：/api/plant/config
+2019/08/02 16:06:24.176 [I]  登陆服务  url : /api/plant/Login
+2019/08/02 16:06:24.899 [I]  初始化服务 url：/api/plant/config
+2019/08/02 16:19:16.403 [I]  登陆服务  url : /api/plant/Login
+2019/08/02 16:19:17.512 [I]  初始化服务 url：/api/plant/config
+2019/08/02 16:23:18.885 [I]  登陆服务  url : /api/plant/Login
+2019/08/02 16:23:19.613 [I]  初始化服务 url：/api/plant/config
+2019/08/02 16:32:34.597 [I]  登陆服务  url : /api/plant/Login
+2019/08/02 16:32:35.531 [I]  初始化服务 url：/api/plant/config
+2019/08/02 16:46:30.327 [I]  登陆服务  url : /api/plant/Login
+2019/08/02 16:46:31.131 [I]  初始化服务 url：/api/plant/config
+2019/08/02 17:16:21.506 [I]  登陆服务  url : /api/plant/Login
+2019/08/02 17:17:37.304 [I]  登陆服务  url : /api/plant/Login
+2019/08/02 17:17:38.457 [I]  初始化服务 url：/api/plant/config
+2019/08/02 17:17:40.316 [I]  时间戳服务 url：/api/plant/nowtime
+2019/08/02 17:17:40.317 [I]  获取公告服务 url：/api/plant/TestServer
+2019/08/02 17:17:53.906 [I]  登陆服务  url : /api/plant/Login
+2019/08/02 17:17:54.293 [I]  初始化服务 url：/api/plant/config
+2019/08/02 17:17:55.676 [I]  时间戳服务 url：/api/plant/nowtime
+2019/08/02 17:17:55.677 [I]  获取公告服务 url：/api/plant/TestServer
+2019/08/02 17:20:32.270 [I]  登陆服务  url : /api/plant/Login
+2019/08/02 17:20:32.947 [I]  初始化服务 url：/api/plant/config
+2019/08/02 17:20:34.548 [I]  时间戳服务 url：/api/plant/nowtime
+2019/08/02 17:20:34.550 [I]  获取公告服务 url：/api/plant/TestServer
+2019/08/02 17:24:01.573 [I]  登陆服务  url : /api/plant/Login
+2019/08/02 17:24:02.275 [I]  初始化服务 url：/api/plant/config
+2019/08/02 17:24:03.789 [I]  时间戳服务 url：/api/plant/nowtime
+2019/08/02 17:24:03.793 [I]  获取公告服务 url：/api/plant/TestServer
+2019/08/02 17:27:59.868 [I]  登陆服务  url : /api/plant/Login
+2019/08/02 17:28:00.526 [I]  初始化服务 url：/api/plant/config
+2019/08/02 17:28:02.067 [I]  时间戳服务 url：/api/plant/nowtime
+2019/08/02 17:28:02.068 [I]  获取公告服务 url：/api/plant/TestServer
+2019/08/02 17:29:11.798 [I]  登陆服务  url : /api/plant/Login
+2019/08/02 17:29:12.463 [I]  初始化服务 url：/api/plant/config
+2019/08/02 17:29:14.040 [I]  时间戳服务 url：/api/plant/nowtime
+2019/08/02 17:29:14.045 [I]  获取公告服务 url：/api/plant/TestServer
+2019/08/02 17:29:53.841 [I]  登陆服务  url : /api/plant/Login
+2019/08/02 17:29:54.498 [I]  初始化服务 url：/api/plant/config
+2019/08/02 17:29:56.056 [I]  时间戳服务 url：/api/plant/nowtime
+2019/08/02 17:29:56.058 [I]  获取公告服务 url：/api/plant/TestServer
+2019/08/02 17:31:35.026 [I]  登陆服务  url : /api/plant/Login
+2019/08/02 17:31:35.770 [I]  初始化服务 url：/api/plant/config
+2019/08/02 17:31:37.707 [I]  时间戳服务 url：/api/plant/nowtime
+2019/08/02 17:31:37.707 [I]  获取公告服务 url：/api/plant/TestServer
+2019/08/02 17:38:36.000 [I]  登陆服务  url : /api/plant/Login
+2019/08/02 17:38:36.708 [I]  初始化服务 url：/api/plant/config
+2019/08/02 17:38:38.343 [I]  时间戳服务 url：/api/plant/nowtime
+2019/08/02 17:38:38.344 [I]  获取公告服务 url：/api/plant/TestServer

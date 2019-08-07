@@ -1,0 +1,173 @@
+syntax = "proto3";
+
+package go.micro.srv.data;
+
+service Example {
+    rpc Data (Request) returns (Response) {
+    }
+
+    //登陆服务
+    rpc LoginLamp (LoginLampRequest) returns (LoginLampResponse) {
+    }
+    //拉取邀请新人列表服务
+    rpc PullNewLamp (PullNewLampRequest) returns (PullNewLampResponse) {
+    }
+    //初始化服务
+    rpc ConfigLamp (ConfigLampRequest) returns (ConfigLampResponse) {
+    }
+    //金币变化服务
+    rpc GoldLamp (GoldLampRequest) returns (GoldLampResponse) {
+    }
+    //服务器排名服务
+    rpc RankingLamp (RankingLampRequest) returns (RankingLampResponse) {
+    }
+    //关卡服务
+    rpc CheckpointLamp (CheckpointLampRequest) returns (CheckpointLampResponse) {
+    }
+    //设置灯服务
+    rpc SetLamp (SetLampRequest) returns (SetLampResponse) {
+    }
+    //获取灯列表服务
+    rpc GetLamp (GetLampRequest) returns (GetLampResponse) {
+    }
+    //购买灯服务
+    rpc BuyLamp (BuyLampRequest) returns (BuyLampResponse) {
+    }
+}
+
+message Request {
+    bytes data = 1;
+}
+
+message Response {
+    string Errno = 1;
+    string Errmsg = 2;
+}
+
+//###########################################################
+
+//login的参数
+message LoginLampRequest {
+    bytes data = 1;
+}
+
+message LoginLampResponse {
+    string skey = 1;
+    string Errno = 2;
+    string Errmsg = 3;
+}
+
+message data{
+    string MaxLevel =1;
+    string CurrentLevel =2;
+    string CurrentLampCode =3;
+    string UserMoney =4;
+
+}
+
+//Config方法的参数
+message ConfigLampRequest {
+    string skey = 1;
+}
+
+message ConfigLampResponse {
+    data datalist = 1;
+    string Errno = 2;
+    string Errmsg = 3;
+}
+
+message new {
+    string name = 1;
+    string url = 2;
+    string GetStatus = 3;
+}
+
+message lamp{
+
+    string LampId    =1;
+    string LampPrice =2;
+    string LampUrl   =3;
+    string IsHave    =4;
+}
+
+//拉取邀请新人列表服务参数
+message PullNewLampRequest {
+    string skey = 1;
+    string url =2;
+}
+
+message PullNewLampResponse {
+    repeated new newlist = 1;
+    string UserMoney = 2;
+    string Errno = 3;
+    string Errmsg = 4;
+}
+
+//金币变化服务
+message GoldLampRequest {
+    string skey = 1;
+    string type = 2;
+    string number = 3;
+}
+
+message GoldLampResponse {
+    repeated new newlist = 1;
+    string Errno = 2;
+    string Errmsg = 3;
+}
+
+//服务器排名服务
+message RankingLampRequest {
+    string skey = 1;
+}
+
+message RankingLampResponse {
+    repeated new newlist = 1;
+    string Errno = 2;
+    string Errmsg = 3;
+}
+
+//关卡服务
+message CheckpointLampRequest {
+    string skey = 1;
+    string code = 2;
+}
+
+message CheckpointLampResponse {
+    string Errno = 1;
+    string Errmsg = 2;
+}
+
+//设置灯服务
+message SetLampRequest {
+    string skey = 1;
+    string code = 2;
+}
+
+message SetLampResponse {
+    string Errno = 1;
+    string Errmsg = 2;
+}
+
+//获取灯列表服务
+message GetLampRequest {
+    string skey = 1;
+}
+
+message GetLampResponse {
+    repeated lamp lamplist = 1;
+    string Errno = 2;
+    string Errmsg = 3;
+}
+
+//购买灯服务
+message BuyLampRequest {
+    string skey = 1;
+    string code = 2;
+}
+
+message BuyLampResponse {
+    string UserMoney = 1;
+    string Errno = 2;
+    string Errmsg = 3;
+}
